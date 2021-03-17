@@ -1,0 +1,27 @@
+[39]
+--
+_COM&Aacute;LA:
+A
+DRAMATIC POEM.
+_
+
+THE PERSONS.
+FINGAL. MELILCOMA,   daughters of Morni.
+HIDALLAN. DERSAGRENA,
+COMALA. BARDS.
+
+%{Dersagrena.}
+{The} chace is over. No noiſe on Ardven
+but the torrent's roar! Daughter of
+Morni, come ſrom Crona's banks. Lay down
+the bow and take the harp. Let the night
+come on with ſongs, Let our joy be great on
+Ardven.
+%{Melilcoma @0*.}
+{Night} comes apace, thou blue-eyed maid ;
+grey night grows dim along the plain. I ſaw a
+==
+@0 Melilcoma, — {{ſoft-rolling eye}}.
+==
+D 4 deer
+

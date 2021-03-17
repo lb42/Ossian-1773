@@ -1,0 +1,163 @@
+ %chars = (
+aacute => "á",
+acirc => "â",
+agrave => "à",
+AElig  => "Æ",
+Aacute => "Á",
+Agrave => "À",
+Auml => "Ä",
+Oacute => "Ó",
+aelig => "æ",
+auml => "ä",
+eacute => "é",
+mdash => "—",
+oacute => "ó",
+ocirc => "ô",
+uacute  => "ú",
+ubreve => "ŭ",
+ugrave  => "ù",
+end => "</p></div>",
+amp => "&amp;"
+);
+
+
+# need to do something about \ at start of verse lines
+
+
+# read in filenames
+#   sharp indicates required output file
+
+while (<>) {
+if ( /\#([\w\-]+)/) {
+   if (length($textStream) gt 1) {
+      flushIt();
+      }
+   $fileName = $1;
+   print "$fileName\n";;
+   open(OUT, '>', $fileName . '.xml') || die "cannot open $text.xml";
+   print OUT "<body>\n";
+   } else {
+      chop;
+      $file = $_;
+      close(IN) ;
+    print "$file\n";
+       open(IN,'<', $file) || die "No file $file\n"; 
+       pushPB();
+       $state=0;
+       while (<IN>) {
+       	     chop();  
+	     if (s/^--//)
+	     	{ if($state ne 1) {$state = 1; }
+		   else {$state = 3; }
+		} elsif (s/^==//) 
+	     	   { if ($state ne 2)
+		      { $state= 2 ; }	   
+		       else {$state = 3; }
+		   }		   
+
+	    if ($state eq 1) { pushText();
+	     } elsif ($state eq 2) { pushNotes();
+	     # } elsif ($state eq 0) {
+	     } else { pushSkip();
+	     }
+       } #end file  
+}}
+
+flushIt();
+
+
+sub flushIt {
+
+$text=doRefs(doIt($textStream));
+print OUT $text . "<\/p><\/div>\n";
+$noteStream = doNotes(doIt($noteStream));
+$noteStream =~ s/<\/p><\/note>//; # remove very first endtag
+$noteStream =~ s/\$/<\/p><\/sp>/g; # add endtags 
+
+print OUT "<div type='notes'>" . $noteStream . "<\/p><\/note><\/div><\/body>\n";
+$textStream="";
+$noteStream="";
+}
+
+sub pushText {
+$textStream .= $_;
+$textStream .= "|";
+}
+
+sub pushNotes {
+$noteStream .= $_;
+$noteStream .= "|";
+}
+
+sub pushSkip {
+$textStream .= "<!-- ";
+$textStream .= $_;
+$textStream .= " -->\n";
+}
+
+sub pushPB {
+$textStream .= "<pb n='";
+$textStream .= $file;
+$textStream .= "'\/>\n";
+}
+
+
+sub doIt {
+my $t = @_[0];
+
+#print "doing: $t \n";
+
+# invalid unicode chars
+$t =~ s///g;
+
+# rendition flags
+$t =~ s/{{/\<hi>/g;
+$t =~ s/}}/<\/hi>/g;
+$t =~ s/{/\<sc>/g;
+$t =~ s/}/<\/sc>/g;
+
+# quotemarks
+$t =~ s/``\s?/“/g;
+$t =~ s/\s?\"/”/g;
+
+#entity refs
+if ($t =~ /\&/ ) {$t =~ s/\&([^;]+)\;/$chars{$1}/g; }
+
+#speaker labels
+$t =~ s/\%([^|]+)/<\/p><\/sp>\<sp>\<speaker>$1<\/speaker><p>/g;
+
+#headings
+$t =~ s/_([^_]+)_/<div><head>\1<\/head><p>/g;
+
+#end of div (only one permitted)
+$t =~ s/\-\=/<\/p><\/div>/;
+
+#endofline hyphen and linebreak removed
+$t =~ s/\-\|//g;
+
+#blank line becomes parabreak unless before note
+$t =~ s/\|\|\@/\|\@/g;
+$t =~ s/\|\|/<\/p><p>/g;
+
+#remove all remaining linebreaks 
+$t =~ s/\|/ /g;
+
+#print "Done=",$t,"\n";
+
+return $t;
+}
+
+
+
+sub doRefs {
+my $t = @_[0];
+$t=~s/\s*\@(\d+)/\<ptr target\=\'\#N_\1'\/>/g;
+return $t;
+}
+
+sub doNotes {
+my $t = @_[0];
+$t=~s/\@(\d+)/<\/p><\/note>\<note xml:id\=\'N_\1'\><p>/g;
+return $t;
+}
+

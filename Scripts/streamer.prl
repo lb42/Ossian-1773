@@ -69,6 +69,8 @@ flushIt();
 sub flushIt {
 
 $text=doRefs(doIt($textStream));
+$text =~ s/<\/p><\/sp>//; #remove first endtags if sp present
+$text =~ s/\$/<\/p><\/sp>/g; # add endtags 
 print OUT $text . "<\/p><\/div>\n";
 $noteStream = doNotes(doIt($noteStream));
 $noteStream =~ s/<\/p><\/note>//; # remove very first endtag
@@ -111,9 +113,9 @@ my $t = @_[0];
 $t =~ s///g;
 
 # rendition flags
-$t =~ s/{{/\<hi>/g;
+$t =~ s/\{\{/\<hi>/g;
 $t =~ s/}}/<\/hi>/g;
-$t =~ s/{/\<sc>/g;
+$t =~ s/\{/\<sc>/g;
 $t =~ s/}/<\/sc>/g;
 
 # quotemarks
@@ -136,7 +138,7 @@ $t =~ s/\-\=/<\/p><\/div>/;
 $t =~ s/\-\|//g;
 
 #blank line becomes parabreak unless before note
-$t =~ s/\|\|\@/\|\@/g;
+$t =~ s/\|\|\s*\@/\|\@/g;
 $t =~ s/\|\|/<\/p><p>/g;
 
 #remove all remaining linebreaks 

@@ -3,13 +3,11 @@
 _COM&Aacute;LA:
 A
 DRAMATIC POEM.
-_
-
-THE PERSONS.
+THE PERSONS._
 FINGAL. MELILCOMA,   daughters of Morni.
 HIDALLAN. DERSAGRENA,
 COMALA. BARDS.
-
+&end;
 %{Dersagrena.}
 {The} chace is over. No noiſe on Ardven
 but the torrent's roar! Daughter of

@@ -1,6 +1,6 @@
 42 COMALA:
 --
-%{Hidallan} @5+.
+%{Hidallan} @5.
 {Dwell}, thou miſt of gloomy Crona, dwell
 on the path of the king. Hide his ſteps from
 mine eyes, let me remember my friend no more,
@@ -22,7 +22,7 @@ from her rock ! Her red eye dim in tears, her
 bluſhing cheek half hid in her locks! Blow, O
 gentle breeze, lift thou the heavy locks of the
 ==
-+@5 Hidallan was ſent by Fingal to give notice to Comala
+@5 Hidallan was ſent by Fingal to give notice to Comala
 of his return ; he, to revenge himſelf on her for ſlighting his
 love ſome time before, told her that the king was killed in
 battle. He even pretended that he carried his body from the

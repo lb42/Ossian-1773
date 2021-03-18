@@ -4,7 +4,7 @@ _CARRIC-THURA:
 A
 POEM._
 
-{Hast}@1+ thou left thy blue courſe in hea-
+{Hast}@1 thou left thy blue courſe in hea-
 ven, golden-haired ſon of the ſky ! The
 weſt has opened its gates ; the bed of thy repoſe
 is there, The waves come to behold thy beauty.
@@ -21,7 +21,7 @@ Raiſe the ſong, O bards, the king is returned,
 with his fame!
 
 ==
-@1+ The ſong of Ullin, with which the poem opens, is in a
+@1 The ſong of Ullin, with which the poem opens, is in a
 lyric meaſure. It was uſual with Fingal, when he returned
 from his expeditions, to ſend his bards ſinging beſore him.
 This ſpecies of triumph is called, by Oſſian, the {{ſong of victory}}.

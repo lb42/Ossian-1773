@@ -3,6 +3,5 @@ _A
 DISSERTATION
 CONCERNING THE
 &AElig;RA of OSSIAN._
-&end;
 --
 P 2

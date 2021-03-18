@@ -17,7 +17,7 @@ Morni, come ſrom Crona's banks. Lay down
 the bow and take the harp. Let the night
 come on with ſongs, Let our joy be great on
 Ardven.
-%{Melilcoma @0*.}
+%{Melilcoma @0.}
 {Night} comes apace, thou blue-eyed maid ;
 grey night grows dim along the plain. I ſaw a
 ==

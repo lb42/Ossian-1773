@@ -1,7 +1,7 @@
 A DRAMATIC POEM. 41
 ---
 %{Comala.}
-{O Carun} @4* of the ſtreams! why do I behold
+{O Carun} @4 of the ſtreams! why do I behold
 thy waters rolling in blood? Has the noiſe of
 the battle been heard; and ſleeps the king of
 Morven? Riſe, moon, thou daughter of the
@@ -17,7 +17,7 @@ in the midſt of his hoſt ; bright as the coming
 forth of the morning, in the cloud of an early
 ſhower.
 ==
-@4* Carun or Cara'on, {{a winding river}}. &mdash; This river re-
+@4 Carun or Cara'on, {{a winding river}}. &mdash; This river re-
 tains ſtill the name of Carron, and falls into the Forth ſome
 miles to the North of Falkirk.
 

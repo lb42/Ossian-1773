@@ -1,3 +1,4 @@
+*73100001
 #prelims
 1773-014.pbm.txt
 1773-017.pbm.txt
@@ -13,6 +14,7 @@
 1773-048.pbm.txt
 1773-051.pbm.txt
 #cathloda
+*73110001
 1773-054.pbm.txt
 1773-057.pbm.txt
 1773-060.pbm.txt
@@ -39,7 +41,7 @@
 1773-123.pbm.txt
 1773-126.pbm.txt
 1773-130.pbm.txt
-1773-130.pbm.txt
+1773-132.pbm.txt
 1773-133.pbm.txt
 1773-136.pbm.txt
 1773-139.pbm.txt
@@ -49,8 +51,8 @@
 1773-151.pbm.txt
 1773-154.pbm.txt
 1773-158.pbm.txt
-1773-158.pbm.txt
 #comala
+1773-160.pbm.txt
 1773-161.pbm.txt
 1773-164.pbm.txt
 1773-167.pbm.txt

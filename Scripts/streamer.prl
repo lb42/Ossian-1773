@@ -28,18 +28,13 @@ $pbStart = 7300001;
 #   sharp indicates required output file
 
 while (<>) {
-if ( /\#([\w\-]+)/) {
+if (/\*(\d+)/) {
+$pbStart = $1;
+} elsif ( /\#([\w\-]+)/) {
    if (length($textStream) gt 1) {
       flushIt();
-      if ($pbStart lt 7310000) {
-      $pbStart = 7310001;
-      } # reset after prelims
-}
-     
-     
-   $fileName = $1;
-#   $pbStart++;
-   
+    } 
+    $fileName = $1;
    print "$fileName $pbStart\n";
    
    open(OUT, '>', $fileName . '.xml') || die "cannot open $text.xml";

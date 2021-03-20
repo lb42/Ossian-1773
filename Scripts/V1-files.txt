@@ -270,6 +270,7 @@
 1773-756.pbm.txt
 1773-760.pbm.txt
 #fingal-2
+1773-762.pbm.txt
 1773-763.pbm.txt
 1773-766.pbm.txt
 1773-769.pbm.txt
@@ -307,6 +308,7 @@
 1773-860.pbm.txt
 1773-863.pbm.txt
 1773-866.pbm.txt
+1773-869.pbm.txt
 #fingal-4
 1773-870.pbm.txt
 1773-873.pbm.txt
@@ -325,6 +327,7 @@
 1773-912.pbm.txt
 1773-915.pbm.txt
 1773-918.pbm.txt
+1773-blank.txt
 #fingal-5
 1773-922.pbm.txt
 1773-925.pbm.txt
@@ -342,8 +345,8 @@
 1773-961.pbm.txt
 1773-964.pbm.txt
 1773-967.pbm.txt
-1773-970.pbm.txt
 #fingal-6
+1773-970.pbm.txt
 1773-973.pbm.txt
 1773-976.pbm.txt
 1773-979.pbm.txt
@@ -359,8 +362,8 @@
 1773-1009.pbm.txt
 1773-1012.pbm.txt
 1773-1015.pbm.txt
-1773-1018.pbm.txt
 #lathmon
+1773-1018.pbm.txt
 1773-1021.pbm.txt
 1773-1024.pbm.txt
 1773-1027.pbm.txt
@@ -381,6 +384,7 @@
 1773-1072.pbm.txt
 1773-1076.pbm.txt
 #darthula
+1773-1078.pbm.txt
 1773-1079.pbm.txt
 1773-1082.pbm.txt
 1773-1085.pbm.txt
@@ -403,6 +407,7 @@
 1773-1136.pbm.txt
 1773-1139.pbm.txt
 1773-1142.pbm.txt
+1773-blank.txt
 #deathcuthullin
 1773-1146.pbm.txt
 1773-1149.pbm.txt
@@ -419,6 +424,7 @@
 1773-1182.pbm.txt
 1773-1185.pbm.txt
 1773-1188.pbm.txt
+1773-blank.txt
 #battleoflora
 1773-1192.pbm.txt
 1773-1195.pbm.txt

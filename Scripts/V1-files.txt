@@ -205,8 +205,8 @@
 1773-569.pbm.txt
 1773-572.pbm.txt
 1773-576.pbm.txt
-1773-576.pbm.txt
 #sulmalla
+1773-578.pbm.txt
 1773-579.pbm.txt
 1773-582.pbm.txt
 1773-585.pbm.txt

@@ -1,9 +1,8 @@
 --
-_FINGAL,
+FINGAL,
 AN ANCIENT
 EPIC POEM.
 BOOK II.
-&end;
 --
 R 2
 

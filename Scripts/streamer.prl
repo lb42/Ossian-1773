@@ -20,7 +20,7 @@ end => "</p></div>",
 amp => "&amp;"
 );
 
-
+$pbStart = 7300001;
 # need to do something about \ at start of verse lines
 
 
@@ -31,9 +31,17 @@ while (<>) {
 if ( /\#([\w\-]+)/) {
    if (length($textStream) gt 1) {
       flushIt();
-      }
+      if ($pbStart lt 7310000) {
+      $pbStart = 7310001;
+      } # reset after prelims
+}
+     
+     
    $fileName = $1;
-   print "$fileName\n";;
+#   $pbStart++;
+   
+   print "$fileName $pbStart\n";
+   
    open(OUT, '>', $fileName . '.xml') || die "cannot open $text.xml";
    print OUT "<body>\n";
    } else {
@@ -98,9 +106,14 @@ $textStream .= " -->\n";
 }
 
 sub pushPB {
+$f = $file;
+$f =~ s/\.txt//;
 $textStream .= "<pb n='";
-$textStream .= $file;
+$textStream .= $pbStart;
+$textStream .= "' facs='";
+$textStream .= $f;
 $textStream .= "'\/>\n";
+$pbStart++;
 }
 
 

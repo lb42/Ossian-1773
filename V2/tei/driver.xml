@@ -1,0 +1,16 @@
+<bodies xmlns:xi="http://www.w3.org/2001/XInclude">
+<xi:include href="prelims.xml"/>
+<xi:include href="temora-1.xml"/>
+<xi:include href="temora-2.xml"/>
+<xi:include href="temora-3.xml"/>
+<xi:include href="temora-4.xml"/>
+<xi:include href="temora-5.xml"/>
+<xi:include href="temora-6.xml"/>
+<xi:include href="temora-7.xml"/>
+<xi:include href="temora-8.xml"/>
+<xi:include href="conlath.xml"/>
+<xi:include href="berrathon.xml"/>
+<xi:include href="dissAera.xml"/>
+ <xi:include href="dissPoems.xml"/>
+<!-- <xi:include href="criticalDiss.xml"/>-->
+</bodies>

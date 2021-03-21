@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+ <fileDesc>
+  <titleStmt>
+   <title>The Poems of Ossian : TEI edition</title>
+   <editor>Lou Burnard</editor>
+   <respStmt>
+    <resp>transcribed and encoded by</resp>
+    <name>Lou Burnard</name>
+   </respStmt>
+  </titleStmt>
+  <editionStmt>
+   <edition n="1.0">Prepared for Ossian Online (http://ossianonline.org/)</edition>
+  </editionStmt>
+  <publicationStmt>
+   <p>Distributed via the GitHub repository https://github.com/lb42/Ossian_1773</p>
+   <p>Ossian Online is licensed under a Creative Commons Attribution-ShareAlike 4.0 International
+    License</p>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl> <title>The poems of Ossian. Translated by James Macpherson esq... A new edition, carefully
+    corrected and greatly improved</title> <pubPlace>London</pubPlace> <publisher>Printed for W
+    Strahan and T. Becket in the Strand...</publisher> <date when="1773">MDCCLXXIII</date> <ref
+    target="NLS:poemsofossiantra10macp.pdf">NLS digital facsimile (Vol 1)</ref> <ref
+    target="NLS:poemsofossiantra11macp.pdf">NLS digital facsimile (Vol 2)</ref> </bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <editorialDecl>
+   <!-- Some, but not all, of the following principles, taken from other Ossian Online documents, have been applied -->
+   <!--  <normalization method="silent">
+    <p>Spacing between words and punctuation marks has been regularised to zero spaces.
+     Spacing following full stops has been regularised to one space.</p>
+   </normalization>
+   <normalization method="silent">
+    <p>The long s in the source text has been regularised to the modern short s.</p>
+   </normalization>-->
+   <normalization>
+    <p>Spacing between punctuation marks and words has been retained, except for double quotes, and
+     foot note sigla. Linebreaks in the source have been removed. Long S and other unusual
+     characters preserved where a Unicode representation exists.</p>
+   </normalization>
+   <normalization method="silent">
+    <p>Decorative and functional features of the source copies have not been encoded and reproduced.
+     These include printers' ornaments and rules, running titles, catchwords, signature marks, and
+     press figures.</p>
+   </normalization>
+   <!-- <normalization method="silent">
+    <p>Common eighteenth-century ligatures are transcribed as their constituent individual
+     letters. The exceptions to this are the &#xe6; and &#x153; ligatures (in upper- and
+     lower-case) which are used in Latin and foreign words (and English words deriving from
+     same).</p>
+   </normalization>-->
+   <hyphenation eol="some">
+    <p>End-of-line hyphenation silently removed where appropriate(not in cases where the hyphenation
+     would be preserved if occuring mid-line).</p>
+   </hyphenation>
+   <hyphenation>
+    <p>Where a hyphenated word straddles a page-break in the source text, the complete word is
+     encoded before the page-break in the XML file.</p>
+   </hyphenation>
+   <quotation marks="some">
+    <p>Quotation marks are retained in the text
+     <!--with one exception: the convention of
+     repeating opening quotation marks at the beginning of each new typographic line in
+     passages that span more than one typographic line is not preserved. In these instances,
+     only the opening and closing quotation marks are preserved.-->
+     as given in the source.</p>
+   </quotation>
+  </editorialDecl>
+ </encodingDesc>
+ <profileDesc>
+  <langUsage>
+   <language ident="en">English</language>
+   <language ident="la">Latin</language>
+   <language ident="el">Greek</language>
+   <language ident="gd">Gaelic (Scottish)</language>
+  </langUsage>
+ </profileDesc>
+ <revisionDesc>
+
+  <change>LB : initial upload : 2021-03-17</change>
+ </revisionDesc>
+</teiHeader>

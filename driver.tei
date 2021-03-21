@@ -1,0 +1,53 @@
+<!-- 1773 vol 1 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <xi:include href="teiHeader.xml"/>
+ <text>
+  <xi:include href="V1/tei/prelims.xml"/>
+ <group> 
+  <group><!-- 1773 vol 1 -->
+   <xi:include href="V1/tei/cathloda.xml"/>
+   <xi:include href="V1/tei/comala.xml"/>
+   <xi:include href="V1/tei/carricthura.xml"/>
+   <xi:include href="V1/tei/carthon.xml"/>
+   <xi:include href="V1/tei/oinamorul.xml"/>
+   <xi:include href="V1/tei/colnadona.xml"/>
+   <xi:include href="V1/tei/oithona.xml"/>
+   <xi:include href="V1/tei/croma.xml"/>
+   <xi:include href="V1/tei/calthon.xml"/>
+   <xi:include href="V1/tei/warofc.xml"/>
+   <xi:include href="V1/tei/cathlin.xml"/>
+   <xi:include href="V1/tei/sulmalla.xml"/>
+   <xi:include href="V1/tei/warofin.xml"/>
+   <xi:include href="V1/tei/songsofselma.xml"/>
+   <xi:include href="V1/tei/fingal-1.xml"/>
+   <xi:include href="V1/tei/fingal-2.xml"/>
+   <xi:include href="V1/tei/fingal-3.xml"/>
+   <xi:include href="V1/tei/fingal-4.xml"/>
+   <xi:include href="V1/tei/fingal-5.xml"/>
+   <xi:include href="V1/tei/fingal-6.xml"/>
+   <xi:include href="V1/tei/lathmon.xml"/>
+   <xi:include href="V1/tei/darthula.xml"/>
+   <xi:include href="V1/tei/deathcuthullin.xml"/>
+   <xi:include href="V1/tei/battleoflora.xml"/>
+  </group>
+  <group> <!-- 1773 vol 2 -->
+  <xi:include href="V2/tei/prelims.xml"/>
+<xi:include href="V2/tei/temora-1.xml"/>
+<xi:include href="V2/tei/temora-2.xml"/>
+<xi:include href="V2/tei/temora-3.xml"/>
+<xi:include href="V2/tei/temora-4.xml"/>
+<xi:include href="V2/tei/temora-5.xml"/>
+<xi:include href="V2/tei/temora-6.xml"/>
+<xi:include href="V2/tei/temora-7.xml"/>
+<xi:include href="V2/tei/temora-8.xml"/>
+<xi:include href="V2/tei/conlath.xml"/>
+<xi:include href="V2/tei/berrathon.xml"/>
+   <xi:include href="V2/tei/dissAera.xml"/>
+   <xi:include href="V2/tei/dissPoems.xml"/>
+   <!-- <xi:include href="V2/tei/criticalDiss.xml"/>-->
+ </group>
+  </group>
+ </text>
+
+
+</TEI>

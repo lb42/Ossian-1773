@@ -38,7 +38,7 @@ $pbStart = $1;
    print "$fileName $pbStart\n";
    
    open(OUT, '>', $fileName . '.xml') || die "cannot open $text.xml";
-   print OUT "<body>\n";
+   print OUT "<body xmlns='http://www.tei-c.org/ns/1.0'>\n";
    } else {
       chop;
       $file = $_;

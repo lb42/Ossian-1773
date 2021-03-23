@@ -3,7 +3,6 @@
  <fileDesc>
   <titleStmt>
    <title>The Poems of Ossian : TEI edition</title>
-   <editor>Lou Burnard</editor>
    <respStmt>
     <resp>transcribed and encoded by</resp>
     <name>Lou Burnard</name>
@@ -21,6 +20,8 @@
    <bibl> <title>The poems of Ossian. Translated by James Macpherson esq... A new edition, carefully
     corrected and greatly improved</title> <pubPlace>London</pubPlace> <publisher>Printed for W
     Strahan and T. Becket in the Strand...</publisher> <date when="1773">MDCCLXXIII</date> <ref
+    target="IA:nyp.33433067305650-1606514544.pdf">NYPL digital facsimile (Vol 1)</ref> <ref
+    target="IA:nyp.33433067305668-1606514999.pdf">NYPL digital facsimile (Vol 2)</ref> <ref
     target="NLS:poemsofossiantra10macp.pdf">NLS digital facsimile (Vol 1)</ref> <ref
     target="NLS:poemsofossiantra11macp.pdf">NLS digital facsimile (Vol 2)</ref> </bibl>
   </sourceDesc>
@@ -39,11 +40,10 @@
     <p>Spacing between punctuation marks and words has been retained, except for double quotes, and
      foot note sigla. Linebreaks in the source have been removed. Long S and other unusual
      characters preserved where a Unicode representation exists.</p>
-   </normalization>
-   <normalization method="silent">
     <p>Decorative and functional features of the source copies have not been encoded and reproduced.
      These include printers' ornaments and rules, running titles, catchwords, signature marks, and
      press figures.</p>
+    <p>Half titles, present in the NYPL copy but not the NLS copy, have been retained.</p>
    </normalization>
    <!-- <normalization method="silent">
     <p>Common eighteenth-century ligatures are transcribed as their constituent individual
@@ -54,8 +54,6 @@
    <hyphenation eol="some">
     <p>End-of-line hyphenation silently removed where appropriate(not in cases where the hyphenation
      would be preserved if occuring mid-line).</p>
-   </hyphenation>
-   <hyphenation>
     <p>Where a hyphenated word straddles a page-break in the source text, the complete word is
      encoded before the page-break in the XML file.</p>
    </hyphenation>

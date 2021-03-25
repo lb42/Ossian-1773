@@ -1,7 +1,20 @@
 <front xmlns="http://www.tei-c.org/ns/1.0">
- <!--<titlePage><docTitle><titlePart>THE POEMS OF OSSIAN.TRANSLATED By JAMES MACPHERSON, Eſq: IN TWO VOLUMES. VOL. I.</titlePart></docTitle><docEdition>A NEW EDITION, Carefully corrected, and greatly improved. LONDON: Printed for <hi rend="sc">W. Strahan</hi>; and <hi rend="sc">T. Becket</hi>, in the Strand, Bookſeller to their Royal Highneſſes the Prince of <hi rend="sc">Wales</hi> and Biſhop of <hi rend="sc">Osnabrugh</hi>.</docEdition></titlePart><titlePart><docDate>MDCCLXXIII. </docDate></titlePart></titlePage>
--->
  <pb n="73100001" facs="1773-014.pbm"/>
+
+ <titlePage>
+  <docTitle>
+   <titlePart>THE POEMS OF OSSIAN.</titlePart>
+   <titlePart>TRANSLATED By JAMES MACPHERSON, Eſq: </titlePart>
+   <titlePart>IN TWO VOLUMES. </titlePart>
+   <titlePart>VOL. I.</titlePart>
+  </docTitle>
+  <docEdition>A NEW EDITION, Carefully corrected, and greatly improved.</docEdition>
+  <docImprint>LONDON: Printed for <hi rend="sc">W. Strahan</hi>; and <hi rend="sc">T. Becket</hi>,
+   in the Strand, Bookſeller to their Royal Highneſſes the Prince of <hi rend="sc">Wales</hi> and
+   Biſhop of <hi rend="sc">Osnabrugh</hi>.</docImprint>
+  <docDate>MDCCLXXIII. </docDate>
+ </titlePage>
+
  <pb n="73100002" facs="1773-017.pbm"/>
  <!--  -->
  <!--  -->
@@ -18,10 +31,10 @@
    will preclude all future improvements.</p>
   <p><hi rend="sc">The</hi> eagerneſs, with which theſe Poems have been received abroad, are a
    recompence for the coldneſs with which a few have affected to treat them at home. All the polite
-   nations of Europe have transferred them into their re<!--  -->
+   nations of Europe have transferred them into their <!--  -->
    <!-- Ar ſpective -->
    <pb n="73100004" facs="1773-023.pbm"/>
-   <!-- vi PREFACE. --> ſpective languages; and they ſpeak of him, who brought them to light, in
+   <!-- vi PREFACE. --> reſpective languages; and they ſpeak of him, who brought them to light, in
    terms that might flatter the vanity of one fond of fame. In a convenient indifference for a
    literary reputation, the Author hears praiſe without being elevated, and ribaldry, without being
    depreſſed. He has frequently ſeen the firſt beſtowed too precipitately; and the latter is ſo
@@ -65,15 +78,15 @@
    <!-- 8 has -->
    <pb n="73100007" facs="1773-032.pbm"/>
    <!-- PREFACE. ix --> has ſucceeded in either) which of them is the moſt literal verſion.</p>
-  <p><hi>FRAGMENT of a NORTHERN TALE.</hi></p>
-  <p><hi rend="sc">Where</hi> Harold, with golden hair, ſpread o'er Lochlin<note>
-   <p>® The Gaelic name of Scandinavia, or Scandinia, </p></note> his high commands; where, with
+  <quote><label>FRAGMENT of a NORTHERN TALE.</label>
+   <p><hi rend="sc">Where</hi> Harold, with golden hair, ſpread o'er Lochlin<note>
+   <p>The Gaelic name of Scandinavia, or Scandinia, </p></note> his high commands; where, with
    juſtice, he ruled the tribes, who ſunk, ſubdued, beneath his ſword ; abrupt riſes Gormal<note>
    <p> The mountains of Sevo, </p></note> in ſnow ! The tempeſts roll dark on his Yides, but calm,
    above, his vaſt forehead appears, White-iſſuing from the ſkirt of his ſtorms, the troubled
    torrents pour down his ſides. Joining, as they roar along, they bear the Torno, in foam, to the
    main.</p>
-  <p><hi rend="sc">Grey</hi> on the bank and far from men, halfcovered by ancient pines, from the
+   <p><hi rend="sc">Grey</hi> on the bank and far from men, halfcovered by ancient pines, from the
    wind, a lonely pile exalts its head, long-ſhaken by the ſtorms of the north. To this fled Sigurd,
    fierce in fight, from Harold the leader of armies, when fate had brightened his ſpear, <!--  -->
    <!-- with -->
@@ -83,7 +96,7 @@
    yet ſorrow dwelt not in his ſoul. But when the warrior thought on the paſt, his proud heart
    heaved again his ſide: Forth-flew his ſword from its place, he wounded Harold in all the
    winds.</p>
-  <p><hi rend="sc">One</hi> daughter, and only one, but bright in form and mild of ſoul, the laſt
+   <p><hi rend="sc">One</hi> daughter, and only one, but bright in form and mild of ſoul, the laſt
    beam of the ſetting line, remained to Sigurd of all his race. His ſon, in Lulan's battle ſlain,
    beheld not his father's flight from his foes. Nor finiſhed ſeemed the ancient line ! The ſplendid
    beauty of bright-eyed Fithon, covered ſtill the fallen king with renown. Her arm was white like
@@ -98,35 +111,64 @@
    their fears. Yet midſt the pride of all her charms, her heart was ſoft, and her ſoul was kind.
    She ſaw the mournful with tearful eyes. Tranſient darkneſs aroſe in her breaſt. Her joy was in
    the chace. Fach morning, when doubtful light wandered dimly on Lulan's waves, ſhe rouzed the
-   reſounding woods, to Gormal's head of ſnow. Nor moved the maid alone, and pouring through the
-   plain Hurry the troubled Torno to the main.</p>
-  <p><hi rend="sc">Grey</hi>, on the bank, remote from human kind, By aged pines, half ſhelter'd
-   from the wind, A homely manſion roſe, of antique form, For ages batter'd by the polar ſtorm. To
-   this fierce Sigurd fled, from Norway's lord When fortune ſettled, on the warrior's ſword,
-   <!--  -->
-   <!-- in -->
-   <pb n="73100010" facs="1773-041.pbm"/>
-   <!-- xii PREFACE. --> In that rude field, where Suecia's chieſs were ſlain, Or forced to wander
-   o'er the Bothnic main. Dark was his life, yet undiſturb'd with woes, But when the memory of
-   defeat aroſe His proud heart ſtruck his ſide ; he graſpt the ſpear, And wounded Harold in the
-   vacant air.</p>
-  <p><hi rend="sc">One</hi> daughter only, but of form divine, The laſt fair beam of the departing
-   line, Remain'd of Sigurd's race. His warlike ſon Fell in the ſhock, which overturn'd the throne.
-   Nor deſolate the houſe ! Fionia's charms Suſtain'd the glory, which they loſt in arms. White was
-   her arm, as Sevo's lofty ſnow, Her boſom fairer, than the waves below, When heaving to the winds.
-   Her radiant eyes Like two bright ſtars, exulting as they riſe, O'er the dark tumult of a ſtormy
-   night And gladd'ning heav'n, with their majeſtic light,</p>
-  <p><hi rend="sc">In</hi> nought is Odin to the maid unkind Her form ſcarce equals her exalted
-   mind, Awe leads her ſacred ſteps where'er they move, And mankind worſhip, where they dare not
-   love. But, mix'd with ſoftneſs, was the virgin's pride, Her heart had feelings, which her eyes
-   deny'd. Her bright tears ſtarted at another's woes, While tranſient darkneſs on her ſoul
-   aroſe.</p>
-  <p><hi rend="sc">The</hi> chace ſhe lov'd; when morn, with doubtful beans Came dimly wandering
-   o'er the Bothnic ſtream, On Sevo's ſounding ſides, ſhe bent the bow, And rouz'd his foreſts to
-   his head of ſnow. Nor mov'd the maid alone; &amp;c. <!--  -->
-   <!-- ONE -->
-   <pb n="73100011" facs="1773-044.pbm"/>
-   <!-- PREFACE. xiii --> </p>
+   reſounding woods, to Gormal's head of ſnow. Nor moved the maid alone, &amp;c. </p>
+   <p> <label><hi>The ſame verſified</hi></label>. </p><lg>
+   <l> <hi rend="sc">Where</hi> fair-hair'd Harold, o'er Scandinia reign'd</l>
+   <l> And held, with juſtice, what his valour gain'd,</l>
+   <l> Sevo, in ſnow, his rugged forehead rears</l>
+   <l> And, o'er the warfare of his ſtorms, appears</l>
+   <l> Abrupt and vaſt. — White-wandering down his ſide</l>
+   <l> A thouſand torrents, gleaming as they glide,</l>
+   <l> Unite below ; and pouring through the plain</l>
+   <l> Hurry the troubled Torno to the main.</l>
+   </lg><lg>
+   <l><hi rend="sc">Grey</hi>, on the bank, remote from human kind, </l>
+   <l>By aged pines, half ſhelter'd from the wind, </l>
+   <l>A homely manſion roſe, of antique form, </l>
+   <l>For ages batter'd by the polar ſtorm. </l>
+   <l>To this fierce Sigurd fled, from Norway's lord </l>
+   <l>When fortune ſettled, on the warrior's ſword, <!--  -->
+    <!-- in -->
+    <pb n="73100010" facs="1773-041.pbm"/>
+    <!-- xii PREFACE. --> </l>
+   <l>In that rude field, where Suecia's chieſs were ſlain, </l>
+   <l>Or forced to wander o'er the Bothnic main. </l>
+   <l>Dark was his life, yet undiſturb'd with woes, </l>
+   <l>But when the memory of defeat aroſe </l>
+   <l>His proud heart ſtruck his ſide ; he graſpt the ſpear, </l>
+   <l>And wounded Harold in the vacant air.</l>
+   </lg><lg>
+   <l><hi rend="sc">One</hi> daughter only, but of form divine, </l>
+   <l>The laſt fair beam of the departing line, </l>
+   <l>Remain'd of Sigurd's race. His warlike ſon </l>
+   <l>Fell in the ſhock, which overturn'd the throne. </l>
+   <l>Nor deſolate the houſe ! Fionia's charms </l>
+   <l>Suſtain'd the glory, which they loſt in arms. </l>
+   <l>White was her arm, as Sevo's lofty ſnow, </l>
+   <l>Her boſom fairer, than the waves below, </l>
+   <l>When heaving to the winds. Her radiant eyes </l>
+   <l>Like two bright ſtars, exulting as they riſe, </l>
+   <l>O'er the dark tumult of a ſtormy night </l>
+   <l>And gladd'ning heav'n, with their majeſtic light,</l>
+   </lg><lg>
+   <l><hi rend="sc">In</hi> nought is Odin to the maid unkind </l>
+   <l>Her form ſcarce equals her exalted mind, </l>
+   <l>Awe leads her ſacred ſteps where'er they move, </l>
+   <l>And mankind worſhip, where they dare not love. </l>
+   <l>But, mix'd with ſoftneſs, was the virgin's pride, </l>
+   <l>Her heart had feelings, which her eyes deny'd. </l>
+   <l>Her bright tears ſtarted at another's woes, </l>
+   <l>While tranſient darkneſs on her ſoul aroſe.</l>
+   </lg><lg>
+   <l><hi rend="sc">The</hi> chace ſhe lov'd; when morn, with doubtful beam </l>
+   <l>Came dimly wandering o'er the Bothnic ſtream, </l>
+   <l>On Sevo's ſounding ſides, ſhe bent the bow, </l>
+   <l>And rouz'd his foreſts to his head of ſnow. </l>
+   <l>Nor mov'd the maid alone; &amp;c. <!--  --></l>
+   </lg></quote>
+  <!-- ONE -->
+  <pb n="73100011" facs="1773-044.pbm"/>
+  <!-- PREFACE. xiii -->
   <p><hi rend="sc">One</hi> of the chief improvements, on this edition, is the care taken, in
    arranging the poems in the order of time; ſo as to form a kind of regular hiſtory of the age to
    which they relate. The writer has now reſigned them for ever to their fate. That they have been
@@ -143,38 +185,47 @@
  <!--  -->
  <pb n="73100012" facs="1773-048.pbm"/>
  <!--   -->
- <div>
+ <div type="contents">
   <head>CONTENTS OF THE FIRST VOLUME.</head>
-  <p> CATH-LODA, Part Firſt — Page 1</p>
-  <p>Part Second, — 15;</p>
-  <p>Part Third, 27</p>
-  <p>COMALA, — — — 37</p>
-  <p>CARRIC-THURA, — — 51</p>
-  <p>CARTHORN, — — — 75</p>
-  <p>OINA-MORUL, — — 97</p>
-  <p>COLNA-DONA, — — 105</p>
-  <p>OITHONA, — — 113</p>
-  <p>CROMA, — — 125</p>
-  <p>CALTHON and COLMAL, — 139</p>
-  <p>The WAR of CAROS, — 153</p>
-  <p>CATHLIN of CLUTHA, — 167</p>
-  <p>SUL-MALLA of LUMON, — 181</p>
-  <p>WAR of INIS-THONA, — 193</p>
-  <p>The SONGS of SELMA, — 203 <!--  -->
+  <list>
+   <item> CATH-LODA,<list>
+    <item>Part Firſt — Page <ref target="#P73110001">1</ref></item>
+    <item>Part Second, — <ref target="#P73110015">15</ref>;</item>
+    <item>Part Third, <ref target="#P731027">27</ref>310</item>
+    </list></item>
+   <item>COMALA, — — — <ref target="#P73110037">37</ref></item>
+   <item>CARRIC-THURA, — — <ref target="#P73110051">51</ref></item>
+   <item>CARTHORN, — — — <ref target="#P73110075">75</ref></item>
+   <item>OINA-MORUL, — — <ref target="#P73110097">97</ref></item>
+   <item>COLNA-DONA, — — <ref target="#P73110105">105</ref></item>
+   <item>OITHONA, — — <ref target="#P73110113">113</ref></item>
+   <item>CROMA, — — <ref target="#P73110125">125</ref></item>
+   <item>CALTHON and COLMAL, — <ref target="#P73110139">139</ref></item>
+   <item>The WAR of CAROS, — <ref target="#P73110153">153</ref></item>
+   <item>CATHLIN of CLUTHA, — <ref target="#P73110167">167</ref></item>
+   <item>SUL-MALLA of LUMON, — <ref target="#P73110181">181</ref></item>
+   <item>WAR of INIS-THONA, — <ref target="#P73110193">193</ref></item>
+   <item>The SONGS of SELMA, — <ref target="#P73110203">203</ref> </item>
+   <!--  -->
    <!-- FINGAL, -->
    <!--  -->
    <pb n="73100013" facs="1773-051.pbm"/>
-   <!-- CONTENTS. --> FINGAL, Book I. — — 217</p>
-  <p>Book II. — — 243</p>
-  <p>Book III. — —_ 261</p>
-  <p>Book IV. — — 281</p>
-  <p>Book V. — — 299</p>
-  <p>Book VI. — — 315</p>
-  <p>LATHMON, — — 331</p>
-  <p>DAR-THULA, — — 351</p>
-  <p>DEATH of CUTHULLIN, 375</p>
-  <p>BATTLE of LORA, — — 391 <!--  -->
+   <item>
+    <!-- CONTENTS. --> FINGAL,<list>
+    <item> Book I. — — <ref target="#P7310217">217</ref></item>
+    <item>Book II. — — <ref target="#P73110243">243</ref></item>
+    <item>Book III. — — <ref target="#P73110261">261</ref></item>
+    <item>Book IV. — — <ref target="#P73110281">281</ref></item>
+    <item>Book V. — — <ref target="#P73110299">299</ref></item>
+    <item>Book VI. — — <ref target="#P73110315">315</ref></item>
+    </list></item>
+   <item>LATHMON, — — <ref target="#P73110331">331</ref></item>
+   <item>DAR-THULA, — — <ref target="#P73110351">351</ref></item>
+   <item>DEATH of CUTHULLIN, <ref target="#P73110375">375</ref></item>
+   <item>BATTLE of LORA, — — <ref target="#P73110391">391</ref></item>
+   <!--  -->
    <!-- CATH- -->
-   <!--  --> </p>
+   <!--  -->
+  </list>
  </div>
 </front>

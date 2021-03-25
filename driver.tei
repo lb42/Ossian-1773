@@ -1,10 +1,12 @@
 <!-- 1773 vol 1 -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
  <xi:include href="teiHeader.xml"/>
- <text>
-  <xi:include href="V1/tei/prelims.xml"/>
- <group> 
-  <group><!-- 1773 vol 1 -->
+ <text><!-- start 1773 edition -->
+  <group>
+   <text>
+    <!-- 1773 vol 1 -->
+   <xi:include href="V1/tei/prelims.xml"/><!-- front matter for vol1 -->
+   <group>
    <xi:include href="V1/tei/cathloda.xml"/>
    <xi:include href="V1/tei/comala.xml"/>
    <xi:include href="V1/tei/carricthura.xml"/>
@@ -30,7 +32,9 @@
    <xi:include href="V1/tei/deathcuthullin.xml"/>
    <xi:include href="V1/tei/battleoflora.xml"/>
   </group>
-  <group> <!-- 1773 vol 2 -->
+   </text><!-- end of vol1 -->
+ <text><!-- start vol 2 -->
+  <group> 
   <xi:include href="V2/tei/prelims.xml"/>
 <xi:include href="V2/tei/temora-1.xml"/>
 <xi:include href="V2/tei/temora-2.xml"/>
@@ -46,8 +50,8 @@
    <xi:include href="V2/tei/dissPoems.xml"/>
    <!-- <xi:include href="V2/tei/criticalDiss.xml"/>-->
  </group>
-  </group>
- </text>
 
+ </text><!-- end vol2 -->
+  </group></text>
 
 </TEI>

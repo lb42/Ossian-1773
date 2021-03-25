@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0">
  <front>
-  <pb n="73110204" facs="1773-645.pbm"/>
+  <pb xml:id="P73110204" facs="../img/1773-645.pbm"/>
   <div>
    <head>ARGUMENT.</head>
    <p> Addreſs to the evening ſtar. An apoſtrophe to Fingal and his times. Minona ſings before the
@@ -12,7 +12,7 @@
   <!--  -->
  </front>
  <body>
-  <pb n="73110205" facs="1773-648.pbm"/>
+  <pb xml:id="P73110205" facs="../img/1773-648.pbm"/>
   <!-- [ 205 </sc> -->
   <head>THE SONGS of SELMA.</head>
   <p> <hi rend="sc">Star</hi> of deſcending night! fair is thy light in the weſt ! thou lifteſt thy
@@ -27,7 +27,7 @@
    his heroes are around : And ſee the bards of ſong, grey<!--  -->
    <!-- haired -->
    <!--  -->
-   <pb n="73110206" facs="1773-651.pbm"/>
+   <pb xml:id="P73110206" facs="../img/1773-651.pbm"/>
    <!-- 206 Txt SONGS or SELMA, --> haired Ullin! ſtately Ryno! Alpin<note>
    <p> Alpin is from the ſame root with Albion, or rather Albin, the ancient name of Britain; Alp,
    <hi>high Iſland</hi>, or <hi>country</hi>. The preſent name of our iſland has its origin in the
@@ -48,7 +48,7 @@
   <!--  -->
   <!-- CoLMA. -->
   <!--  -->
-  <pb n="73110207" facs="1773-654.pbm"/>
+  <pb xml:id="P73110207" facs="../img/1773-654.pbm"/>
   <!-- The SONGS of SELMA. 207 -->
   <sp>
    <speaker><hi rend="sc">Colma.</hi></speaker>
@@ -68,7 +68,7 @@
     the rock. Salgar, my love! I am here. Why delayeſt thou thy coming? Lo! the calm moon <!--  -->
     <!-- COINES -->
     <!--  -->
-    <pb n="73110208" facs="1773-657.pbm"/>
+    <pb xml:id="P73110208" facs="../img/1773-657.pbm"/>
     <!-- 208 Tut SONGS or SEL MA. --> comes forth. The flood is bright in the vale. The rocks are
     grey on the ſteep. I ſee him not on the brow. His dogs come not before him, with tidings of his
     near approach. Here I muſt ſit alone !</p>
@@ -86,7 +86,7 @@
     friends of the dead. Cloſe it not till Colma come, My life flies <!--  -->
     <!-- 2 away -->
     <!--  -->
-    <pb n="73110209" facs="1773-660.pbm"/>
+    <pb xml:id="P73110209" facs="../img/1773-660.pbm"/>
     <!-- Tart SONGS of SELMA. 209 --> away like a dream : why ſhould I ſtay behind ? Here ſhall I
     reſt with my friends, by the ſtream of the ſounding rock. When night comes on the hill; when the
     loud winds ariſe; my ghoſt ſhall ſtand in the blaſt, and mourn the death of my friends. The
@@ -104,7 +104,7 @@
     fair head <!--  -->
     <!-- Vor, 1, P in -->
     <!--  -->
-    <pb n="73110210" facs="1773-663.pbm"/>
+    <pb xml:id="P73110210" facs="../img/1773-663.pbm"/>
     <!-- 210 THE SONGS or SEL MA. --> in a cloud. I touched the harp, with Ullin; the ſong of
     mourning roſe ! </p>
   </sp>
@@ -127,7 +127,7 @@
     fire. Thy wrath <!--  -->
     <!-- Was -->
     <!--  -->
-    <pb n="73110211" facs="1773-666.pbm"/>
+    <pb xml:id="P73110211" facs="../img/1773-666.pbm"/>
     <!-- THE SONGS or SELMA., 211 --> was as the ſtorm. Thy ſword in battle, as lightning in the
     field. Thy voice was a ſtream after rain; like thunder on diſtant hills. Many fell by thy arm;
     they were conſumed in the flames of thy wrath. But when thou didſt return from war, how peaceful
@@ -145,7 +145,7 @@
     the father of no ſon but thee. He heard of thy fame in war; he heard <!--  -->
     <!-- P 2 cf -->
     <!--  -->
-    <pb n="73110212" facs="1773-669.pbm"/>
+    <pb xml:id="P73110212" facs="../img/1773-669.pbm"/>
     <!-- 212 Taz SONGS of SELMA. --> of foes diſperſed. He heard of Morar's renown ; why did he not
     hear of his wound ? Weep, thou father of Morar ! weep ; but thy ſon heareth thee not. Deep is
     the ſleep of the dead ; low their pillow of duſt. No more ſhall he hear thy voice; no more awake
@@ -164,7 +164,7 @@
     his ſtrength, and the miſt is gone, Why <!--  -->
     <!-- art -->
     <!--  -->
-    <pb n="73110213" facs="1773-672.pbm"/>
+    <pb xml:id="P73110213" facs="../img/1773-672.pbm"/>
     <!-- Tiz SONGS or SELMA. 213 --> art thou ſad, O Armin, chief of ſea-ſurrounded Gorma ?</p>
    <p><hi>Sad</hi> ! I am ! nor ſmall is my cauſe of woe ! Carmor, thou haſt loſt. Colgar the
     valiant lives; and Annira faireſt maid. The boughs of thy houſe aſcend, O Carmor! but Armin is
@@ -181,7 +181,7 @@
     Daura's love, He was not long refuſed : fair was the hope of their friends ! <!--  -->
     <!-- P 3; EkxATH, -->
     <!--  -->
-    <pb n="73110214" facs="1773-675.pbm"/>
+    <pb xml:id="P73110214" facs="../img/1773-675.pbm"/>
     <!-- 214 Tus SONGS or SEL MA, --> </p>
    <p><hi rend="sc">Erath</hi>, ſon of Odgal, repined : his brother had been ſlain by Armor. He came
     diſguiſed like a ſon of the ſea: fair was his ſkiff on the wave ; white his locks of age; calm
@@ -202,7 +202,7 @@
    <p><!--  -->
     <!-- Thick -->
     <!--  -->
-    <pb n="73110215" facs="1773-678.pbm"/>
+    <pb xml:id="P73110215" facs="../img/1773-678.pbm"/>
     <!-- Tit SONGS or SELMA. 215 --> Thick wind the thongs<note>
     <p> The poet here only means that Erath was bound with leathern thongs. </p></note> of the hide
     around his limbs; he loads the wind with his groans. Arindal aſcends the deep in his boat, to
@@ -220,7 +220,7 @@
     my ſtrength in war! fallen my pride among women! When the ſtorms aloft <!--  -->
     <!-- P 4 ariſe : -->
     <!--  -->
-    <pb n="73110216" facs="1773-681.pbm"/>
+    <pb xml:id="P73110216" facs="../img/1773-681.pbm"/>
     <!-- 216 THE SONGS or SELMA. --> ariſe : when the north lifts the wave on high; I ſit by the
     ſounding ſhore, and look on the fatal rock. Often by the ſetting moon, I ſee the ghoſts of my
     children. Half-viewleſs, they walk in mournful conference together. Will none of you ſpeak in

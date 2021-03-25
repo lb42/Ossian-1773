@@ -1,12 +1,12 @@
 <text xmlns="http://www.tei-c.org/ns/1.0">
- <pb n="73110193" facs="1773-612.pbm"/>
+ <pb xml:id="P73110193" facs="../img/1773-612.pbm"/>
  <front>
   <titlePage>
    <titlePart><title>THE WAR of INIS-THONA: A POEM. </title></titlePart>
   </titlePage>
   <!--  -->
   <!--  -->
-  <pb n="73110194" facs="1773-615.pbm"/>
+  <pb xml:id="P73110194" facs="../img/1773-615.pbm"/>
   <div>
    <head>ARGUMENT.</head>
    <p> Reflections on the poet's youth. An apoſtrophe to Selma. Oſcar obtains leave to go to
@@ -18,7 +18,7 @@
   <!--  -->
  </front>
  <body>
-  <pb n="73110195" facs="1773-618.pbm"/>
+  <pb xml:id="P73110195" facs="../img/1773-618.pbm"/>
   <!-- [195] -->
   <head>THE WAR of INIS-THONA: A POEM.</head>
   <p> <hi rend="sc">Our</hi> youth is like the dream of the hunter on the hill of heath. He ſleeps
@@ -34,7 +34,7 @@
    <!--  -->
    <!-- 4 -->
    <!--  -->
-   <pb n="73110196" facs="1773-621.pbm"/>
+   <pb xml:id="P73110196" facs="../img/1773-621.pbm"/>
    <!-- 196 The WAR of INIS-THONA: --> midſt. He leans on the ſhield of Trenmor: his ſpear ſtands
    againſt the wall ; he liſtens to the ſong of his bards. The deeds of his arm are heard; the
    actions of the king in his youth ! Oſcar had returned from the chace, and heard the hero's
@@ -53,7 +53,7 @@
    bard ſhall ſay, at the feaſt, “hear the ſong of Oſcar from the diſtant land !” <!--  -->
    <!-- OscaR,” -->
    <!--  -->
-   <pb n="73110197" facs="1773-624.pbm"/>
+   <pb xml:id="P73110197" facs="../img/1773-624.pbm"/>
    <!-- A P O E M. I 97 --> </p>
   <p>“<hi rend="sc">Oscar</hi>,” replied the king of Morven ; “thou ſhalt fight, ſon of my fame !
    Prepare my dark-boſomed ſhip to carry my hero to Inisthona. Son of my ſon, regard our fame ; thou
@@ -72,7 +72,7 @@
    Thou, who <!--  -->
    <!-- O 3 art -->
    <!--  -->
-   <pb n="73110198" facs="1773-627.pbm"/>
+   <pb xml:id="P73110198" facs="../img/1773-627.pbm"/>
    <!-- 193 The WAR of INIS-THONA: --> art of Morven's race! Annir has ſeen the battle of ſpears ;
    but now he is pale and withered, like the oak of Lano. I have no ſon to meet thee with joy, to
    bring thee to the halls of his fathers. Argon is pale in the tomb, and Ruro is no more. My
@@ -94,7 +94,7 @@
    hero ſaid, “the children of my youth. This ſtone is the tomb of Ruro; that tree ſounds <!--  -->
    <!-- over -->
    <!--  -->
-   <pb n="73110199" facs="1773-630.pbm"/>
+   <pb xml:id="P73110199" facs="../img/1773-630.pbm"/>
    <!-- A P O E M. 199 --> over the grave of Argon, Do ye hear my voice, O my ſons, within your
    narrow houſe ? Or do ye ſpeak in theſe ruſtling leaves, when the winds of the deſart riſe ?”</p>
   <p>“<hi rend="sc">King</hi> of Inis-thona,” ſaid Oſcar, “how fell the children of youth? The wild
@@ -107,8 +107,7 @@
    at the waters of Lano<note>
    <p> Lano was a lake of Scandinavia, remarkable, in the days of Oſſian, for emitting a
    peſtilential vapour in autumn. <hi>And thou, O valiant Duchomar, like the miſt of marſhy Lano ;
-   when it ſails ever the plains of autumn, and brings death to the hoſt.</hi> <hi rend="sc"
-   >Fingal</hi>, B. I. </p></note>, which ſends forth the vapour of death. He came to Runa's
+   when it ſails ever the plains of autumn, and brings death to the hoſt.</hi> <hi rend="sc">Fingal</hi>, B. I. </p></note>, which ſends forth the vapour of death. He came to Runa's
    ecchoing halls, and ſought the honour of the ſpear<note>
    <p> By <hi>the honour of the ſpear</hi> is meant the tournament practiſed among the ancient
    northern nations. </p></note>. The youth was lovely as the firſt beam of the ſun ; few were they
@@ -117,7 +116,7 @@
    <!--  -->
    <!-- O 4 Argon -->
    <!--  -->
-   <pb n="73110200" facs="1773-633.pbm"/>
+   <pb xml:id="P73110200" facs="../img/1773-633.pbm"/>
    <!-- 300 The WAR of INIS-THONA: --> </p>
   <p>Argon and Ruro returned from the chace; the tears of their pride deſcend : they roll their
    ſilent eyes on Runa's heroes, who had yielded to a ſtranger. Three days they feaſted with Cormalo
@@ -136,7 +135,7 @@
    <!--  -->
    <!-- death. -->
    <!--  -->
-   <pb n="73110201" facs="1773-636.pbm"/>
+   <pb xml:id="P73110201" facs="../img/1773-636.pbm"/>
    <!-- A P O BE M. 251 --> death. Cormalo will not long rejoice: death is often at the point of our
    ſwords !”</p>
   <p><hi rend="sc">They</hi> came over the deſart like ſtormy clouds, when the winds roll them along
@@ -154,7 +153,7 @@
    diſtant ſound comes, in the evening, on the foſt-ruſtling breeze of the vale! <!--  -->
    <!-- O LAY -->
    <!--  -->
-   <pb n="73110202" facs="1773-639.pbm"/>
+   <pb xml:id="P73110202" facs="../img/1773-639.pbm"/>
    <!-- 202 The WAR of INIS-THONA. --> </p>
   <p><hi rend="sc">O Lay</hi> me, ye that ſee the light, near ſome rock of my hills ! let the thick
    hazels be around, let the ruſtling oak be near. Green be the place of my reſt; let the ſound of
@@ -171,7 +170,7 @@
    diſturb not the dreams of Oſſian ! <!--  -->
    <!-- THE -->
    <!--  -->
-   <pb n="73110203" facs="1773-642.pbm"/>
+   <pb xml:id="P73110203" facs="../img/1773-642.pbm"/>
    <!--  -->
    <!--  --> </p>
  </body>

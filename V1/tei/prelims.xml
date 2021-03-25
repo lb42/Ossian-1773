@@ -1,5 +1,5 @@
 <front xmlns="http://www.tei-c.org/ns/1.0">
- <pb n="73100001" facs="1773-014.pbm"/>
+ <pb xml:id="P73100001" facs="../img/1773-014.pbm"/>
 
  <titlePage>
   <docTitle>
@@ -15,10 +15,10 @@
   <docDate>MDCCLXXIII. </docDate>
  </titlePage>
 
- <pb n="73100002" facs="1773-017.pbm"/>
+ <pb xml:id="P73100002" facs="../img/1773-017.pbm"/>
  <!--  -->
  <!--  -->
- <pb n="73100003" facs="1773-020.pbm"/>
+ <pb xml:id="P73100003" facs="../img/1773-020.pbm"/>
  <!--  -->
  <div>
   <head>PREFACE.</head>
@@ -33,7 +33,7 @@
    recompence for the coldneſs with which a few have affected to treat them at home. All the polite
    nations of Europe have transferred them into their <!--  -->
    <!-- Ar ſpective -->
-   <pb n="73100004" facs="1773-023.pbm"/>
+   <pb xml:id="P73100004" facs="../img/1773-023.pbm"/>
    <!-- vi PREFACE. --> reſpective languages; and they ſpeak of him, who brought them to light, in
    terms that might flatter the vanity of one fond of fame. In a convenient indifference for a
    literary reputation, the Author hears praiſe without being elevated, and ribaldry, without being
@@ -47,7 +47,7 @@
    productions to another name. If this was the caſe, he was but young in the art of deception. When
    he placed the poet in <!--  -->
    <!-- antiquity, -->
-   <pb n="73100005" facs="1773-026.pbm"/>
+   <pb xml:id="P73100005" facs="../img/1773-026.pbm"/>
    <!-- PREFACE. vii --> antiquity, the Tranſlator ſhould have been born on this ſide of the
    Tweed.</p>
   <p><hi rend="sc">These</hi> obſervations regard only the frivolous in matters of literature;
@@ -62,7 +62,7 @@
    perſons of exquiſite feelings of heart, than thoſe who receive all their impreſſions by the ear.
    The novelty of cadence, in what is called a proſe verſion, tho' <!--  -->
    <!-- A 4 not -->
-   <pb n="73100006" facs="1773-029.pbm"/>
+   <pb xml:id="P73100006" facs="../img/1773-029.pbm"/>
    <!-- viii PREFACE --> not deſtitute of harmony, will not to common readers ſupply the abſence of
    the frequent returns of rhime. This was the opinion of the Writer himſelf, tho' he yielded to the
    judgment of others, in a mode, which preſented freedom and dignity of expreſſion, inſtead of
@@ -76,7 +76,7 @@
    to the Gaëlic language ; and, from the latter, transferred into Engliſh. The verſe took little
    more time to the writer than the proſe; and even he himſelf is doubtful, (if he <!--  -->
    <!-- 8 has -->
-   <pb n="73100007" facs="1773-032.pbm"/>
+   <pb xml:id="P73100007" facs="../img/1773-032.pbm"/>
    <!-- PREFACE. ix --> has ſucceeded in either) which of them is the moſt literal verſion.</p>
   <quote><label>FRAGMENT of a NORTHERN TALE.</label>
    <p><hi rend="sc">Where</hi> Harold, with golden hair, ſpread o'er Lochlin<note>
@@ -90,7 +90,7 @@
    wind, a lonely pile exalts its head, long-ſhaken by the ſtorms of the north. To this fled Sigurd,
    fierce in fight, from Harold the leader of armies, when fate had brightened his ſpear, <!--  -->
    <!-- with -->
-   <pb n="73100008" facs="1773-035.pbm"/>
+   <pb xml:id="P73100008" facs="../img/1773-035.pbm"/>
    <!-- x PREFACE. --> with renown: When he conquered in that rude field, where Lulan's warriors
    fell in blood, or roſe, in terror, on the waves of the main. Darkly ſat the grey-haired chief;
    yet ſorrow dwelt not in his ſoul. But when the warrior thought on the paſt, his proud heart
@@ -105,7 +105,7 @@
    dark tumult embroils the night. Pleaſant are their beams aloft, as ſtately they aſcend the ſkies,
    <!--  -->
    <!-- NOR -->
-   <pb n="73100009" facs="1773-038.pbm"/>
+   <pb xml:id="P73100009" facs="../img/1773-038.pbm"/>
    <!-- PREFACE, xi --> <hi rend="sc">Nor</hi> Odin forgot, in aught, the maid. Her form ſcarce
    equalled her lofty mind. Awe moved around her ſtately ſteps. Heroes loved—but ſhrunk away in
    their fears. Yet midſt the pride of all her charms, her heart was ſoft, and her ſoul was kind.
@@ -129,7 +129,7 @@
    <l>To this fierce Sigurd fled, from Norway's lord </l>
    <l>When fortune ſettled, on the warrior's ſword, <!--  -->
     <!-- in -->
-    <pb n="73100010" facs="1773-041.pbm"/>
+    <pb xml:id="P73100010" facs="../img/1773-041.pbm"/>
     <!-- xii PREFACE. --> </l>
    <l>In that rude field, where Suecia's chieſs were ſlain, </l>
    <l>Or forced to wander o'er the Bothnic main. </l>
@@ -167,7 +167,7 @@
    <l>Nor mov'd the maid alone; &amp;c. <!--  --></l>
    </lg></quote>
   <!-- ONE -->
-  <pb n="73100011" facs="1773-044.pbm"/>
+  <pb xml:id="P73100011" facs="../img/1773-044.pbm"/>
   <!-- PREFACE. xiii -->
   <p><hi rend="sc">One</hi> of the chief improvements, on this edition, is the care taken, in
    arranging the poems in the order of time; ſo as to form a kind of regular hiſtory of the age to
@@ -183,7 +183,7 @@
   <p><hi rend="sc">London</hi>, Aug. 15, 1773 </p>
  </div>
  <!--  -->
- <pb n="73100012" facs="1773-048.pbm"/>
+ <pb xml:id="P73100012" facs="../img/1773-048.pbm"/>
  <!--   -->
  <div type="contents">
   <head>CONTENTS OF THE FIRST VOLUME.</head>
@@ -209,7 +209,7 @@
    <!--  -->
    <!-- FINGAL, -->
    <!--  -->
-   <pb n="73100013" facs="1773-051.pbm"/>
+   <pb xml:id="P73100013" facs="../img/1773-051.pbm"/>
    <item>
     <!-- CONTENTS. --> FINGAL,<list>
     <item> Book I. — — <ref target="#P7310217">217</ref></item>

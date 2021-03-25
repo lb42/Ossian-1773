@@ -1,10 +1,10 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><front/><body>
-<head xmlns="">Funeral Song</head>
-<head xmlns="">by Regner Lodbrog.</head>
-<head xmlns="">Translated into Latin
+<text xmlns="http://www.tei-c.org/ns/1.0"><body>
+<head >Funeral Song
+by Regner Lodbrog. 
+Translated into Latin
 from the Gothic
 by Olaus Wormius.</head>
-<lg xmlns="" n="1">
+<lg  n="1">
 <l><hi rend="f_textusi">P</hi>ugnavimus enſibus</l>
 <l>Haud poſt longum tempus</l>
 <l>Cum in Gotlandia acceſſimus</l>
@@ -15,7 +15,7 @@ by Olaus Wormius.</head>
 <l>Hirſutam braccam ob illam cædem</l>
 <l>Cuſpide ictum intuli in colubrum</l>
 <l>Ferro lucidorum ſtupendiorum.</l>
-</lg><lg xmlns="" n="2">
+</lg><lg  n="2">
 <l>Pugnavimus enſibus</l>
 <l>Multum juvenis fui quando acquiſivimus</l>
 <l>Orientem verſus in Oreonico freto</l>
@@ -26,7 +26,7 @@ by Olaus Wormius.</head>
 <l>Dura ferra magnam eſcam</l>
 <l>Omnis erat oceanus vulnus</l>
 <l>Vadavit corvus in ſanguine cæſorum.</l>
-</lg><lg xmlns="" n="3">
+</lg><lg  n="3">
 <l>Pugnavimus enſibus</l>
 <l>Alte tulimus tune lanceas</l>
 <l>Quando viginti annos numeravimus</l>
@@ -37,7 +37,7 @@ by Olaus Wormius.</head>
 <l>Hoſpitii ſumptum in illa ſtrage</l>
 <l>Sudor decidit in vulnerum</l>
 <l>Oceano perdidit exercitus ætatem.</l>
-</lg><lg xmlns="" n="4">
+</lg><lg  n="4">
 <l>Pugnavimus enſibus</l>
 <l>Pugnæ facta copia</l>
 <l>Cum Helſingianos poſtulavimus</l>
@@ -48,7 +48,7 @@ by Olaus Wormius.</head>
 <l>Terra rubefacta calido</l>
 <l>Frendebat gladius in loricas</l>
 <l>Gladius findebat clypeos. </l>
-</lg><lg xmlns="" n="5">
+</lg><lg  n="5">
 <l>Pugnavimus enſibus</l>
 <l>Memini neminem tunc fugiſſe</l>
 <l>Priuſquam in navibus</l>
@@ -59,7 +59,7 @@ by Olaus Wormius.</head>
 <l>In navibus longis poſt ilium</l>
 <l>Sic attulit princeps paſſim</l>
 <l>Alacre in bellum, cor.</l>
-</lg><lg xmlns="" n="6">
+</lg><lg  n="6">
 <l>Pugnavimus enſibus</l>
 <l>Exercitus abjecit clypeos</l>
 <l>Cum haſta volavit</l>
@@ -70,7 +70,7 @@ by Olaus Wormius.</head>
 <l>Antequam Rafho rex caderet</l>
 <l>Fluxit ex virorum capitibus</l>
 <l>Calidas in loricas ſudor.</l>
-</lg><lg xmlns="" n="7"><l>Pugnavimus enſibus</l>
+</lg><lg  n="7"><l>Pugnavimus enſibus</l>
 <l>Habere potuerunt tum, corvi</l>
 <l>Ante Indirorum inſulas</l>
 <l>Sufficientem prædam dilaniandam</l>
@@ -80,7 +80,7 @@ by Olaus Wormius.</head>
 <l>Oriente ſole</l>
 <l>Spicula, vidi pungere,</l>
 <l>Propulerunt arcus ex ſe ferra.</l>
-</lg><lg xmlns="" n="8"><l>Pugnavimus enſibus</l>
+</lg><lg  n="8"><l>Pugnavimus enſibus</l>
 <l>Altum mugierunt enſes</l>
 <l>Antequam in Laneo campo</l>
 <l>Eiſlinus rex cecidit</l>
@@ -90,7 +90,7 @@ by Olaus Wormius.</head>
 <l>Picturas in galearum conventu,</l>
 <l>Cervicum muſtum ex vulneribus</l>
 <l>Diffuſum per cerebrum fiſſum.</l>
-</lg><lg xmlns="" n="9"><l>Pugnavimus enſibus</l>
+</lg><lg  n="9"><l>Pugnavimus enſibus</l>
 <l>Tenuimus clypeos in ſanguine</l>
 <l>Cum haſtam unximus</l>
 <l>Ante Boring holmum</l>
@@ -100,7 +100,7 @@ by Olaus Wormius.</head>
 <l>Non erat illo rex major</l>
 <l>Cæſi diſperſi late per littora</l>
 <l>Feræ amplectebantur eſcam.</l>
-</lg><lg xmlns="" n="10"><l>Pugnavimus enſibus</l>
+</lg><lg  n="10"><l>Pugnavimus enſibus</l>
 <l>Pugna manifeſte creſcebat</l>
 <l>Antequam Freyr rex caderet</l>
 <l>In Flandorum terra</l>
@@ -110,7 +110,7 @@ by Olaus Wormius.</head>
 <l>Durus armorum mucro olim</l>
 <l>Virgo deploravit matutinam lanienam</l>
 <l>Multa præda dabatur feris. </l>
-</lg><lg xmlns="" n="11"><l>Pugnavimus enſibus</l>
+</lg><lg  n="11"><l>Pugnavimus enſibus</l>
 <l>Centies centenos vidi jacere</l>
 <l>In navibus</l>
 <l>Ubi Ænglanes vocatur</l>
@@ -119,7 +119,7 @@ by Olaus Wormius.</head>
 <l>In exortu ſolis</l>
 <l>Coactus eſt pro noſtris gladiis</l>
 <l>Valdiofur in bello occumbere</l>
-</lg><lg xmlns="" n="12"><l>Pugnavimus enſibus</l>
+</lg><lg  n="12"><l>Pugnavimus enſibus</l>
 <l>Ruit pluvia ſanguinis de gladiis</l>
 <l>Præceps in Bardafyrde</l>
 <l>Pallidum corpus pro accipitribus</l>
@@ -129,7 +129,7 @@ by Olaus Wormius.</head>
 <l>Odini pileus gales. </l>
 <l>Cucurrit arcus ad vulnus</l>
 <l>Venenate acutus conſperſus ſudore ſanguineo.</l>
-</lg><lg xmlns="" n="13"><l>Pugnavimus enſibus</l>
+</lg><lg  n="13"><l>Pugnavimus enſibus</l>
 <l>Tenuimus magica ſcuta</l>
 <l>Alte in pugnæ ludo</l>
 <l>Ante Hiadningum ſinum</l>
@@ -139,7 +139,7 @@ by Olaus Wormius.</head>
 <l>Galeæ attritæ virorum</l>
 <l>Erat ſicut ſplendidam virginem</l>
 <l>In lecto, juxta ſe collocare.</l>
-</lg><lg xmlns="" n="14"><l>Pugnavimus enſibus</l>
+</lg><lg  n="14"><l>Pugnavimus enſibus</l>
 <l>Dura venit tempeſtas clypeis</l>
 <l>Cadaver cecidit in terram</l>
 <l>In Nortumbria</l>
@@ -149,7 +149,7 @@ by Olaus Wormius.</head>
 <l>Caſſidis campos mordebant gladii</l>
 <l>Erat hoc veluti juvenem viduam</l>
 <l>In primaria ſede oſculari.</l>
-</lg><lg xmlns="" n="15"><l>Pugnavimus enſibus</l>
+</lg><lg  n="15"><l>Pugnavimus enſibus</l>
 <l>Herthiofe evaſit fortunatus</l>
 <l>In Auſtralibus Orcadibus ipſe</l>
 <l>Victoriæ in noſtris hominibus</l>
@@ -159,7 +159,7 @@ by Olaus Wormius.</head>
 <l>Luctus in gladiorum ludo</l>
 <l>Strenue jactabat concuſſor</l>
 <l>Galeæ ſanguinis teli.</l>
-</lg><lg xmlns="" n="16"><l>Pugnavimus enſibus</l>
+</lg><lg  n="16"><l>Pugnavimus enſibus</l>
 <l>Quilibet jacebat tranſverſim ſupra alium</l>
 <l>Gaudebat pugna lætus</l>
 <l>Accipiter ob gladiorum ludum</l>
@@ -169,7 +169,7 @@ by Olaus Wormius.</head>
 <l>Marſtanus rex jejunis</l>
 <l>Fiebat in vedræ ſinu</l>
 <l>Præda data corvis. </l>
-</lg><lg xmlns="" n="17"><l>Pugnavimus enſibus</l>
+</lg><lg  n="17"><l>Pugnavimus enſibus</l>
 <l>Bellatorem multum vidi cadere</l>
 <l>Mante ante machæram</l>
 <l>Virum in mucronum diſſidio</l>
@@ -179,7 +179,7 @@ by Olaus Wormius.</head>
 <l>Imperterritum virum vita</l>
 <l>Sonuit lancea prope Hamdi</l>
 <l>Griſeam loricam ſplendebant vexilla.</l>
-</lg><lg xmlns="" n="18"><l>Pugnavimus enſibus</l>
+</lg><lg  n="18"><l>Pugnavimus enſibus</l>
 <l>Verborum tenaces vidi diſſecare</l>
 <l>Haud minutim pro lupis</l>
 <l>Endili maris enſibus</l>
@@ -189,7 +189,7 @@ by Olaus Wormius.</head>
 <l>Valde in ſtrepitu armorum</l>
 <l>Sciſſa erat lorica</l>
 <l>In Scioldungorum prælio.</l>
-</lg><lg xmlns="" n="19"><l>Pugnavimus enſibus</l>
+</lg><lg  n="19"><l>Pugnavimus enſibus</l>
 <l>Pulcricomum vidi crepuſcuaſcere</l>
 <l>Virginis amatorem circa matutinum</l>
 <l>Et confabulationis amicum viduarum</l>
@@ -199,7 +199,7 @@ by Olaus Wormius.</head>
 <l>Antequam Orn rex caderet</l>
 <l>Sanguineum clypeum vidi ruptum</l>
 <l>Hoc invertit virorum vitam.</l>
-</lg><lg xmlns="" n="20"><l>Pugnavimus enſibus</l>
+</lg><lg  n="20"><l>Pugnavimus enſibus</l>
 <l>Egimus gladiorum ad cædem</l>
 <l>Ludum in Lindis inſula</l>
 <l>Cum regibus tribus</l>
@@ -209,7 +209,7 @@ by Olaus Wormius.</head>
 <l>Ut ſatur inde diſcederet</l>
 <l>Hybernorum ſanguinis in oceanum</l>
 <l>Copioſe decidit per mactationis tempus. </l>
-</lg><lg xmlns="" n="21"><l>Pugnavimus enſibus</l>
+</lg><lg  n="21"><l>Pugnavimus enſibus</l>
 <l>Alte gladius mordebat clypeos</l>
 <l>Tune cum aurei colors</l>
 <l>Haſta fricabat loricas</l>
@@ -219,7 +219,7 @@ by Olaus Wormius.</head>
 <l>Reges proceſſerunt</l>
 <l>Rubicundum erat circa inſulam,</l>
 <l>At volans Draco vulnerum.</l>
-</lg><lg xmlns="" n="22"><l>Pugnavimus enſibus</l>
+</lg><lg  n="22"><l>Pugnavimus enſibus</l>
 <l>Quid eſt viro forti morte certius</l>
 <l>Etſi ipſe in armorum nimbo</l>
 <l>Adverſus collocatus ſit</l>
@@ -229,7 +229,7 @@ by Olaus Wormius.</head>
 <l>Aquilam ad gladiorum ludum</l>
 <l>Meticuloſus venit nuſpiam</l>
 <l>Cordi ſuo uſui.</l>
-</lg><lg xmlns="" n="23"><l>Pugnavimus enſibus</l>
+</lg><lg  n="23"><l>Pugnavimus enſibus</l>
 <l>Hoc numero æquum </l>
 <l>Ut procedat</l>
 <l>In contactu gladiorum</l>
@@ -239,7 +239,7 @@ by Olaus Wormius.</head>
 <l>Semper debet amoris </l>
 <l>Amicus virginum,</l>
 <l>Audax eſſe in fremitu armorum.</l>
-</lg><lg xmlns="" n="24"><l>Pugnavimus enſibus</l>
+</lg><lg  n="24"><l>Pugnavimus enſibus</l>
 <l>Hoc videtur mihi re vera</l>
 <l>Quod fata ſequimur</l>
 <l>Rarus tranſgreditur fata Parcarum</l>
@@ -249,7 +249,7 @@ by Olaus Wormius.</head>
 <l>Et naves in aquas protruſi</l>
 <l>Paſſim impetravimus tum feris</l>
 <l>Eſcam in Scotiæ ſinubus. </l>
-</lg><lg xmlns="" n="25"><l>Pugnavimus enſibus</l>
+</lg><lg  n="25"><l>Pugnavimus enſibus</l>
 <l>Hoc ridere me facit ſemper</l>
 <l>Quod Balderi patris ſcamne</l>
 <l>Parata ſcio in aula</l>
@@ -259,7 +259,7 @@ by Olaus Wormius.</head>
 <l>Magnifici in Odini domibus</l>
 <l>Non venio diſperabundis</l>
 <l>Verbis ad Odini aulam.</l>
-</lg><lg xmlns="" n="26"><l>Pugnavimus enſibus</l>
+</lg><lg  n="26"><l>Pugnavimus enſibus</l>
 <l>Hic vellent nunc omnes</l>
 <l>Filii Aſlaugæ gladiis</l>
 <l>Amarum bellum excitare</l>
@@ -269,7 +269,7 @@ by Olaus Wormius.</head>
 <l>Venenati me diſcerpunt</l>
 <l>Matrem accepi meis</l>
 <l>Filiis ita ut corda valeant.</l>
-</lg><lg xmlns="" n="27"><l>Pugnavimus enſibus</l>
+</lg><lg  n="27"><l>Pugnavimus enſibus</l>
 <l>Valde inclinatur ad hæreditatem</l>
 <l>Crudele ſtat nocumentum a vipera</l>
 <l>Anguis inhabitat aulam cordis</l>
@@ -279,7 +279,7 @@ by Olaus Wormius.</head>
 <l>Sua ira rubeſcet</l>
 <l>Non acres juvenes</l>
 <l>Seſſionem tranquillam facient.</l>
-</lg><lg xmlns="" n="28"><l>Pugnavimus enſibus</l>
+</lg><lg  n="28"><l>Pugnavimus enſibus</l>
 <l>Habeo quinquagies</l>
 <l>Prælia ſub ſignis facta</l>
 <l>Ex belli invitatione et ſemel</l>
@@ -289,7 +289,7 @@ by Olaus Wormius.</head>
 <l>Alius rex præſtantior</l>
 <l>Nos Aſæ invitabunt</l>
 <l>Non eſt lugenda mors. </l>
-</lg><lg xmlns="" n="29"><l>Pugnavimus enſibus</l>
+</lg><lg  n="29"><l>Pugnavimus enſibus</l>
 <l>Fert animus finire</l>
 <l>Invitant me Dyſæ</l>
 <l>Quas ex Othini aula</l>

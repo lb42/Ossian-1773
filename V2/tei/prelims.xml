@@ -1,10 +1,9 @@
 <front xmlns="http://www.tei-c.org/ns/1.0">
- <pb n="73200001" facs="1773-020.pbm"/>
+ <pb xml:id="P73200001" facs="../img/1773-020.pbm"/>
  <div type="advertisements">
   <head><hi>This Day is Publiſhed</hi>, </head>
   <p> By T. BECKET, Corner of the Adelphi Buildings in the STRAND,</p>
-  <p>Bookſeller to their Royal Highneſſes the Prince of <hi rend="sc">Wales</hi> and Biſhop of <hi
-   rend="sc">Osnaburgh</hi>,</p>
+  <p>Bookſeller to their Royal Highneſſes the Prince of <hi rend="sc">Wales</hi> and Biſhop of <hi rend="sc">Osnaburgh</hi>,</p>
   <p>FABLES de La FONTAINE,</p>
   <p>Printed at Paris, in Four Volumes Folio.</p>
   <p>This very magnificent Work is propoſed to the Publick at only <hi>Eight</hi> Guineas in Sheets,
@@ -13,13 +12,11 @@
    <hi>Fourteen thouſand Pounds Sterling</hi>, is undoubtedly one of the moſt ſuperb Monuments ever
    erected to the Memory of an Author.</p>
   <p>It is printed with a new Letter, on a fine Paper, manufactured expreſsly for the Work ; every
-   Fable being ornamented by a Head and Tail-piece, deſigned in a new Taſte, by M. <hi rend="sc"
-   >Bachelier</hi>, and executed by M. <hi rend="sc">T. Papillon</hi> and <hi rend="sc">Le
+   Fable being ornamented by a Head and Tail-piece, deſigned in a new Taſte, by M. <hi rend="sc">Bachelier</hi>, and executed by M. <hi rend="sc">T. Papillon</hi> and <hi rend="sc">Le
    Sueur</hi>,</p>
   <p>To the Beauty this Work derives from the Printing-preſs, is alſo added the capital
    Embelliſhment of no leſs than <hi rend="sc">Two Hundred</hi> and <hi rend="sc">Seventy-six</hi>
-   Copper-plates; the Deſigns applicable to the Subjects, drawn after Nature, by <hi rend="sc"
-   >Oudry</hi>, one of the moſt celebrated Painters France ever produced for delineating the Animal
+   Copper-plates; the Deſigns applicable to the Subjects, drawn after Nature, by <hi rend="sc">Oudry</hi>, one of the moſt celebrated Painters France ever produced for delineating the Animal
    Creation. The Engravings by the moſt expert Artiſts in their ſeveral Departments, under the
    Direction of the celebrated M. <hi rend="sc">Cochin</hi> ; who reviſed and ſuperintended the
    Whole.</p>
@@ -30,7 +27,7 @@
    <!-- Vol. II, A The --></p>
   <p>
    <!--  -->
-   <pb n="73200002" facs="1773-023.pbm"/> The following <hi rend="sc">books</hi> are publiſhed by
+   <pb xml:id="P73200002" facs="../img/1773-023.pbm"/> The following <hi rend="sc">books</hi> are publiſhed by
    <hi rend="sc">t. becket</hi>:</p>
   <list>
    <item>
@@ -52,8 +49,7 @@
     one Volume 4to. Price 18s. in Boards.</p></item>
    <item>
     <p>5. A Journal of the Swediſh Ambaſſy, in the Years 1653 and 1054, from the Commonwealth of
-    England, Scotland, and Ireland. Written by the Ambaſſador the Lord Commiſſioner <hi rend="sc"
-    >White-locke</hi>, With an <hi rend="sc">Appendix</hi> of Original Papers. 2 Vols. 4to. 1l. 11s.
+    England, Scotland, and Ireland. Written by the Ambaſſador the Lord Commiſſioner <hi rend="sc">White-locke</hi>, With an <hi rend="sc">Appendix</hi> of Original Papers. 2 Vols. 4to. 1l. 11s.
     6d. Boards.</p>
     <p>** This very curious and valuable Work is printed from the Author's own Manuſcript (which is
     depoſited in the Britiſh Muſeum for public Inſpection) and at the Requeſt of his Grandſon
@@ -88,13 +84,13 @@
  <!--  -->
  <!--   -->
  <!--  -->
- <pb n="73200003" facs="1773-026.pbm"/>
+ <pb xml:id="P73200003" facs="../img/1773-026.pbm"/>
  <!--  -->
  <!--  -->
- <pb n="73200004" facs="1773-029.pbm"/>
+ <pb xml:id="P73200004" facs="../img/1773-029.pbm"/>
  <!--  -->
  <!--  -->
- <pb n="73200005" facs="1773-032.pbm"/>
+ <pb xml:id="P73200005" facs="../img/1773-032.pbm"/>
  <titlePage>
   <docTitle>
    <titlePart>THE POEMS OF OSSIAN.</titlePart>
@@ -108,32 +104,42 @@
    Biſhop of <hi rend="sc">Osnabrugh</hi>.</docImprint>
   <docDate>MDCCLXXIII. </docDate>
  </titlePage>
- 
+
  <!--  -->
  <!--  -->
  <!--  -->
- <pb n="73200006" facs="1773-035.pbm"/>
+ <pb xml:id="P73200006" facs="../img/1773-035.pbm"/>
  <!--  -->
  <!--  -->
- <pb n="73200007" facs="1773-038.pbm"/>
+ <pb xml:id="P73200007" facs="../img/1773-038.pbm"/>
  <!--   -->
  <!--  -->
  <!--   -->
  <div type="contents">
   <head>CONTENTS OF THE SECOND VOLUME.</head>
-<list><item>
-  <p>TEMORA, Book I — — Page 1 Book II. — — 29 Book III. — — 53 Book IV. — — 75 Book V. — — 97 Book
-   VI. — — 117 Book VII. — — 139 Book VIII. — — 157</p>
-  <p>CONLATH and CUTHONA, — 181</p>
-  <p>BERRATHON, — — — 191</p>
-  <p>A DISSERTATION concerning the ÆRA of OSSIAN, — — 211</p>
-  <p>A DISSERTATION concerning the POEMS of OSSIAN, — 233</p>
-  <p>A critical DISSERTATION on the POEMS of OSSIAN, — 281 </p></item></list>
+  <list>
+   <item>TEMORA, <list>
+    <item>Book I — — Page <ref target="#P73210001">1</ref> </item>
+    <item>Book II. — — <ref target="#P73210029">29</ref> </item>
+    <item>Book III. — — <ref target="#P73210053">53</ref> </item>
+    <item>Book IV. — — <ref target="#P73210075">75</ref> </item>
+    <item>Book V. — — <ref target="#P73210097">97</ref> </item>
+    <item>Book VI. — — <ref target="#P73210117">117</ref> </item>
+    <item>Book VII. — — <ref target="#P73210139">139</ref> </item>
+    <item>Book VIII. — — <ref target="#P73210157">157</ref></item>
+    </list></item>
+   <item>CONLATH and CUTHONA, — <ref target="#P73210181">181</ref></item>
+   <item>BERRATHON, — — — <ref target="#P73210191">191</ref></item>
+   <item>A DISSERTATION concerning the ÆRA of OSSIAN, — — <ref target="#P73210211">211</ref></item>
+   <item>A DISSERTATION concerning the POEMS of OSSIAN, — <ref target="#P73210233">233</ref></item>
+   <item>A critical DISSERTATION on the POEMS of OSSIAN, — <ref target="#P73210281">281</ref>
+   </item>
+  </list>
  </div>
  <!--  -->
  <!-- 3 TE- -->
  <!--  -->
- <pb n="73200008" facs="1773-041.pbm"/>
+ <pb xml:id="P73200008" facs="../img/1773-041.pbm"/>
  <!--  -->
  <!--  -->
 </front>

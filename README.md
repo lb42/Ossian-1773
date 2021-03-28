@@ -1,7 +1,6 @@
 # Ossian-1773
 
-<a title="Jean Auguste Dominique Ingres
-, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Ossiansongs.JPG"><img width="512" alt="Ossiansongs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ossiansongs.JPG/512px-Ossiansongs.JPG"></a>
+<a title="Jean Auguste Dominique Ingres, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Ossiansongs.JPG"><img width="512" alt="Ossiansongs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ossiansongs.JPG/512px-Ossiansongs.JPG"></a>
 
 ## A TEI transcription of the 1773 edition of James Macpherson's "translations" of the works of "Ossian"
 
@@ -11,7 +10,7 @@ It turned out to be a seven step process.
 
 ### 1. Decide which PDF to work from
 
-You might think that one library's digitized copy of "the 1773 edition of Ossian" would be much the same as another's. But no. There are variations in the physical state of the originals, and the PDF format in which the digitization is made available may also vary. I downloaded three  different digitized versions from the Internet Archive, but mainly I used the PDF version of the copy preserved at the National Library of Scotland.  https://ia802302.us.archive.org/33/items/poemsofossiantra11macp/poemsofossiantra11macp.pdf I say "mainly" because that particular PDF file had a curious glitch in it which made some of the half-titles disappear when extracted as separate image files. I supplied the missing text from the PDF version of the New York Public Library's copy. 
+You might think that one library's digitized copy of "the 1773 edition of Ossian" would be much the same as another's. But no. There are variations in the physical state of the originals, and the PDF format in which the digitization is made available may also vary. I downloaded three  different digitized versions from the Internet Archive, but mainly I used [the PDF version of the copy preserved at the National Library of Scotland](https://ia802302.us.archive.org/33/items/poemsofossiantra11macp/poemsofossiantra11macp.pdf).  I say "mainly" because that particular PDF file had a curious glitch in it which made some of the half-titles disappear when extracted as separate image files. I supplied the missing text from the PDF version of the New York Public Library's copy and speculated wildly about printing history before realising that this was just a dodgy PDF artefact. 
 
 ### 2. extract images from PDF 
 

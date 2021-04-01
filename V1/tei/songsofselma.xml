@@ -1,6 +1,11 @@
 <text xmlns="http://www.tei-c.org/ns/1.0">
  <front>
-  <pb xml:id="P73110204" facs="../img/1773-645.pbm"/>
+  <pb xml:id="P73110203" facs="../img/1773-642.pbm"/>
+  <!--  -->
+   <titlePage source="NYPL">
+    <titlePart><title>THE SONGS of SELMA.</title></titlePart>
+   </titlePage>
+    <pb xml:id="P73110204" facs="../img/1773-645.pbm"/>
   <div>
    <head>ARGUMENT.</head>
    <p> Addreſs to the evening ſtar. An apoſtrophe to Fingal and his times. Minona ſings before the
@@ -24,34 +29,32 @@
    Oſſian's ſoul ariſe !</p>
   <p><hi rend="sc">And</hi> it does ariſe in its ſtrength! I behold my departed friends. Their
    gathering is on Lora, as in the days of other years. Fingal comes like a watry column of miſt;
-   his heroes are around : And ſee the bards of ſong, grey<!--  -->
-   <!-- haired -->
-   <!--  -->
+   his heroes are around : And ſee the bards of ſong, <!--  -->
    <pb xml:id="P73110206" facs="../img/1773-651.pbm"/>
-   <!-- 206 Txt SONGS or SELMA, --> haired Ullin! ſtately Ryno! Alpin<note>
+   <!-- 206 Txt SONGS or SELMA, --> grey<!--  -->-<!-- haired -->haired Ullin! ſtately Ryno! Alpin<note>
    <p> Alpin is from the ſame root with Albion, or rather Albin, the ancient name of Britain; Alp,
-   <hi>high Iſland</hi>, or <hi>country</hi>. The preſent name of our iſland has its origin in the
-   Celtic tongue; ſo that thoſe who derived it from any other, betrayed their ignorance of the
-   ancient language of our country. <hi>Brait</hi> or <hi>Braid</hi>, extenſive; and <hi>in</hi>,
-   land. </p></note>, with the tuneful voice! the ſoft complaint of Minona! How are ye changed, my
-   friends, ſince the days of Selma's feaſt ? when we contended, like gales of ſpring, as they fly
-   along the hill, and bend by turns the feebly-whiſtling graſs.</p>
+    <hi>high Iſland</hi>, or <hi>country</hi>. The preſent name of our iſland has its origin in the
+    Celtic tongue; ſo that thoſe who derived it from any other, betrayed their ignorance of the
+    ancient language of our country. <hi>Brait</hi> or <hi>Braid</hi>, extenſive; and <hi>in</hi>,
+    land. </p>
+   </note>, with the tuneful voice! the ſoft complaint of Minona! How are ye changed, my friends,
+   ſince the days of Selma's feaſt ? when we contended, like gales of ſpring, as they fly along the
+   hill, and bend by turns the feebly-whiſtling graſs.</p>
   <p><hi rend="sc">Minona</hi><note>
    <p> Oſſian introduces Minona, not in the ideal ſcene in his own mind, which he had deſcribed ;
-   but at the annual feaſt of Selma, where the bards repeated their works before Fingal. </p></note>
-   came forth in her beauty ; with down-caſt look and tearful eye. Her hair flew ſlowly on the
-   blaſt, that ruſhed unfrequent from the hill. The ſouls of the heroes were ſad when ſhe raiſed the
-   tuneful voice. Often had they ſeen the grave of Salgar 3, the dark dwelling of white-boſomed Colma<note>
-   <p> Cul math, <hi>a woman with fine hair.</hi> </p></note>. Colma left alone on the hill, with
-   all her voice of ſong! Salgar promiſed to come: but the night deſcended around. Hear the voice of
-   Colma, when ſhe ſat alone on the hill ! </p>
+    but at the annual feaſt of Selma, where the bards repeated their works before Fingal. </p>
+   </note> came forth in her beauty ; with down-caſt look and tearful eye. Her hair flew ſlowly on
+   the blaſt, that ruſhed unfrequent from the hill. The ſouls of the heroes were ſad when ſhe raiſed
+   the tuneful voice. Often had they ſeen the grave of Salgar <note><p>Sealg-'er, <hi>a hunter</hi>.</p></note>, the dark dwelling of white-boſomed Colma<note>
+   <p> Cul math, <hi>a woman with fine hair.</hi> </p>
+   </note>. Colma left alone on the hill, with all her voice of ſong! Salgar promiſed to come: but
+   the night deſcended around. Hear the voice of Colma, when ſhe ſat alone on the hill ! </p>
   <!--  -->
   <!-- CoLMA. -->
   <!--  -->
   <pb xml:id="P73110207" facs="../img/1773-654.pbm"/>
   <!-- The SONGS of SELMA. 207 -->
-  <sp>
-   <speaker><hi rend="sc">Colma.</hi></speaker>
+  <sp><speaker><hi rend="sc">Colma.</hi></speaker>
    <p> <hi rend="sc">It</hi> is night; I am alone, forlorn on the hill of ſtorms. The wind is heard
     in the mountain. The torrent pours down the rock. No hut receives me from the rain; forlorn on
     the hill of winds !</p>
@@ -81,7 +84,7 @@
     for ever! Cold, cold are their breaſts of clay! Oh! from the rock on the hill; from the top of
     the windy ſteep, ſpeak, ye ghoſts of the dead ! ſpeak, I will not be afraid ! Whither are ye
     gone to reſt? In what cave of the hill ſhall I find the departed ? No feeble voice is on the
-    gale : no anſwer halfdrowned in the ſtorm !</p>
+    gale : no anſwer half-drowned in the ſtorm !</p>
    <p><hi rend="sc">I sit</hi> in my grief! I wait for morning in my tears! Rear the tomb, ye
     friends of the dead. Cloſe it not till Colma come, My life flies <!--  -->
     <!-- 2 away -->
@@ -137,7 +140,7 @@
     ſteps I compaſs thy grave, O thou who waſt ſo great before ! Four ſtones, with their heads of
     moſs, are the only memorial of thee. A tree with ſcarce a leaf, long graſs, which whiſtles in
     the wind, mark to the hunter's eye the grave of the mighty Morar. Morar! thou art low indeed.
-    Thou haſt no mother to mourn thee; no maid with her tears of love. Dead is the that brought thee
+    Thou haſt no mother to mourn thee; no maid with her tears of love. Dead is ſhe that brought thee
     forth. Fallen is the daughter of Morglan.</p>
    <p><hi rend="sc">Who</hi> on his ſtaff is this? who is this, whoſe head is white with age ? whoſe
     eyes are red with tears? who quakes at every ſtep? It is thy father<note>
@@ -153,9 +156,9 @@
     braveſt of men ! thou conqueror in the field ! but the field ſhall ſee thee no more ; nor the
     dark wood be lightened with the ſplendor of thy ſteel. Thou haſt left no ſon, The ſong thall
     preſerve thy name. Future times ſhall hear of thee; they ſhall hear of the fallen Morar !</p>
-   <p>THs grief of all aroſe, but moſt the burſting ſigh of Armin<note>
-    <p> Armin, a hero. He was Chief or petty king of Gorma, <hi>i. e. the blue iſland</hi>, ſuppoſed
-    to be one of the Hebrides. </p></note>. He remembers the death of his ſon, who fell in the days
+   <p><hi rend="sc">The</hi> grief of all aroſe, but moſt the burſting ſigh of Armin<note>
+    <p> Armin, a hero. He was chief or petty king of Gorma, <hi>i. e. the blue iſland</hi>, ſuppoſed
+     to be one of the Hebrides. </p></note>. He remembers the death of his ſon, who fell in the days
     of his youth. Carmor<note>
     <p> Cear-mór, <hi>a tall dark-complexioncd man.</hi> </p></note> was near the hero, the chief of
     the ecchoing Galmal. Why burſts the ſigh of Armin, he ſaid? Is there a cauſe to mourn ? The ſong
@@ -166,7 +169,7 @@
     <!--  -->
     <pb xml:id="P73110213" facs="../img/1773-672.pbm"/>
     <!-- Tiz SONGS or SELMA. 213 --> art thou ſad, O Armin, chief of ſea-ſurrounded Gorma ?</p>
-   <p><hi>Sad</hi> ! I am ! nor ſmall is my cauſe of woe ! Carmor, thou haſt loſt. Colgar the
+   <p><hi rend="sc">Sad</hi> ! I am ! nor ſmall is my cauſe of woe ! Carmor, thou haſt loſt. Colgar the
     valiant lives; and Annira faireſt maid. The boughs of thy houſe aſcend, O Carmor! but Armin is
     the laſt of his race. Dark is thy bed, O Daura ! deep thy ſleep in the tomb ! When ſhalt thou
     awake with thy ſongs? with all thy voice of muſic ?</p>
@@ -175,10 +178,11 @@
     ſhow thy pale face, at intervals! bring to my mind the night, when all my children fell ; when
     Arindal the mighty fell ; when Daura the lovely failed ! Daura, my daughter! thou wert fair;
     fair as the moon on Fura<note>
-    <p> Fuar-a, <hi rend="sc">cold iſland.</hi> </p></note>; white as the driven ſnow ; ſweet as the
-    breathing gale. Arindal, thy bow was ſtrong. Thy ſpear was ſwift in the field. Thy look was like
-    miſt on the wave : thy ſhield, a red cloud in a ſtorm. Armar, renowned in war, came, and ſought
-    Daura's love, He was not long refuſed : fair was the hope of their friends ! <!--  -->
+    <p> Fuar-a, <hi rend="sc">cold iſland.</hi> </p>
+    </note>; white as the driven ſnow ; ſweet as the breathing gale. Arindal, thy bow was ſtrong.
+    Thy ſpear was ſwift in the field. Thy look was like miſt on the wave : thy ſhield, a red cloud
+    in a ſtorm. Armar, renowned in war, came, and ſought Daura's love. He was not long refuſed :
+    fair was the hope of their friends ! <!--  -->
     <!-- P 3; EkxATH, -->
     <!--  -->
     <pb xml:id="P73110214" facs="../img/1773-675.pbm"/>
@@ -197,21 +201,20 @@
     relieve your Daura !</p>
    <p><hi rend="sc">Her</hi> voice came over the ſea. Arindal my ſon deſcended from the hill ; rough
     in the ſpoils of the chace. His arrows rattled by his ſide; his bow was in his hand : five dark
-    grey dogs attend his ſteps. He ſaw fierce Erath on the ſhore: he ſeized and bound him to an
-    oak.</p>
-   <p><!--  -->
+    grey dogs attend his ſteps. He ſaw fierce Erath on the ſhore: he ſeized and bound him to an oak.
+    <!--  -->
     <!-- Thick -->
     <!--  -->
     <pb xml:id="P73110215" facs="../img/1773-678.pbm"/>
     <!-- Tit SONGS or SELMA. 215 --> Thick wind the thongs<note>
-    <p> The poet here only means that Erath was bound with leathern thongs. </p></note> of the hide
-    around his limbs; he loads the wind with his groans. Arindal aſcends the deep in his boat, to
-    bring Daura to land. Armar came in his wrath, and let fly the grey-feathered ſhaft. It ſung ; it
-    ſunk in thy heart, O Arindal my ſon ! for Erath the traitor thou diedſt. The oar is ſtopped at
-    once; he panted on the rock and expired. What is thy grief, O Daura, when round thy feet is
-    poured thy brother's blood ! The boat is broken in twain. Armar plunges into the ſea, to reſcue
-    his Daura or die. Sudden a blaſt from the hill came over the waves. He ſunk, and he roſe no
-    more.</p>
+    <p> The poet here only means that Erath was bound with leathern thongs. </p>
+    </note> of the hide around his limbs; he loads the wind with his groans. Arindal aſcends the
+    deep in his boat, to bring Daura to land. Armar came in his wrath, and let fly the
+    grey-feathered ſhaft. It ſung ; it ſunk in thy heart, O Arindal my ſon ! for Erath the traitor
+    thou diedſt. The oar is ſtopped at once; he panted on the rock and expired. What is thy grief, O
+    Daura, when round thy feet is poured thy brother's blood ! The boat is broken in twain. Armar
+    plunges into the ſea, to reſcue his Daura or die. Sudden a blaſt from the hill came over the
+    waves. He ſunk, and he roſe no more.</p>
    <p><hi rend="sc">Alone</hi>, on the ſea-beat rock, my daughter was heard to complain. Frequent
     and loud were her cries. What could her father do? All night I ſtood on the ſhore, I ſaw her by
     the faint beam of the moon. All night I heard her cries. Loud was the wind ; the rain beat hard
@@ -229,15 +232,15 @@
   <p><hi rend="sc">Such</hi> were the words of the bards in the days of ſong; when the King heard
    the muſic of harps, the tales of other times ! The chiefs gathered from all their hills, and
    heard the lovely ſound. They praiſed the voice<note>
-   <p> Ofſian is ſometimes poetically called <hi>the voice of Cona.</hi> </p></note> of Cona ! the
-   firſt among a thouſand bards! But age is now on my tongue; my ſoul has failed! I hear, at times,
-   the ghoſts of bards, and learn their pleaſant ſong. Bnt memory fails on my mind. I hear the call
-   of years! They ſay, as they paſs along, why does Oſſian ſing ? Soon ſhall he be in the narrow
-   houſe, and no bard thall raiſe his fame ! Roll on, ye dark-brown years; ye bring no joy on your
-   courſe! Let the tomb open to Oſſian, for his ſtrength has failed. The ſons of ſong are gone to
-   reſt. My voice remains, like a blaſt, that roars, lonely, on a ſea-ſurrounded rock, after the
-   winds are laid. The dark moſs whiſtles there; the diſtant mariner ſees the waving trees !
-   <!--  -->
+   <p> Ofſian is ſometimes poetically called <hi>the voice of Cona.</hi> </p>
+   </note> of Cona ! the firſt among a thouſand bards! But age is now on my tongue; my ſoul has
+   failed! I hear, at times, the ghoſts of bards, and learn their pleaſant ſong. <corr>But</corr>
+   memory fails on my mind. I hear the call of years! They ſay, as they paſs along, why does Oſſian
+   ſing ? Soon ſhall he be in the narrow houſe, and no bard thall raiſe his fame ! Roll on, ye
+   dark-brown years; ye bring no joy on your courſe! Let the tomb open to Oſſian, for his ſtrength
+   has failed. The ſons of ſong are gone to reſt. My voice remains, like a blaſt, that roars,
+   lonely, on a ſea-ſurrounded rock, after the winds are laid. The dark moſs whiſtles there; the
+   diſtant mariner ſees the waving trees ! <!--  -->
    <!-- 9 -->
    <!--  --> </p>
  </body>

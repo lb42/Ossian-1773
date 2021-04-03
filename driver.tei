@@ -27,7 +27,10 @@
      <xi:include href="V1/tei/songsofselma.xml"/>
      <text>
       <!-- start of Fingal -->
-      <group>
+      <pb xml:id="P73110217" facs="V1/img/1773-684.pbm"/>
+      <front><titlePage>
+       <titlePart>FINGAL, AN ANCIENT EPIC POEM. In SIX BOOKS.</titlePart></titlePage>
+      </front><group>
        <xi:include href="V1/tei/fingal-1.xml"/>
        <xi:include href="V1/tei/fingal-2.xml"/>
        <xi:include href="V1/tei/fingal-3.xml"/>

@@ -1,7 +1,7 @@
 <front xmlns="http://www.tei-c.org/ns/1.0">
  <pb xml:id="P73200001" facs="../img/1773-020.pbm"/>
  <div type="advertisement">
-  <head><hi>This Day is Publiſhed</hi>, </head>
+  <p><hi>This Day is Publiſhed</hi>, </p>
   <p> By T. BECKET, Corner of the Adelphi Buildings in the STRAND,</p>
   <p>Bookſeller to their Royal Highneſſes the Prince of <hi rend="sc">Wales</hi> and Biſhop of <hi rend="sc">Osnaburgh</hi>,</p>
   <p>FABLES de La FONTAINE,</p>
@@ -23,12 +23,13 @@
   <p><hi rend="sc">La Fontaine</hi>'s Life is prefixed, containing many Anecdotes of that exquiſite
    Fabuliſt, not to be met with elſewhere.</p>
   <p> * * Such Ladies and Gentlemen who are deſirous of being poſſeſſed of this magnificent Work,
-   are requeſted to ſavour the Proprietors with their Commands. <!--  -->
+   are requeſted to ſavour the Proprietors with their Commands. 
    <!-- Vol. II, A The --></p>
-  <p>
-   <!--  -->
-   <pb xml:id="P73200002" facs="../img/1773-023.pbm"/> The following <hi rend="sc">books</hi> are publiſhed by
-   <hi rend="sc">t. becket</hi>:</p>
+  </div>
+   <pb xml:id="P73200002" facs="../img/1773-023.pbm"/> 
+ <div type="advertisement">
+  <head>The following <hi rend="sc">books</hi> are publiſhed by
+   <hi rend="sc">t. becket</hi>.</head>
   <list>
    <item>
     <p>1. <hi rend="sc">The</hi> Iliad of Homer. Tranſlated by James Macpherſon, Eſq; in 2 Vols.
@@ -81,15 +82,14 @@
     <p>15. —— Ditto. New Edition. 9 Vols. Small 8vo. 1l. 11s. 6d. </p></item>
   </list>
  </div>
- <!--  -->
  <!--   -->
- <!--  -->
+ 
  <pb xml:id="P73200003" facs="../img/1773-026.pbm"/>
- <!--  -->
- <!--  -->
+ 
+ 
  <pb xml:id="P73200004" facs="../img/1773-029.pbm"/>
- <!--  -->
- <!--  -->
+ 
+ 
  <pb xml:id="P73200005" facs="../img/1773-032.pbm"/>
  <titlePage>
   <docTitle>
@@ -105,15 +105,16 @@
    <date>MDCCLXXIII. </date></docImprint>
  </titlePage>
 
- <!--  -->
- <!--  -->
- <!--  -->
+ 
+ 
+ 
  <pb xml:id="P73200006" facs="../img/1773-035.pbm"/>
- <!--  -->
- <!--  -->
+ 
+ <!-- National Library of Scotland stamp: 4 Ap 1941 -->
+ 
  <pb xml:id="P73200007" facs="../img/1773-038.pbm"/>
  <!--   -->
- <!--  -->
+ 
  <!--   -->
  <div type="contents">
   <head>CONTENTS OF THE SECOND VOLUME.</head>
@@ -136,10 +137,10 @@
    </item>
   </list>
  </div>
- <!--  -->
+ 
  <!-- 3 TE- -->
- <!--  -->
+ 
  <pb xml:id="P73200008" facs="../img/1773-041.pbm"/>
- <!--  -->
- <!--  -->
+ 
+ 
 </front>

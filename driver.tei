@@ -1,4 +1,6 @@
-<!-- 1773 vol 1 -->
+
+<?xml-model href="Scripts/ossianODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="Scripts/ossianODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
  <!-- first the TEI Header, for the whole of the edition -->
  <xi:include href="teiHeader.xml"/>

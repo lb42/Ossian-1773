@@ -1,6 +1,6 @@
 <front xmlns="http://www.tei-c.org/ns/1.0">
  <pb xml:id="P73200001" facs="../img/1773-020.pbm"/>
- <div type="advertisements">
+ <div type="advertisement">
   <head><hi>This Day is Publiſhed</hi>, </head>
   <p> By T. BECKET, Corner of the Adelphi Buildings in the STRAND,</p>
   <p>Bookſeller to their Royal Highneſſes the Prince of <hi rend="sc">Wales</hi> and Biſhop of <hi rend="sc">Osnaburgh</hi>,</p>
@@ -101,8 +101,8 @@
   <docEdition>A NEW EDITION, Carefully corrected, and greatly improved.</docEdition>
   <docImprint>LONDON: Printed for <hi rend="sc">W. Strahan</hi>; and <hi rend="sc">T. Becket</hi>,
    in the Strand, Bookſeller to their Royal Highneſſes the Prince of <hi rend="sc">Wales</hi> and
-   Biſhop of <hi rend="sc">Osnabrugh</hi>.</docImprint>
-  <docDate>MDCCLXXIII. </docDate>
+   Biſhop of <hi rend="sc">Osnabrugh</hi>.
+   <date>MDCCLXXIII. </date></docImprint>
  </titlePage>
 
  <!--  -->

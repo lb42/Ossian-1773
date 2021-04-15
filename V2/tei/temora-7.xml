@@ -1,4 +1,6 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><front>
+<text xmlns="http://www.tei-c.org/ns/1.0">
+  <pb xml:id="P73210139" facs="../img/1773-458.pbm"/> 
+<front>
  <titlePage source="NYPL"><titlePart>TEMORA: AN EPIC POEM. BOOK VII.</titlePart></titlePage><!-- supplied from NYPL copy-->
 <pb xml:id="P73210140" facs="../img/1773-461.pbm"/>
  <div><head>ARGUMENT to <hi rend="sc">Book</hi> VII.</head><p> <hi rend="sc">This</hi> book begins, about the middle of the third night from the opening of the poem. The poet deſcribes a kind of miſt, which roſe, by night, from the lake of Lego, and was the uſual reſidence of the ſouls of the dead, during the interval between their deceaſe and the funeral ſong. The appearance of the ghoſt of Fillan above the cave where his body lay. His voice comes to Fingal, on the rock of Cormul. The king ſtrikes the ſhield of Trenmor, which was an infallible ſign of his appearing in arms himſelf. The extraordinary effect of the ſound of the ſhield. Sul-malla, ſtarting from ſleep, awakes Cathmor. Their affecting diſcourſe, She inſiſts with him, to ſue for peace ; he reſolves to continue the war, He directs her to retire to the neighbouring valley of Lona which was the reſidence of an old Druid, until the battle of the next day ſhould be over. He awakes his army with the ſound of his ſhield. The ſhield deſcribed. Fonar, the bard, at the deſire of Catkmor, relates the firſt ſettlement of the Fir-bolg in Ireland, under their leader Larthon. Morning comes. Sul-malla retires, to the valley of Lona. A Lyric ſong concludes the book. <!--  -->
@@ -6,34 +8,61 @@
 <pb xml:id="P73210141" facs="../img/1773-464.pbm"/>
 <!-- [ 141 ] -->
  <head>TEMORA: AN EPIC POEM. BOOK VII.</head>
-   <p><hi rend="sc">From</hi> the wood-ſkirted waters of Lego, aſcend at times, grey-boſomed miſts ; when the gates of the weſt are cloſed, on the ſun's eagle-eye. Wide, over Lara's ſtream, is poured the vapour dark and deep: the moon, like a dim ſhield, is ſwimming thro' its folds. With this, clothe the ſpirits of old their ſudden geſtures on the wind, when they ſtride, from blaſt to blaſt, along the duſky night. Often, blended with the gale, to ſome warrior's grave<note><p> As the miſt, which roſe from the lake of Lego, occaſioned diſeaſes and death, the bards feigned that it was the reſidence of the ghoſts of the deceaſed, during the interval between their death, and the pronouncing of the funeral elegy over their tombs ; for it was not allowable, without</p><p>that ceremony was perſormed, for the ſpirits of the dead to mix with their anceſtors, <hi>in their airy halls</hi>. It was the buſineſs of the ſpirit of the neareſt relation to the deceaſed, to take the miſt of Lego, and pour it over the grave. We find here Conar, the ſon of Trenmor, the firſt king of Ireland, performing this office for Fillan, as it was in the cauſe of the family of Conar, that that hero was killed, </p></note>, they <!--  -->
+   <p><hi rend="sc">From</hi> the wood-ſkirted waters of Lego, aſcend at times, grey-boſomed miſts ; when the gates of the weſt are cloſed, on the ſun's eagle-eye. Wide, over Lara's ſtream, is poured the vapour dark and deep: the moon, like a dim ſhield, is ſwimming thro' its folds. With this, clothe the ſpirits of old their ſudden geſtures on the wind, when they ſtride, from blaſt to blaſt, along the duſky night. Often, blended with the gale, to ſome warrior's grave<note><p> As the miſt, which roſe from the lake of Lego, occaſioned diſeaſes and death, the bards feigned
+    that it was the reſidence of the ghoſts of the deceaſed, during the interval between their
+    death, and the pronouncing of the funeral elegy over their tombs ; for it was not allowable,
+    without that ceremony was perſormed, for the ſpirits of the dead to mix with their anceſtors,
+    <hi>in their airy halls</hi>. It was the buſineſs of the ſpirit of the neareſt relation to the
+    deceaſed, to take the miſt of Lego, and pour it over the grave. We find here Conar, the ſon of
+    Trenmor, the firſt king of Ireland, performing this office for Fillan, as it was in the cauſe of
+    the family of Conar, that that hero was killed, </p></note>, they <!--  -->
 <!-- roll -->
 <!--  -->
 <!-- 5 that -->
 <!--  -->
 <pb xml:id="P73210142" facs="../img/1773-467.pbm"/>
 <!-- 142 T E M O R A: Book VII. -->
- roll the miſt, a grey dwelling to his ghoſt, until the ſongs ariſe.</p><p><hi rend="sc">A sound</hi> came from the deſart ; it was Conar, king of Inis-fail. He poured his miſt on the grave of Fillan, at blue-winding Lubar. Dark and mournful ſat the ghoſt, in his grey ridge of ſmoak. The blaſt, at times, rolled him together : but the form returned again. Tt returned with bending eyes, and dark winding of locks of miſt.</p><p>IT was<note><p> The following is the ſingular ſentiment of a frigid bard : “More pleaſing to me is the night of Cona, dark-ſtreaming from Oſſian's harp; more pleaſant it is to me, than a white boſomed dweller between my arms; than a fair-handed daughter of heroes, in the hour of reſt.”</p><p>Tho' tradition is not very ſatisfactory concerning the hiſtory of this poet, it has taken care to inform us, that he was <hi>very old</hi> when he wrote the diſtich, a circumſtance, which we might have ſuppoſed, without the aid of tradition. </p></note> dark. The ſleeping hoſt were ſtill, in the ſkirts of night. The flame decayed, on the hill of Fingal; the king lay lonely on his ſhield. His eyes were half-cloſed in ſleep ; the voice of Fillan came. “Sleeps the huſband of <!--  -->
+ roll the miſt, a grey dwelling to his ghoſt, until the ſongs ariſe.</p><p><hi rend="sc">A sound</hi> came from the deſart ; it was Conar, king of Inis-fail. He poured his
+   miſt on the grave of Fillan, at blue-winding Lubar. Dark and mournful ſat the ghoſt, in his grey
+   ridge of ſmoak. The blaſt, at times, rolled him together : but the form returned again. It
+   returned with bending eyes, and dark winding of locks of miſt.</p><p><hi rend="sc">It</hi> was<note><p> The following is the ſingular ſentiment of a frigid bard : <quote>“More pleaſing to me is the night of Cona, dark-ſtreaming from Oſſian's harp; more pleaſant it is to me, than a white boſomed dweller between my arms; than a fair-handed daughter of heroes, in the hour of reſt.”</quote></p><p>Tho' tradition is not very ſatisfactory concerning the hiſtory of this poet, it has taken care to inform us, that he was <hi>very old</hi> when he wrote the diſtich, a circumſtance, which we might have ſuppoſed, without the aid of tradition. </p></note> dark. The ſleeping hoſt were ſtill, in the ſkirts of night. The flame decayed, on the hill of Fingal; the king lay lonely on his ſhield. His eyes were half-cloſed in ſleep ; the voice of Fillan came. “Sleeps the huſband of <!--  -->
 <!-- I Clatho ? -->
 <!--  -->
 <pb xml:id="P73210143" facs="../img/1773-470.pbm"/>
 <!-- Book VI. An EPIC POEM. 143 -->
- Clatho ? Dwells the father of the fallen in reſt ? Am I forgot in the folds of darkneſs; lonely in the ſeaſon of night ?”</p><p>“<hi rend="sc">Why</hi> doſt thou mix, ſaid the king, with the dreams of thy father? Can I forget thee, my ſon, or thy path of fire in the field ? Not ſuch come the deeds of the valiant on the ſoul of Fingal. They are not there a beam of lightning, which is ſeen, and is then no more. I remember thee, O Fillan, and my wrath begins to riſe.”</p><p><hi rend="sc">The</hi> king took his deathful ſpear, and ſtruck the deeply-ſounding ſhield : his ſhield that hung high in night, the diſmal ſign of war ! Ghoſts fled on every ſide, and rolled their gathered forms on the wind. Thrice from the winding vale aroſe the voice of deaths. The harps<note><p> It was the opinion of ancient times, that, on the night preceding the death of a perſon worthy and renowned, the harps of thoſe bards, who were retained by his family, emitted melancholy ſounds. This was attributed to <hi>the light touch of ghofts</hi>; who were ſuppofed to have a fore-knowlege of events. The ſame opinion prevailed long in the north, and the particular found was called, <hi>the warning voice of the dead</hi>. <hi>The voice of death</hi>, mentioned in the preceding ſentence, was of a different kind. Each perſon was ſuppoſed to have an attendant ſpirit, who aſſumed his form and voice, on the night preceding his death, and appeared, to ſome, in the attitude, in which the perſon was to die. The <hi rend="sc">voices of death</hi> were the ſoreboding ſhrieks of thoſe ſpirits. </p></note> of the bards, untouched, ſound mournful over the hill. <!--  -->
-<!-- Hz -->
-<!--  -->
-<pb xml:id="P73210144" facs="../img/1773-473.pbm"/>
-<!-- 144 T E M O R A: Book VII -->
- <hi rend="sc">He</hi> ſtruck again the ſhield; battles roſe in the dreams of his hoſt. The wide-tumbling ſtrife is gleaming over their ſouls. Blue-ſhielded kings deſcend to war. Backward-looking armies fly; and mighty deeds are half-hid, in the bright gleams of ſteel.</p><p><hi rend="sc">But</hi> when the third ſound aroſe, deer ſtarted from the clefts of their rocks. The ſcreams of fowl are heard, in the deſart, as each flew, frighted on his blaſt. The ſons of Selma half-rofe, and half-aſſumed their ſpears. But ſilence rolled back on the hoſt: they knew the ſhield of the king. Sleep returned to their eyes; the field was dark and ſtill.</p><p>No ſleep was thine in darkneſs, blue-eyed daughter of Conmor! Sul-malla heard the dreadful ſhield, and roſe, amid the night. Her ſteps are towards the king of Atha. “Can danger ſhake his daring ſoul !” In doubt, ſhe ſtands, with bending eyes. Heaven burns with all its ſtars.</p><p><hi rend="sc">Again</hi> the ſhield reſounds ! She ruſhed. She ſtopt. Her voice half-roſe. It failed. She ſaw him, amidſt his arms, that gleamed to heaven's fire. She ſaw him dim in his locks, that roſe to nightly wind. Away, for fear, ſhe turned her ſteps. “Why ſhould the king of Erin <!--  -->
+ Clatho ? Dwells the father of the fallen in reſt ? Am I forgot in the folds of darkneſs; lonely in the ſeaſon of night ?”</p><p>“<hi rend="sc">Why</hi> doſt thou mix, ſaid the king, with the dreams of thy father? Can I forget thee, my ſon, or thy path of fire in the field ? Not ſuch come the deeds of the valiant on the ſoul of Fingal. They are not there a beam of lightning, which is ſeen, and is then no more. I remember thee, O Fillan, and my wrath begins to riſe.”</p><p><hi rend="sc">The</hi> king took his deathful ſpear, and ſtruck the deeply-ſounding ſhield : his
+   ſhield that hung high in night, the diſmal ſign of war ! Ghoſts fled on every ſide, and rolled
+   their gathered forms on the wind. Thrice from the winding vale aroſe the voice of deaths. The harps<note>
+   <p> It was the opinion of ancient times, that, on the night preceding the death of a perſon
+    worthy and renowned, the harps of thoſe bards, who were retained by his family, emitted
+    melancholy ſounds. This was attributed to <hi>the light touch of ghofts</hi>; who were ſuppofed
+    to have a fore-knowlege of events. The ſame opinion prevailed long in the north, and the
+    particular found was called, <hi>the warning voice of the dead</hi>. <hi>The voice of
+    death</hi>, mentioned in the preceding ſentence, was of a different kind. Each perſon was
+    ſuppoſed to have an attendant ſpirit, who aſſumed his form and voice, on the night preceding his
+    death, and appeared, to ſome, in the attitude, in which the perſon was to die. The <hi rend="sc"
+    >voices of death</hi> were the ſoreboding ſhrieks of thoſe ſpirits. </p>
+   </note> of the bards, untouched, ſound mournful over the hill. <!--  -->
+   <!-- Hz -->
+   <!--  --> </p>
+  <p>
+   <pb xml:id="P73210144" facs="../img/1773-473.pbm"/>
+   <!-- 144 T E M O R A: Book VII --> <hi rend="sc">He</hi> ſtruck again the ſhield; battles roſe in
+   the dreams of his hoſt. The wide-tumbling ſtrife is gleaming over their ſouls. Blue-ſhielded
+   kings deſcend to war. Backward-looking armies fly; and mighty deeds are half-hid, in the bright
+   gleams of ſteel.</p><p><hi rend="sc">But</hi> when the third ſound aroſe, deer ſtarted from the clefts of their rocks. The ſcreams of fowl are heard, in the deſart, as each flew, frighted on his blaſt. The ſons of Selma half-rofe, and half-aſſumed their ſpears. But ſilence rolled back on the hoſt: they knew the ſhield of the king. Sleep returned to their eyes; the field was dark and ſtill.</p><p>No ſleep was thine in darkneſs, blue-eyed daughter of Conmor! Sul-malla heard the dreadful ſhield, and roſe, amid the night. Her ſteps are towards the king of Atha. “Can danger ſhake his daring ſoul !” In doubt, ſhe ſtands, with bending eyes. Heaven burns with all its ſtars.</p><p><hi rend="sc">Again</hi> the ſhield reſounds ! She ruſhed. She ſtopt. Her voice half-roſe. It failed. She ſaw him, amidſt his arms, that gleamed to heaven's fire. She ſaw him dim in his locks, that roſe to nightly wind. Away, for fear, ſhe turned her ſteps. “Why ſhould the king of Erin <!--  -->
 <!-- awake ? -->
 <!--  -->
 <pb xml:id="P73210145" facs="../img/1773-476.pbm"/>
 <!-- Book VI. An EPIC POEM. 145 -->
- awake? Thou art not a dream to his reſt, daughter of Inis-huna.”</p><p><hi rend="sc">More</hi> dreadful rings the ſhield. Sul-malla ſtarts. Her helmet falls. Loud-ecchoes Lubar's rock, as over it rolls the ſteel. Burſting from the dreams of night, Cathmor half-roſe, beneath his tree. He ſaw the form of the maid, above him, on the rock. A red ſtar, with twinkling beam, looked thro' her floating hair.</p><p>“<hi rend="sc">Who</hi> comes thro' night to Cathmor, in the ſeaſon of his dreams? Bring'ſt thou ought of war? Who art thou, ſon of night? Stand'ſt thou before me, a form of the times of old? A voice from the fold of a cloud, to warn me of the danger of Erin ?”</p><p>“<hi rend="sc">Nor</hi> lonely ſcout am 1], nor voice from folded cloud,” the ſaid ; “but I warn thee of the danger of Erin. Doſt thou hear that ſound ? It is not the feeble, king of Atha, that rolls his ſigns on night.”</p><p>“<hi rend="sc">Let</hi> the warrior roll his ſigns,” he replied; “to Cathmor they are the ſounds of harps. My joy is great, voice of night, and burns over all my thoughts. This is the muſic of kings, on lonely hills, by night; when they light their daring ſouls, the ſons of mighty deeds! The feeble dwell alone, in the valley of the breeze ; where miſts <!--  -->
+ awake? Thou art not a dream to his reſt, daughter of Inis-huna.”</p><p><hi rend="sc">More</hi> dreadful rings the ſhield. Sul-malla ſtarts. Her helmet falls. Loud-ecchoes Lubar's rock, as over it rolls the ſteel. Burſting from the dreams of night, Cathmor half-roſe, beneath his tree. He ſaw the form of the maid, above him, on the rock. A red ſtar, with twinkling beam, looked thro' her floating hair.</p><p>“<hi rend="sc">Who</hi> comes thro' night to Cathmor, in the ſeaſon of his dreams? Bring'ſt thou ought of war? Who art thou, ſon of night? Stand'ſt thou before me, a form of the times of old? A voice from the fold of a cloud, to warn me of the danger of Erin ?”</p><p>“<hi rend="sc">Nor</hi> lonely ſcout am I, nor voice from folded cloud,” the ſaid ; “but I warn
+   thee of the danger of Erin. Doſt thou hear that ſound ? It is not the feeble, king of Atha, that
+   rolls his ſigns on night.”</p><p>“<hi rend="sc">Let</hi> the warrior roll his ſigns,” he replied; “to Cathmor they are the ſounds of harps. My joy is great, voice of night, and burns over all my thoughts. This is the muſic of kings, on lonely hills, by night; when they light their daring ſouls, the ſons of mighty deeds! The feeble dwell alone, in the valley of the breeze ; where miſts <!--  -->
 <!-- Vol. II, J. lift -->
 <!--  -->
 <pb xml:id="P73210146" facs="../img/1773-479.pbm"/>
 <!-- 146 T E M O R A: Book VII -->
- lift their morning ſkirts, from the blue-winding ſtreams.”</p><p>“<hi rend="sc">Not</hi> feeble, king of men, were they, the fathers of my race. They dwelt in the folds of battle, in their diſtant lands. Yet delights not my ſoul, in the ſigns of death! He<note><p> Fingal is ſaid to have never been overcome in battle. From this proceeded that title of honour which is always beſtowed on him in tradition, <hi>Fion gal na buai'</hi>, <hi rend="sc">Fingal of victories</hi>. In a poem, juſt now in my hands, which celebrates ſome of the great actions of Arthur the famous Britiſh hero, that appellation is often beſtowed on him. The poem, from the phraſeology, appears to be ancient; and is, perhaps, tho' that is not mentioned, a tranſlation from the Welſh language. </p></note>, who never yields, comes forth : O ſend the bard of peace !”</p><p><hi rend="sc">Like</hi> a dropping rock, in the deſart, ſtood Cathmor in his tears. Her voice came, a breeze, on his ſoul, and waked the memory of her land ; where ſhe dwelt by her peaceful ſtreams, before he came to the war of Conmor.</p><p>“<hi rend="sc">Daughter</hi> of ſtrangers,” he ſaid ; (ſhe trembling turned away) “long have I marked thee in thy ſteel, young pine of Inis-huna. But my ſoul, I ſaid, is folded in a ſtorm. Why ſhould that beam ariſe, till my ſteps return in peace? Have I been pale in thy preſence, as thou bidſt me to fear the king? The time of <!--  -->
+ lift their morning ſkirts, from the blue-winding ſtreams.”</p><p>“<hi rend="sc">Not</hi> feeble, king of men, were they, the fathers of my race. They dwelt in the folds of battle, in their diſtant lands. Yet delights not my ſoul, in the ſigns of death! He<note><p> Fingal is ſaid to have never been overcome in battle. From this proceeded that title of honour which is always beſtowed on him in tradition, <foreign xml:lang="gd"><hi>Fion gal na buai'</hi></foreign>, <hi rend="sc">Fingal of victories</hi>. In a poem, juſt now in my hands, which celebrates ſome of the great actions of Arthur the famous Britiſh hero, that appellation is often beſtowed on him. The poem, from the phraſeology, appears to be ancient; and is, perhaps, tho' that is not mentioned, a tranſlation from the Welſh language. </p></note>, who never yields, comes forth : O ſend the bard of peace !”</p><p><hi rend="sc">Like</hi> a dropping rock, in the deſart, ſtood Cathmor in his tears. Her voice came, a breeze, on his ſoul, and waked the memory of her land ; where ſhe dwelt by her peaceful ſtreams, before he came to the war of Conmor.</p><p>“<hi rend="sc">Daughter</hi> of ſtrangers,” he ſaid ; (ſhe trembling turned away) “long have I marked thee in thy ſteel, young pine of Inis-huna. But my ſoul, I ſaid, is folded in a ſtorm. Why ſhould that beam ariſe, till my ſteps return in peace? Have I been pale in thy preſence, as thou bidſt me to fear the king? The time of <!--  -->
 <!-- 5 danger, -->
 <!--  -->
 <pb xml:id="P73210147" facs="../img/1773-482.pbm"/>
@@ -53,39 +82,95 @@
 <!--  -->
 <pb xml:id="P73210150" facs="../img/1773-491.pbm"/>
 <!-- 150 T E M O R A: Book VII. -->
- in his thoughts. But ſhe ſhrunk from his eyes, and turned her lone ſteps away. Battles roſe, like a tempeſt, and drove the miſt from his ſoul. He beheld, with joy, her ſteps in the hall, and the white rifing of her hands on the harp.”<note><p>To avoid multiplying notes, I ſhall give here the ſignification of the names of the ſtars, engraved on the ſhield, Ceanmathon, <hi>head of the bear</hi>. Col-derna, <hi>ſlant and ſharp beam</hi>. Ul oicho, <hi>ruler of night</hi>. Cathlin, <hi>beam of the wave</hi>. Reuldurath, <hi>ſtar of the twilight</hi>. Berthin, <hi>fire of the hill</hi>. Tonthéna, <hi>meteor of the waves</hi>. Theſe etymologies, excepting that of Ceanmathon, are pretty exact. Of it I am not ſo certain ; for it is not very probable, that the Firbolg had diſtinguiſhed a conſtellation, ſo very early as the days of Larthon, by the name of the bear. </p></note> <hi rend="sc">In</hi> his arms ſtrode the chief of Atha, to where his ſhield hung, high, in night : high on a moſſy bough, over Lubar's ſtreamy roar. Seven boſſes roſe on the ſhield; the ſeven voices of the king, which his warriors received, from the wind, and marked over all their tribes.</p><p><hi rend="sc">On</hi> each boſs is placed a ſtar of night; Canmathon with beams unſhorn ; Col-derna rifing from a cloud : Uloicho robed in miſt; and the ſoft beam of Caitlin glittering on a rock. Smiling, on its own blue wave, Reldurath half-ſinks its weſtern light. The red eye of Berthin looks, thro' a grove, on the hunter, as he returns, by night, with the ſpoils of the bound<!--  -->
-<!-- ing -->
-<!--  -->
-<pb xml:id="P73210151" facs="../img/1773-494.pbm"/>
-<!-- Book VI. An EPIC POEM, IS1 -->
- ing roe. Wide, in the midſt, aroſe the cloudleſs beams of Ton-thena, that ſtar which looked, by night, on the courſe of the ſea-toſſed Larthon : Larthon, the firſt of Bolga's race, who travelled on the winds<note><p> <hi>To travel on the wings</hi>, a poetical expreſſion for ſailing. </p></note>. White-boſomed ſpread the ſails of the king, towards ſtreamy Inis-fail ; dun night was rolled before him, with its ſkirts of miſt. Unconſtant blew the winds, and rolled him from wave to wave. Then roſe the fieryhaired Ton-thena, and ſmiled from her parted cloud. Larthon<note><p> Larthon is compounded of <hi>Lear</hi>, ſea, and <hi>thon</hi>, wave. This name was given to the chief of the firſt colony of the Firbolg, who ſettled in Ireland, on account of his knowlege in navigation. A part of an old poem is ſtill extant, concerning this hero. It abounds with thoſe romantic fables of giants and magicians, which diſtinguiſhed the compoſitions of the leſs ancient bards. The deſcriptions, contained in it, are ingenious, and proportionable to the magnitude of the perſons introduced ; but, being unnatural, they are inſipid and tedious. Had the bard kept within the bounds of probability, his genius was far from being contemptible. The exordium of his poem is not deſtitute of merit; but it is the only part of it, that I think worthy of being preſented to the reader.</p><p>“Who firſt ſent the black ſhip, thro' ocean, like a whale thro' the burſting of foam? Look, from thy darkneſs, on Cronath, Oſſian of the harps of old! Send thy light on the blue-rolling waters, that I may behold the king. I ſee him</p><p>dark in his own ſhell of oak! ſea-toſſed Larthon, thy ſoul is ſtrong. It is careleſs as the wind of thy ſails; as the wave that rolls by thy ſide. But the ſilent green iſle is before thee, with its ſons, who are tall as woody Lumon ; Lumon which ſends, from its top, a thouſand ſtreams, white-wandering down its ſides.”</p><p>It may, perhaps, be ſor the credit of this bard, to tranſlate no more of this poem, for the continuation of his deſcription of the Iriſh giants betrays his want of judgment. </p></note> bleſſed the well-known beam, as it ſaint-gleamed on the deep. <!--  -->
-<!-- BENEATH -->
-<!--  -->
-<!-- L4 dark -->
-<!--  -->
-<pb xml:id="P73210152" facs="../img/1773-497.pbm"/>
-<!-- 152 T E MO R A: Book VIII. -->
- <hi rend="sc">Beneath</hi> the ſpear of Cathmor, roſe that voice which awakes the bards. They came, dark-winding, from every ſide; each with the ſound of his harp. Before them rejoiced the king, as the traveller, in the day of the ſun; when he hears, far-roiling around, the murmur of moſſy ſtreams ; ſtreams that butſt, in the deſart, from the rock of roes.</p><p>“<hi rend="sc">Why</hi>,” ſaid Fonar, “hear we the voice of the king, in the ſeaſon of his reſt? Were the dim forms of thy fathers bending in thy dreams ? Perhaps they ſtand on that cloud, and wait for Fonar's ſong; often they come to the fields where their ſons are to lift the ſpear. Or ſhall our voice ariſe for him who lifts the ſpear no more; he that conſumed the field, from Morna of the groves ?”</p><p>“<hi rend="sc">Not</hi> forgot is that cloud in war, bard of other times. High ſhall his tomb rife, on Moi-lena, the dwelling of renown. But, now, <!--  -->
-<!-- roll -->
-<!--  -->
-<pb xml:id="P73210153" facs="../img/1773-500.pbm"/>
-<!-- Book VII, An EPIC POEM. 153 -->
- roll back my ſoul to the times of my fathers : to the years when firſt they roſe, on Inis-huna's waves. Nor alone pleaſant to Cathmor is the remembrance of wood-covered Lumon. Lumon of the ſtreams, the dwelling of whiteboſomed maids.”<note><p> Lumon was a hill, in Inis-huna, near the reſidence of Sul-malla. This epiſode has an immediate connection with what is ſaid of Larthon, in the deſcription of Cathmor's ſhield. </p></note> <hi rend="sc">Lumon</hi> of the ſtreams, thou riſeſt on Fonar's ſoul ! Thy ſun is on thy ſide, on the rocks of thy bending trees. The dun roe is ſeen from thy furze ; the deer lifts his branchy head; for he ſees, at times, the hound, on the halfcovered heath. Slow, on the vale, are the ſteps of maids; the white-armed daughters of the bow : they lift their blue eyes to the hill, from amidſt their wandering locks. Not there is the ſtride of Larthon, chief of Inis-huna. He mounts the wave on his own dark oak, in Cluba's ridgy bay. That oak which he cut from Lumon, to bound along the ſea. The maids turn their eyes away, leſt the king ſhould be lowly-laid ; for never had they ſeen a ſhip, dark rider of the wave !”</p><p>“Now he dares to call the winds, and to mix with the miſt of ocean. Blue Inis-fail roſe, in <!--  -->
-<!-- ſmoak, -->
-<!--  -->
-<pb xml:id="P73210154" facs="../img/1773-503.pbm"/>
-<!-- 154 T E M O R A: Book VII. -->
- ſmoak; but dark-ſkirted night came down. The ſons of Bolga feared. The fiery haired Ton-théna roſe. Culbin's bay received the ſhip, in the boſom of its ecchoing woods. There, iſſued a ſtream, from Duthuma's horrid cave; where ſpirits gleamed, at times, with their halffiniſhed forms.”</p><p>“<hi rend="sc">Dreams</hi> deſcended on Larthon : he ſaw ſeven ſpirits of his fathers. He heard their half-formed words, and dimly beheld the times to come. He beheld the kings of Atha, the ſons of future days. They led their hoſts, along the field, like ridges of miſt, which winds pour, in autumn, over Atha of the groves.”</p><p>“<hi rend="sc">Larthon</hi> raiſed the hall of Samla<note><p> Samla, <hi>apparitions</hi>, ſo called from the viſion of Larthon, concerning his poſterity. </p></note>, to the muſic of the harp. He went forth to the roes of Erin, to their wonted ſtreams. Nor did he forget green-headed Lumon ; he often bounded over his ſeas, to where white-handed Flathal<note><p> Flathal, <hi>heavenly, exquiſitely beautiful</hi>. She was the wife of Larthon. </p></note> looked from the hill of roes. Lumon of the foamy ſtreams, thou riſeſt on Fonar's ſoul !”</p><p><hi rend="sc">Morning</hi> pours from the eaſt. The miſty heads of the mountains riſe. Valleys ſhew, on <!--  -->
+ in his thoughts. But ſhe ſhrunk from his eyes, and turned her lone ſteps away. Battles roſe, like a tempeſt, and drove the miſt from his ſoul. He beheld, with joy, her ſteps in the hall, and the white rifing of her hands on the harp.”<note><p>To avoid multiplying notes, I ſhall give here the ſignification of the names of the ſtars,
+    engraved on the ſhield, Ceanmathon, <hi>head of the bear</hi>. Col-derna, <hi>ſlant and ſharp
+    beam</hi>. Ul oicho, <hi>ruler of night</hi>. Cathlin, <hi>beam of the wave</hi>. Reul-durath,
+    <hi>ſtar of the twilight</hi>. Berthin, <hi>fire of the hill</hi>. Ton-théna, <hi>meteor of the
+    waves</hi>. Theſe etymologies, excepting that of Ceanmathon, are pretty exact. Of it I am not ſo
+    certain ; for it is not very probable, that the Firbolg had diſtinguiſhed a conſtellation, ſo
+    very early as the days of Larthon, by the name of the bear. </p></note> <hi rend="sc">In</hi> his arms ſtrode the chief of Atha, to where his ſhield hung, high, in night : high on a moſſy bough, over Lubar's ſtreamy roar. Seven boſſes roſe on the ſhield; the ſeven voices of the king, which his warriors received, from the wind, and marked over all their tribes.</p><p><hi rend="sc">On</hi> each boſs is placed a ſtar of night; Canmathon with beams unſhorn ;
+   Col-derna rifing from a cloud : Uloicho robed in miſt; and the ſoft beam of Caitlin glittering on
+   a rock. Smiling, on its own blue wave, Reldurath half-ſinks its weſtern light. The red eye of
+   Berthin looks, thro' a grove, on the hunter, as he returns, by night, with the ſpoils of the
+   <!--  -->
+   <!-- ing -->
+   <!--  -->
+   <pb xml:id="P73210151" facs="../img/1773-494.pbm"/>
+   <!-- Book VI. An EPIC POEM, IS1 --> bounding roe. Wide, in the midſt, aroſe the cloudleſs beams
+   of Ton-thena, that ſtar which looked, by night, on the courſe of the ſea-toſſed Larthon :
+   Larthon, the firſt of Bolga's race, who travelled on the winds<note>
+   <p> <hi>To travel on the wings</hi>, a poetical expreſſion for ſailing. </p>
+   </note>. White-boſomed ſpread the ſails of the king, towards ſtreamy Inis-fail ; dun night was
+   rolled before him, with its ſkirts of miſt. Unconſtant blew the winds, and rolled him from wave
+   to wave. Then roſe the fiery-haired Ton-thena, and ſmiled from her parted cloud. Larthon<note>
+   <p> Larthon is compounded of <hi>Lear</hi>, ſea, and <hi>thon</hi>, wave. This name was given to
+    the chief of the firſt colony of the Firbolg, who ſettled in Ireland, on account of his knowlege
+    in navigation. A part of an old poem is ſtill extant, concerning this hero. It abounds with
+    thoſe romantic fables of giants and magicians, which diſtinguiſhed the compoſitions of the leſs
+    ancient bards. The deſcriptions, contained in it, are ingenious, and proportionable to the
+    magnitude of the perſons introduced ; but, being unnatural, they are inſipid and tedious. Had
+    the bard kept within the bounds of probability, his genius was far from being contemptible. The
+    exordium of his poem is not deſtitute of merit; but it is the only part of it, that I think
+    worthy of being preſented to the reader.</p>
+   <p>
+    <quote>“Who firſt ſent the black ſhip, thro' ocean, like a whale thro' the burſting of foam?
+     Look, from thy darkneſs, on Cronath, Oſſian of the harps of old! Send thy light on the
+     blue-rolling waters, that I may behold the king. I ſee him dark in his own ſhell of oak!
+     ſea-toſſed Larthon, thy ſoul is ſtrong. It is careleſs as the wind of thy ſails; as the wave
+     that rolls by thy ſide. But the ſilent green iſle is before thee, with its ſons, who are tall
+     as woody Lumon ; Lumon which ſends, from its top, a thouſand ſtreams, white-wandering down its
+     ſides.”</quote>
+   </p>
+   <p>It may, perhaps, be ſor the credit of this bard, to tranſlate no more of this poem, for the
+    continuation of his deſcription of the Iriſh giants betrays his want of judgment. </p>
+   </note> bleſſed the well-known beam, as it ſaint-gleamed on the deep. <!--  -->
+   <!-- BENEATH -->
+   <!--  -->
+   <!-- L4 dark -->
+   <!--  --></p>
+  <p>
+   <pb xml:id="P73210152" facs="../img/1773-497.pbm"/>
+   <!-- 152 T E MO R A: Book VIII. --> <hi rend="sc">Beneath</hi> the ſpear of Cathmor, roſe that
+   voice which awakes the bards. They came, dark-winding, from every ſide; each with the ſound of
+   his harp. Before them rejoiced the king, as the traveller, in the day of the ſun; when he hears,
+   far-roiling around, the murmur of moſſy ſtreams ; ſtreams that burſt, in the deſart, from the
+   rock of roes.</p><p>“<hi rend="sc">Why</hi>,” ſaid Fonar, “hear we the voice of the king, in the ſeaſon of his reſt? Were the dim forms of thy fathers bending in thy dreams ? Perhaps they ſtand on that cloud, and wait for Fonar's ſong; often they come to the fields where their ſons are to lift the ſpear. Or ſhall our voice ariſe for him who lifts the ſpear no more; he that conſumed the field, from Morna of the groves ?”</p><p>“<hi rend="sc">Not</hi> forgot is that cloud in war, bard of other times. High ſhall his tomb
+   rife, on Moi-lena, the dwelling of renown. But, now, <!--  -->
+   <!-- roll -->
+   <!--  -->
+   <pb xml:id="P73210153" facs="../img/1773-500.pbm"/>
+   <!-- Book VII, An EPIC POEM. 153 --> roll back my ſoul to the times of my fathers : to the years
+   when firſt they roſe, on Inis-huna's waves. Nor alone pleaſant to Cathmor is the remembrance of
+   wood-covered Lumon. Lumon of the ſtreams, the dwelling of white-boſomed maids.”<note>
+   <p> Lumon was a hill, in Inis-huna, near the reſidence of Sul-malla. This epiſode has an
+    immediate connection with what is ſaid of Larthon, in the deſcription of Cathmor's ſhield. </p>
+   </note> <hi rend="sc">Lumon</hi> of the ſtreams, thou riſeſt on Fonar's ſoul ! Thy ſun is on thy
+   ſide, on the rocks of thy bending trees. The dun roe is ſeen from thy furze ; the deer lifts his
+   branchy head; for he ſees, at times, the hound, on the half-covered heath. Slow, on the vale, are
+   the ſteps of maids; the white-armed daughters of the bow : they lift their blue eyes to the hill,
+   from amidſt their wandering locks. Not there is the ſtride of Larthon, chief of Inis-huna. He
+   mounts the wave on his own dark oak, in Cluba's ridgy bay. That oak which he cut from Lumon, to
+   bound along the ſea. The maids turn their eyes away, leſt the king ſhould be lowly-laid ; for
+   never had they ſeen a ſhip, dark rider of the wave !”</p><p>“Now he dares to call the winds, and to mix with the miſt of ocean. Blue Inis-fail roſe, in
+   <!--  -->
+   <!-- ſmoak, -->
+   <!--  -->
+   <pb xml:id="P73210154" facs="../img/1773-503.pbm"/>
+   <!-- 154 T E M O R A: Book VII. --> ſmoak; but dark-ſkirted night came down. The ſons of Bolga
+   feared. The fiery haired Ton-théna roſe. Culbin's bay received the ſhip, in the boſom of its
+   ecchoing woods. There, iſſued a ſtream, from Duthuma's horrid cave; where ſpirits gleamed, at
+   times, with their half-finiſhed forms.”</p><p>“<hi rend="sc">Dreams</hi> deſcended on Larthon : he ſaw ſeven ſpirits of his fathers. He heard their half-formed words, and dimly beheld the times to come. He beheld the kings of Atha, the ſons of future days. They led their hoſts, along the field, like ridges of miſt, which winds pour, in autumn, over Atha of the groves.”</p><p>“<hi rend="sc">Larthon</hi> raiſed the hall of Samla<note><p> Samla, <hi>apparitions</hi>, ſo called from the viſion of Larthon, concerning his poſterity. </p></note>, to the muſic of the harp. He went forth to the roes of Erin, to their wonted ſtreams. Nor did he forget green-headed Lumon ; he often bounded over his ſeas, to where white-handed Flathal<note><p> Flathal, <hi>heavenly, exquiſitely beautiful</hi>. She was the wife of Larthon. </p></note> looked from the hill of roes. Lumon of the foamy ſtreams, thou riſeſt on Fonar's ſoul !”</p><p><hi rend="sc">Morning</hi> pours from the eaſt. The miſty heads of the mountains riſe. Valleys ſhew, on <!--  -->
 <!-- every -->
 <!--  -->
 <pb xml:id="P73210155" facs="../img/1773-506.pbm"/>
 <!-- Book VII, An EPIC POEM. 155 -->
- every ſide, the grey-winding of their ſtreams. His hoſt heard the ſhield of Cathmor : at once they roſe around ; like a crowded ſea, when firſt it feels the wings of the wind. The waves know not whither to roll; they lift their troubled heads.</p><p><hi rend="sc">Sad</hi> and ſlow retired Sul-malla to Lona of the ſtreams. She went, and often turned ; her blue eyes rolled in tears. But when ſhe came to the rock, that darkly-covered Lona's vale : ſhe looked, from her burſting ſoul, on the king ; and ſunk, at once, behind,</p><p><hi rend="sc">Son</hi> of Alpin, ſtrike the ſtring. Is there aught of joy in the harp? Pour it then on the ſoul of Oſſian : it is folded in miſt, I hear thee, O bard, in my night. But ceaſe the lightly-trembling ſound. The joy of grief belongs to Oſſian, amidſt his dark-brown years.</p><p><hi rend="sc">Green</hi> thorn of the hill of ghoſts, that ſhakeſt thy head to nightly winds! I hear no ſound in thee; is there no ſpirit's windy ſkirt now ruſtling in thy leaves ? Often are the ſteps of the dead, in the dark-eddying blaſts; when the moon, a dun ſhield, from the eaſt, is roiled along the ſky.</p><p><hi rend="sc">Ullin</hi>, Carril, and Ryno, voices of the days of old! Let me hear you, while yet it is <!--  -->
-<!-- dark, -->
-<!--  -->
-<pb xml:id="P73210156" facs="../img/1773-509.pbm"/>
-<!-- 156 T E M O R A: Book VII.. -->
- dark, to pleaſe and awake my ſoul. I hear you not, ye ſons of ſong. in what hall of the clouds is your reſt? Do you touch the ſhadowy harp, robed with morning miſt, where the ruſtling ſun comes forth from his greenheaded waves ? <!--  -->
-<!--  -->
-</p>
+ every ſide, the grey-winding of their ſtreams. His hoſt heard the ſhield of Cathmor : at once they roſe around ; like a crowded ſea, when firſt it feels the wings of the wind. The waves know not whither to roll; they lift their troubled heads.</p><p><hi rend="sc">Sad</hi> and ſlow retired Sul-malla to Lona of the ſtreams. She went, and often turned ; her blue eyes rolled in tears. But when ſhe came to the rock, that darkly-covered Lona's vale : ſhe looked, from her burſting ſoul, on the king ; and ſunk, at once, behind,</p><p><hi rend="sc">Son</hi> of Alpin, ſtrike the ſtring. Is there aught of joy in the harp? Pour it then on the ſoul of Oſſian : it is folded in miſt, I hear thee, O bard, in my night. But ceaſe the lightly-trembling ſound. The joy of grief belongs to Oſſian, amidſt his dark-brown years.</p><p><hi rend="sc">Green</hi> thorn of the hill of ghoſts, that ſhakeſt thy head to nightly winds! I hear no ſound in thee; is there no ſpirit's windy ſkirt now ruſtling in thy leaves ? Often are the ſteps of the dead, in the dark-eddying blaſts; when the moon, a dun ſhield, from the eaſt, is roiled along the ſky.</p><p><hi rend="sc">Ullin</hi>, Carril, and Ryno, voices of the days of old! Let me hear you, while yet
+   it is <!--  -->
+   <!-- dark, -->
+   <!--  -->
+   <pb xml:id="P73210156" facs="../img/1773-509.pbm"/>
+   <!-- 156 T E M O R A: Book VII.. --> dark, to pleaſe and awake my ſoul. I hear you not, ye ſons
+   of ſong. in what hall of the clouds is your reſt? Do you touch the ſhadowy harp, robed with
+   morning miſt, where the ruſtling ſun comes forth from his green-headed waves ? <!--  -->
+   <!--  --> </p>
 </body></text>

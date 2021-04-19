@@ -70,7 +70,7 @@
      <xi:include href="V2/tei/berrathon.xml"/>
      <xi:include href="V2/tei/dissAera.xml"/>
      <xi:include href="V2/tei/dissPoems.xml"/>
-     <!-- <xi:include href="V2/tei/criticalDiss.xml"/>-->
+    <xi:include href="V2/tei/criticalDiss.xml"/>
     </group>
 
    </text>

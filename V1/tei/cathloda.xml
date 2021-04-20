@@ -1,18 +1,16 @@
 <text xmlns="http://www.tei-c.org/ns/1.0">
  <pb xml:id="P73110001" facs="../img/1773-054.pbm"/>
  <!-- cathloda -->
- <group>
-  <text>
-   <front>
-    <titlePage>
-     <docTitle>
-      <titlePart>CATH-LODA: A POEM, DUAN FIRST.</titlePart>
-     </docTitle>
-    </titlePage>
+ <body>
+  <div type="duan">
+    <div type="titlePage">
+ <head>   CATH-LODA: A POEM, DUAN FIRST.
+ </head>   
+    </div>
     <!-- Vol. 1. B -->
 
     <pb xml:id="P73110002" facs="../img/1773-057.pbm"/>
-    <div>
+    <div type="argument">
      <head>ARGUMENT.</head>
      <p> <hi rend="sc">Fingal</hi>, when very young, making a voyage to the Orkney Iſlands, was
       driven, by ſtreſs of weather, into a bay of Scandinavia, near the reſidence of Starno, king of
@@ -27,8 +25,7 @@
       Fingal and Swaran.— <hi rend="sc">Duän</hi> firſt concludes with a deſcription of the airy
       hall of Cruth-loda ſuppoſed to be the Odin of Scandinavia. </p>
     </div>
-   </front>
-   <body>
+ <div type="poem">
     <pb xml:id="P73110003" facs="../img/1773-060.pbm"/>
     <!-- [3] -->
     <head>CATH-LODA. DUAN<note>
@@ -260,20 +257,16 @@
      ſounding ſhell, to thoſe who ſhone in war. But, between him and the feeble, his ſhield riſes, a
      darkened orb. He is a ſetting meteor to the weak in arms. Bright, as a rainbow on ſtreams, came
      Lulan's white-boſomed maid. </p>
-   </body>
-  </text>
+ </div></div><div type="duan">
   <!-- CATH- -->
-  <text>
-   <front>
+
     <pb xml:id="P73110015" facs="../img/1773-096.pbm"/>
-    <titlePage>
-     <docTitle>
-      <titlePart>CATH-LODA: A POEM. DUAN SECOND</titlePart>
-     </docTitle>
-    </titlePage>
+    <div type="titlePage">
+     <head>CATH-LODA: A POEM. DUAN SECOND
+     </head></div>
 
     <pb xml:id="P73110016" facs="../img/1773-099.pbm"/>
-    <div>
+    <div type="argument">
      <head>ARGUMENT.</head>
      <p> FINGAL returning, with day, devolves the command on Duthmaruno, who engages the enemy, and
       drives them over the ſtream of Turthor. Having recalled his people, he congratulates
@@ -284,8 +277,8 @@
 
     <pb xml:id="P73110017" facs="../img/1773-102.pbm"/>
     <!-- [17] -->
-   </front>
-   <body>
+  
+   <div type="poem">
     <head>CATH-LODA: DUAN SECOND. </head>
     <p> “<hi rend="sc">Where</hi> art thou, ſon of the king,” ſaid dark-haired Duth-maruno ? “Where
      haſt thou ſailed, young beam of Selma? He returns not, from the boſom of night ! Morning is
@@ -455,20 +448,14 @@
       modern bard. </p>
      </note>. <!-- CATH- -->
      <pb xml:id="P73110026" facs="../img/1773-130.pbm"/> </p>
-   </body>
-  </text>
-  <text>
-   <front>
+   </div></div><div type="duan">
 
     <pb xml:id="P73110027" facs="../img/1773-132.pbm"/>
-    <titlePage>
-     <docTitle>
-      <titlePart>CATH-LODA: A POEM. DUAN THIRD</titlePart>
-     </docTitle>
-    </titlePage>
-
+    <div type="titlePage">
+     <head>CATH-LODA: A POEM. DUAN THIRD</head>
+    </div>
     <pb xml:id="P73110028" facs="../img/1773-133.pbm"/>
-    <div>
+    <div type="argument">
      <head>ARGUMENT.</head>
      <p> <hi rend="sc">Oſſian</hi>, after ſome general reflections, deſcribes the ſituation of
       Fingal, and the poſition of the army of Lochlin.—The converſation of Starno and Swaran.—The
@@ -477,10 +464,10 @@
       refuſal, Starno undertakes the enterprize himſelf, is overcome, and taken priſoner, by
       Fingal.—He is diſmiſſed, after a ſevere reprimand for his cruelty. </p>
     </div>
-   </front>
+
    <pb xml:id="P73110029" facs="../img/1773-136.pbm"/>
    <!-- [ 29 ] -->
-   <body>
+   <div type="poem">
     <head>CATH-LODA: DUAN THIRD.</head>
     <p> <hi rend="sc">Whence</hi> is the ſtream of years? Whither do they roll along? Where have
      they hid, in miſt, their many-coloured ſides ?</p>
@@ -606,9 +593,8 @@
      ſtranger ſhun thee, thou gloomy in the hall!</p>
     <p>A <hi rend="sc">TALE</hi> of the times of old! <!-- D2 -->
      <pb xml:id="P73110036" facs="../img/1773-158.pbm"/> </p>
+   </div>
+   </div> <!-- end of duan 3 -->
    </body>
   </text>
-  <!-- end of duan 3 -->
- </group>
-</text>
 <!-- end of cathlona -->

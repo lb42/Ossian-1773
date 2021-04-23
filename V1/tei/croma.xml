@@ -1,52 +1,94 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><front>
- <pb xml:id="P73110125" facs="../img/1773-416.pbm"/>
- <titlePage source="NYPL"><titlePart>CROMA: A POEM.</titlePart></titlePage>
-<pb xml:id="P73110126" facs="../img/1773-419.pbm"/>
- <div><head>ARGUMENT.</head><p> Malvina the daughter of Toſcar is overheard by Oſſian lamenting the death of Oſcar her lover. Oſſian, to divert her grief, relates his own actions in an expedition which he undertook, at Fingal's command, to aid Crothar the petty king of Croma, a country in Ireland, againſt Rothmar who invaded his dominions. The ſtory is delivered down thus in tradition. Crothar king of Croma being blind with age, and his fon too young for the field, Rothmar the chief of Tromlo reſolved to avail himſelf of the opportunity offered of annexing the dominions of Crothar to his own. He accordingly marched into the country ſubject to Crothar, but which he held of Arth or Artho, who was, at the time, ſupreme king of Ireland.</p><p>Crothar being, on account of his age and blindneſs, unfit for action, ſent for aid to Fingal king
-    of Scotland; who ordered his ſon Oſſian to the relief of Crothar. But before his arrival
+<text xmlns="http://www.tei-c.org/ns/1.0">
+ <front>
+  <pb xml:id="P73110125" facs="../img/1773-416.pbm"/>
+  <titlePage source="NYPL">
+   <titlePart>CROMA: A POEM.</titlePart>
+  </titlePage>
+  <pb xml:id="P73110126" facs="../img/1773-419.pbm"/>
+  <div type="argument">
+   <head>ARGUMENT.</head>
+   <p> Malvina the daughter of Toſcar is overheard by Oſſian lamenting the death of Oſcar her lover.
+    Oſſian, to divert her grief, relates his own actions in an expedition which he undertook, at
+    Fingal's command, to aid Crothar the petty king of Croma, a country in Ireland, againſt Rothmar
+    who invaded his dominions. The ſtory is delivered down thus in tradition. Crothar king of Croma
+    being blind with age, and his ſon too young for the field, Rothmar the chief of Tromlo reſolved
+    to avail himſelf of the opportunity offered of annexing the dominions of Crothar to his own. He
+    accordingly marched into the country ſubject to Crothar, but which he held of Arth or Artho, who
+    was, at the time, ſupreme king of Ireland.</p>
+   <p>Crothar being, on account of his age and blindneſs, unfit for action, ſent for aid to Fingal
+    king of Scotland; who ordered his ſon Oſſian to the relief of Crothar. But before his arrival
     Fovargormo, the ſon of Crothar, attacking Rothmar, was ſlain himſelf, and his forces totally
     defeated. Oſſian renewed the war; came to battle, killed Rothmar, and routed his army. Croma
-    being thus delivered of its enemies, Oſſian returned to Scotland. </p></div> 
- </front><body>
-<pb xml:id="P73110127" facs="../img/1773-422.pbm"/>
-<!-- [227 ] -->
- <head>CROMA: A POEM.</head><p> “<hi rend="sc">It</hi> was the voice of my love! ſeldom art thou, in the dreams of Malvina! Open your airy halls, O fathers of Toſcar of ſhields ! Unfold the gates of your clouds : the ſteps of Malvina are near. I have heard a voice in my dream. I feel the fluttering of my ſoul. Why didſt thou come, O blaſt, from the dark-rolling face of the lake? Thy ruſtling wing was in the tree; the dream of Malvina fled. But ſhe beheld her love, when his robe of miſt flew on the wind. A ſun-beam was on his ſkirts, they glittered like the gold of the ſtranger. It was the voice of my love! ſeldom comes he to my dreams!”</p><p>“<hi rend="sc">But</hi> thou dwelleſt in the ſoul of Malvina, ſon of mighty Oſſian! My ſighs
+    being thus delivered of its enemies, Oſſian returned to Scotland. </p>
+  </div>
+ </front>
+ <body>
+  <pb xml:id="P73110127" facs="../img/1773-422.pbm"/>
+  <!-- [227 ] -->
+  <head>CROMA: A POEM.</head>
+  <p> “<hi rend="sc">It</hi> was the voice of my love! ſeldom art thou, in the dreams of Malvina!
+   Open your airy halls, O fathers of Toſcar of ſhields ! Unfold the gates of your clouds : the
+   ſteps of Malvina are near. I have heard a voice in my dream. I feel the fluttering of my ſoul.
+   Why didſt thou come, O blaſt, from the dark-rolling face of the lake? Thy ruſtling wing was in
+   the tree; the dream of Malvina fled. But ſhe beheld her love, when his robe of miſt flew on the
+   wind. A ſun-beam was on his ſkirts, they glittered like the gold of the ſtranger. It was the
+   voice of my love! ſeldom comes he to my dreams!”</p>
+  <p>“<hi rend="sc">But</hi> thou dwelleſt in the ſoul of Malvina, ſon of mighty Oſſian! My ſighs
    ariſe with the beam of the eaſt; my tears deſcend with the drops of night. I was a lovely tree,
-   in thy 
-   <!-- preſence, -->
+   in thy <!-- preşence, -->
    <pb xml:id="P73110128" facs="../img/1773-425.pbm"/>
    <!-- 128 CR O M A: --> preſence, Oſcar, with all my branches round me; but thy death came like a
    blaſt from the deſart, and laid my green head low. The ſpring returned with its ſhowers; no leaf
    of mine aroſe ! The virgins ſaw me ſilent in the hall; they touched the harp of joy. The tear was
    on the cheek of Malvina : the virgins beheld me in my grief. Why art thou ſad, they ſaid ; thou
    firſt of the maids of Lutha? Was he lovely as the beam of the morning, and ſtately in thy
-   ſight?”</p><p><hi rend="sc">Pleasant</hi> is thy ſong in Oſſian's ear, daughter of ſtreamy Lutha! Thou haſt heard the muſic of departed bards, in the dream of thy reſt, when ſleep fell on thine eyes, at the murmur of Moruth<note><p> Mor'-ruth, <hi>great ſtream.</hi> </p></note>. When thou didſt return from the chace, in the day of the ſun, thou haſt heard the muſic of bards, and thy ſong is lovely ! It is lovely, O Malvina, but it melts the ſoul. There is a joy in grief when peace dwells in the breaſt of the ſad. But ſorrow waſtes the mournful, O daughter of Toſcar, and their days are few! They fall away, like the flower on which the ſun hath looked in his ſtrength after the mildew has paſſed over it, when its head is heavy with the drops of night. Attend to the tale of Oſſian, O maid. He remembers the days of his youth !</p><p>
-<!-- THrHs -->
-
-<pb xml:id="P73110129" facs="../img/1773-428.pbm"/>
-<!-- A P OE M. 129 -->
-<hi rend="sc">The</hi> king commanded; I raiſed my ſails, and ruſhed into the bay of Croma; into Croma's ſounding bay in lovely Inisfail<note><p> <hi>Inisfail</hi>, one of the ancient names of Ireland. </p></note>. High on the coaſt aroſe the towers of Crothar king of ſpears; Crothar renowned in the battles of his youth ; but age dwelt then around the chief. Rothmar had raiſed the ſword againſt the hero; and the wrath of Fingal burned. He ſent Oſſian to meet Rothmar in war, for the chief of Croma was the friend of his youth. I ſent the bard before me with ſongs. I came into the hall of Crothar. There ſat the chief amidſt the arms of his fathers, but his eyes had failed. His grey locks waved around a ſtaff, on which the warrior leaned. He hummed the ſong of other times, when the ſound of our arms reached his ears. Crothar roſe, ſtretched his aged hand and bleſſed the ſon of Fingal.</p><p>“<hi rend="sc">Ossian</hi>!” ſaid the hero, “the ſtrength of Crothar's arm has failed. O could I
-   lift the ſword, as on the day that Fingal fought at Strutha ! He was the firſt of men ! but
+   ſight?”</p>
+  <p><hi rend="sc">Pleasant</hi> is thy ſong in Oſſian's ear, daughter of ſtreamy Lutha! Thou haſt
+   heard the muſic of departed bards, in the dream of thy reſt, when ſleep fell on thine eyes, at
+   the murmur of Moruth<note>
+   <p> Mor'-ruth, <hi>great ſtream.</hi> </p>
+   </note>. When thou didſt return from the chace, in the day of the ſun, thou haſt heard the muſic
+   of bards, and thy ſong is lovely ! It is lovely, O Malvina, but it melts the ſoul. There is a joy
+   in grief when peace dwells in the breaſt of the ſad. But ſorrow waſtes the mournful, O daughter
+   of Toſcar, and their days are few! They fall away, like the flower on which the ſun hath looked
+   in his ſtrength after the mildew has paſſed over it, when its head is heavy with the drops of
+   night. Attend to the tale of Oſſian, O maid. He remembers the days of his youth !</p>
+  <p>
+   <!-- THrHs -->
+   <pb xml:id="P73110129" facs="../img/1773-428.pbm"/>
+   <!-- A P OE M. 129 --> <hi rend="sc">The</hi> king commanded; I raiſed my ſails, and ruſhed into
+   the bay of Croma; into Croma's ſounding bay in lovely Inisfail<note>
+   <p> <hi>Inisfail</hi>, one of the ancient names of Ireland. </p>
+   </note>. High on the coaſt aroſe the towers of Crothar king of ſpears; Crothar renowned in the
+   battles of his youth ; but age dwelt then around the chief. Rothmar had raiſed the ſword againſt
+   the hero; and the wrath of Fingal burned. He ſent Oſſian to meet Rothmar in war, for the chief of
+   Croma was the friend of his youth. I ſent the bard before me with ſongs. I came into the hall of
+   Crothar. There ſat the chief amidſt the arms of his fathers, but his eyes had failed. His grey
+   locks waved around a ſtaff, on which the warrior leaned. He hummed the ſong of other times, when
+   the ſound of our arms reached his ears. Crothar roſe, ſtretched his aged hand and bleſſed the ſon
+   of Fingal.</p>
+  <p>“<hi rend="sc">Ossian</hi>!” ſaid the hero, “the ſtrength of Crothar's arm has failed. O could
+   I lift the ſword, as on the day that Fingal fought at Strutha ! He was the firſt of men ! but
    Crothar had alſo his fame. The king of Morven praiſed me ; he placed on my arm the boſſy ſhield
    of Calthar, whom the king had flain in his wars. Doſt thou not behold it on the wall, for
    <!-- Vol. 1. K that's -->
-   
    <pb xml:id="P73110130" facs="../img/1773-431.pbm"/>
-   <!-- 1309 C R O MM A . --> Crothar's eyes have failed ? Is thy ſtrength, like thy
-   fathers, Oſſian ? let the aged feel thine arm !”</p><p><hi rend="sc">I gave</hi> my arm to the king; he felt it with his aged hands. The ſigh roſe in
+   <!-- 1309 C R O MM A . -->Crothar's eyes have failed ? Is thy ſtrength, like thy fathers, Oſſian
+   ? let the aged feel thine arm !”</p>
+  <p><hi rend="sc">I gave</hi> my arm to the king; he felt it with his aged hands. The ſigh roſe in
    his breaſt, and his tears came down. “Thou art ſtrong, my ſon, he ſaid, but not like the king of
    Morven! But who is like the hero among the mighty in war! Let the feaſt of my hall be ſpread; and
    let my bards exalt the ſong. Great is he that is within my walls, ye ſons of ecchoing Croma !”
    The feaſt is ſpread. The harp is heard; and joy is in the hall. But it was joy covering a ſigh,
    that darkly dwelt in every breaſt. It was like the faint beam of the moon ſpread on a cloud in
    heaven. At length the muſic ceaſed, and the aged king of Croma ſpoke; he ſpoke without a tear,
-   but ſorrow ſwelled in the midſt of his voice.</p><p>“<hi rend="sc">Son</hi> of Fingal! behold'ſt thou not the darkneſs of Crothar's joy? My ſoul was
-   not ſad at the feaſt, when my people lived before me. I rejoiced in the preſence of ſtrangers,
-   when my ſon ſhone in the hall. But, Oſſian, he is a beam that is departed. He left no ſtreak of
-   light behind. He is fallen, ſon of Fingal, in the wars of his father. Rothmar the chief of graſſy
-   Tromlo heard that theſe eyes had failed; he heard that my arms were fixed in the hall, 
+   but ſorrow ſwelled in the midſt of his voice.</p>
+  <p>“<hi rend="sc">Son</hi> of Fingal! behold'ſt thou not the darkneſs of Crothar's joy? My ſoul
+   was not ſad at the feaſt, when my people lived before me. I rejoiced in the preſence of
+   ſtrangers, when my ſon ſhone in the hall. But, Oſſian, he is a beam that is departed. He left no
+   ſtreak of light behind. He is fallen, ſon of Fingal, in the wars of his father. Rothmar the chief
+   of graſſy Tromlo heard that theſe eyes had failed; he heard that my arms were fixed in the hall,
    <!-- and -->
-   
    <pb xml:id="P73110131" facs="../img/1773-434.pbm"/>
    <!-- A PO E M. 131 --> and the pride of his ſoul aroſe! He came towards Croma ; my people fell
    before him. I took my arms in my wrath, but what could ſightleſs Crothar do? My ſteps were
@@ -62,11 +104,17 @@
    ſon of the ſightleſs Crothar ! But let others advance before thee, that I may hear the tread of
    thy feet at thy return; for my eyes behold thee not, fair-haired Fovar-gormo ! He went, he met
    the foe; he fell. Rothmar advances to Croma. He who ſlew my ſon is near, with all his pointed
-   ſpears.” 
-   <!-- K 2 Tris -->
-   
+   ſpears.” <!-- K 2 Tris -->
    <pb xml:id="P73110132" facs="../img/1773-437.pbm"/>
-   <!-- £22 CR O M A: --> </p><p><hi rend="sc">This</hi> is no time to fill the ſhell, I replied, and took my ſpear! My people ſaw the fire of my eyes ; they all aroſe around. Through night we ſtrode along the heath. Grey morning roſe in the eaſt. A green narrow vale appeared before us; nor wanting was its winding ſtream. The dark hoſt of Rothmar are on its banks, with all their glittering arms. We fought along the vale. They fled. Rothmar ſunk beneath my ſword ! Day had not deſcended in the weſt, when I brought his arms to Crothar. The aged hero felt them with his hands; and joy brightened over all his thoughts.</p><p><hi rend="sc">The</hi> people gather to the hall. The ſhells of the feaſt are heard. Ten harps
+   <!-- £22 CR O M A: --> </p>
+  <p><hi rend="sc">This</hi> is no time to fill the ſhell, I replied, and took my ſpear! My people
+   ſaw the fire of my eyes ; they all aroſe around. Through night we ſtrode along the heath. Grey
+   morning roſe in the eaſt. A green narrow vale appeared before us; nor wanting was its winding
+   ſtream. The dark hoſt of Rothmar are on its banks, with all their glittering arms. We fought
+   along the vale. They fled. Rothmar ſunk beneath my ſword ! Day had not deſcended in the weſt,
+   when I brought his arms to Crothar. The aged hero felt them with his hands; and joy brightened
+   over all his thoughts.</p>
+  <p><hi rend="sc">The</hi> people gather to the hall. The ſhells of the feaſt are heard. Ten harps
    are ſtrung ; five bards advance, and ſing, by turns<note>
    <p> Thoſe extempore compoſitions were in great repute among ſucceeding bards. The pieces extant
     of that kind ſhew more of the good ear, than of the poetical genius of their authors. The
@@ -96,7 +144,6 @@
      night.</p>
     <p>Dark, duſky, howling is night, cloudy, windy, and full of ghoſts! The dead are abroad! my
      friends, receive me from the night.</p>
-    <p/>
    </sp>
    <sp>
     <speaker><hi rend="sc">Second Bard,</hi></speaker>
@@ -114,7 +161,6 @@
     <p>The rain is paſt. The dry wind blows. Streams roar, and windows flap. Cold drops fall from
      the roof. I ſee the ſtarry ſky. But the ſhower gathers again. The weſt is gloomy and dark.
      Night is ſtormy and diſmal; receive me, my friends, from night. </p>
-    <p/>
    </sp>
    <sp>
     <speaker><hi rend="sc">Third Bard</hi>.</speaker>
@@ -149,10 +195,10 @@
     <speaker><hi rend="sc">Fifth Bard.</hi></speaker>
     <p> Night is calm, but dreary. The moon is in a cloud in the weſt. Slow moves that pale beam
      along the ſhaded hill. The giant wave is heard. The torrent murmurs on the rock. The cock is
-     heard from the booth. More than half the night is paſt, The houſe-wife, groping in the gloom,
+     heard from the booth. More than half the night is paſt. The houſe-wife, groping in the gloom,
      rekindles the ſettled fire. The hunter thinks that day approaches, and calls his bounding dogs.
      He aſcends the hill and whiſtles on his way. A blaſt removes the cloud. He ſees the ſtarry
-     plough of the north Much of the night is to paſs. He nods by the moſſy rock.</p>
+     plough of the north. Much of the night is to paſs. He nods by the moſſy rock.</p>
     <p>Hark! the whirlwind is in the wood ! A low murmur in the vale! it is the mighty army of the
      dead returning from the air.</p>
     <p>The moon reſts behind the hill. The beam is ſtill on that lofty rock. Long are the ſhadows of
@@ -170,7 +216,7 @@
      ſilent. Scarce their moſſy tombs remain. We ſhall alſo be forgot. This lofty houſe ſhall fall.
      Our ſons ſhall not behold the ruins in graſs. They ſhall aſk of the aged, “Where ſtood the
      walls of our fathers ?”</p>
-    <p>Raiſe the ſong, and ſtrike the harp ; ſend round the ſhells of joy, Suſpend a hundred tapers
+    <p>Raiſe the ſong, and ſtrike the harp ; ſend round the ſhells of joy. Suſpend a hundred tapers
      on high. Youths and maids begin the dance. Let ſome gray bard be near me to tell the deeds of
      other times ; of kings renowned in our land, of chiefs we behold no more. Thus let the night
      paſs until morning ſhall appear in our halls. Then let the bow be at hand, the dogs, the youths
@@ -178,7 +224,6 @@
    </sp>
    </note>, the praiſe<!-- of -->
    <!-- FixsT -->
-   
    <pb xml:id="P73110133" facs="../img/1773-440.pbm"/>
    <!-- A P O E M, 132 --> of Oſſian ; they poured forth their burning ſouls, and the ſtring
    anſwered to their voice. The joy of Croma was great : for peace returned to the
@@ -186,25 +231,25 @@
    <pb xml:id="P73110134" facs="../img/1773-443.pbm"/>
    <!-- 134 C R O M 8a: --> land. The night came on with ſilence; the morning returned with joy. No
    foe came in darkneſs, with his glittering ſpear. The joy of Croma was great; for the gloomy
-   Rothmar had fallen! 
-   <!-- I xaristD -->
-   
+   Rothmar had fallen! <!-- I xaristD -->
    <!-- yes --></p>
   <p>
-   
    <pb xml:id="P73110135" facs="../img/1773-446.pbm"/>
    <!-- A P O E M. 136 --> <hi rend="sc">I raised</hi> my voice for Fovar-gormo, when they laid the
    chief in earth. The aged Crothar was there, but his ſigh was not heard. He
-   <!-- ſearched --><!-- k 4 15 -->
+   <!-- şearched --><!-- k 4 15 -->
    <pb xml:id="P73110136" facs="../img/1773-449.pbm"/>
-   <!-- 136 CR oO M A: --> ſearched for the wound of his ſon, and ſound it in his breaſt. Joy roſe
-   in the face of the aged. 
-   <!-- — Hg -->
+   <!-- 136 CR oO M A: --> ſearched for the wound of his ſon, and found it in his breaſt. Joy roſe
+   in the face of the aged. <!-- — Hg -->
    <pb xml:id="P73110137" facs="../img/1773-452.pbm"/>
-   <!-- A P O E M. 137 --> He came and ſpoke to Oſſian, “King of ſpears !” he ſaid, “my ſon has not fallen without his fame. The young warrior did not fly; but met death, as he went forward in his ſtrength. Happy are they who die in youth, when their renown is heard! The feeble will not behold them in the hall; or ſmile at their trembling hands. Their memory ſhall be honoured in ſong ; the young tear of the virgin will fall. But the aged wither away, by degrees, the fame of their youth, while yet they live is all forgot. They fall in ſecret. The ſigh of their ſon is not heard. Joy is around their tomb; the ſtone of their fame is placed without a tear. Happy are they who die in youth, when their renown is around them. 
-
-<pb xml:id="P73110138" facs="../img/1773-416.pbm"/>
- 
-
-</p>
-</body></text>
+   <!-- A P O E M. 137 --> He came and ſpoke to Oſſian, “King of ſpears !” he ſaid, “my ſon has not
+   fallen without his fame. The young warrior did not fly; but met death, as he went forward in his
+   ſtrength. Happy are they who die in youth, when their renown is heard! The feeble will not behold
+   them in the hall; or ſmile at their trembling hands. Their memory ſhall be honoured in ſong ; the
+   young tear of the virgin will fall. But the aged wither away, by degrees, the fame of their
+   youth, while yet they live is all forgot. They fall in ſecret. The ſigh of their ſon is not
+   heard. Joy is around their tomb; the ſtone of their fame is placed without a tear. Happy are they
+   who die in youth, when their renown is around them.
+   <pb xml:id="P73110138" facs="../img/1773-416.pbm"/> </p>
+ </body>
+</text>

@@ -1,9 +1,15 @@
 <text xmlns="http://www.tei-c.org/ns/1.0">
- <front><pb xml:id="P73110139" facs="../img/1773-456.pbm"/><titlePage><titlePart>CALTHON and COLMAL: A POEM.</titlePart></titlePage>
- 
+ <front>
+  <pb xml:id="P73110139" facs="../img/1773-456.pbm"/>
+  <titlePage>
+   <titlePart>CALTHON and COLMAL: A POEM.</titlePart>
+  </titlePage>
 
-<pb xml:id="P73110140" facs="../img/1773-459.pbm"/>
- <div><head>ARGUMENT.</head><p>This piece, as many more of Oſſian's compoſitions, is addreſſed to one of the firſt Chriſtian
+
+  <pb xml:id="P73110140" facs="../img/1773-459.pbm"/>
+  <div>
+   <head>ARGUMENT.</head>
+   <p>This piece, as many more of Oſſian's compoſitions, is addreſſed to one of the firſt Chriſtian
     miſſionaries. The ſtory of the poem is handed down, by tradition, thus. In the country of the
     Britons between the walls, two chiefs lived in the days of Fingal, Dunthalmo, lord of Teutha,
     ſuppoſed to be the Tweed ; and Rathmor, who dwelt at Clutha, well known to be the river Clyde.
@@ -17,37 +23,50 @@
     love with Calthon, helped him to make his eſcape from priſon, and fled with him to Fingal,
     diſguiſed in the habit of a young warrior, and implored his aid againſt Dunthalmo. Fingal ſent
     Oſſian with three hundred men, to Colmar's relief. Dunthalmo having previouſly murdered Colmar,
-    came to a battle with Oſſian; but he was killed by that hero, and his army totally defeated,</p><p>Calthon married Colmal, his deliverer; and Oſſian returned to Morven. </p></div> 
- </front><body>
-  
-<pb xml:id="P73110141" facs="../img/1773-462.pbm"/>
-<!-- [141 </sc>] -->
-<head>CALTHON and COLMAL: A POEM.</head><p> <hi rend="sc">Pleasant</hi> is the voice of thy ſong, thou lonely dweller of the rock. It comes on the ſound of the ſtream, along the narrow vale. My ſoul awakes, O ſtranger! in the midſt of my hall. I ſtretch my hand to the ſpear, as in the days of other years. I ſtretch my hand, but it is feeble ; and the ſigh of my boſom grows. Wilt thou not liſten, ſon of the rock, to the ſong of Oſſian ? My ſoul is full of other times ; the joy of my youth returns. Thus the ſun appears in the weſt, after the ſteps of his brightneſs have moved behind a ſtorm ; the green hills lift their dewy heads. the blue ſtreams rejoice in the vale. The aged hero comes forth on his ſtaff; his grey hair glitters in the beam. Doſt thou not behold, ſon of the rock, a ſhield in Oſſian's hall ? It is marked with the ſtrokes of battle; and the brightneſs of its boſſes has failed, 
-<!-- 7 That -->
+    came to a battle with Oſſian; but he was killed by that hero, and his army totally defeated,</p>
+   <p>Calthon married Colmal, his deliverer; and Oſſian returned to Morven. </p>
+  </div>
+ </front>
+ <body>
 
-<pb xml:id="P73110142" facs="../img/1773-465.pbm"/>
-<!-- 142 CALTHON and COLMAL: -->
- That ſhield the great Dunthalmo bore, the chief of ſtreamy Teutha. Dunthalmo bore it in battle, before he fell by Oſſian's ſpear. Liſten, ſon of the rock, to the tale of other years !</p><p><hi rend="sc">Rathmor</hi> was a Chief of Clutha. The feeble dwelt in his hall. The gates of
+  <pb xml:id="P73110141" facs="../img/1773-462.pbm"/>
+  <!-- [141 </sc>] -->
+  <head>CALTHON and COLMAL: A POEM.</head>
+  <p> <hi rend="sc">Pleasant</hi> is the voice of thy ſong, thou lonely dweller of the rock. It
+   comes on the ſound of the ſtream, along the narrow vale. My ſoul awakes, O ſtranger! in the midſt
+   of my hall. I ſtretch my hand to the ſpear, as in the days of other years. I ſtretch my hand, but
+   it is feeble ; and the ſigh of my boſom grows. Wilt thou not liſten, ſon of the rock, to the ſong
+   of Oſſian ? My ſoul is full of other times ; the joy of my youth returns. Thus the ſun appears in
+   the weſt, after the ſteps of his brightneſs have moved behind a ſtorm ; the green hills lift
+   their dewy heads. the blue ſtreams rejoice in the vale. The aged hero comes forth on his ſtaff;
+   his grey hair glitters in the beam. Doſt thou not behold, ſon of the rock, a ſhield in Oſſian's
+   hall ? It is marked with the ſtrokes of battle; and the brightneſs of its boſſes has failed,
+   <!-- 7 That -->
+   <pb xml:id="P73110142" facs="../img/1773-465.pbm"/>
+   <!-- 142 CALTHON and COLMAL: --> That ſhield the great Dunthalmo bore, the chief of ſtreamy
+   Teutha. Dunthalmo bore it in battle, before he fell by Oſſian's ſpear. Liſten, ſon of the rock,
+   to the tale of other years !</p>
+  <p><hi rend="sc">Rathmor</hi> was a Chief of Clutha. The feeble dwelt in his hall. The gates of
    Rathmor were never ſhut; his feaſt was always ſpread. The ſons of the ſtranger came. They bleſſed
    the generous chief of Clutha. Bards raiſed the ſong, and touched the harp: joy brightened on the
    face of the ſad ! Dunthalmo came, in his pride, and ruſhed into the combat of Rathmor. The chief
    of Clutha overcame : the rage of Dunthalmo roſe. He came, by night, with his warriors; the mighty
-   Rathmor fell. He fell in his halls, where his feaſt was often ſpread for ſtrangers.</p><p><hi rend="sc">Colmar</hi> and Calthon were young, the ſons of car-borne Rathmor. They came, in
+   Rathmor fell. He fell in his halls, where his feaſt was often ſpread for ſtrangers.</p>
+  <p><hi rend="sc">Colmar</hi> and Calthon were young, the ſons of car-borne Rathmor. They came, in
    the joy of youth, into their father's hall. They behold him in his blood ; their burſting tears
    deſcend. The ſoul of Dunthalmo melted, when he ſaw the children of youth. He brought them to Alteutha's<note>
    <p> Al-teutha, or rather Balteutha, <hi>the town of Tweed</hi>, the name of Dunthalmo's ſeat. It
     is obſervable that all the names in this poem, are derived from the Galic language ; which is a
     proof that it was once the univerſal language of the whole iſland </p>
-   </note> walls ; they grew in the houſe of 
-   <!-- their -->
-   
+   </note> walls ; they grew in the houſe of <!-- their -->
    <pb xml:id="P73110143" facs="../img/1773-468.pbm"/>
    <!-- A P O E M. 143 --> their foe. They bent the bow in his preſence ; and came forth to his
    wars. They ſaw the fallen walls of their fathers; they ſaw the green thorn in the hall. Their
    tears ruſhed forth in ſecret. At times, their faces were ſad. Dunthalmo beheld their grief: his
    darkening ſoul deſigned their death. He cloſed them in two caves, on the ecchoing banks of
    Teutha. The ſun did not come there with his beams ; nor the moon of heaven by night. The ſons of
-   Rathmor remained in darkneſs, and fore`ſaw their death.</p><p><hi rend="sc">The</hi> daughter of Dunthalmo wept in ſilence, the fair-haired, blue-eyed Colmal<note>
+   Rathmor remained in darkneſs, and foreſaw their death.</p>
+  <p><hi rend="sc">The</hi> daughter of Dunthalmo wept in ſilence, the fair-haired, blue-eyed Colmal<note>
    <p> Caol-mhal, <hi>a woman with ſmall eye-brows</hi>; ſmall eyebrows were a diſtinguiſhing part
     of beauty in Oſſian's time : and he ſeldom fails to give them to the fine women of his poems.
    </p>
@@ -61,23 +80,50 @@
     his firſt battle, as more proper for a young woman, who cannot be ſuppoſed ſtrong enough to
     carry the armour of a full-grown warrior. </p>
    </note>. She <!-- armed --><!-- probable; -->
-   
    <pb xml:id="P73110144" facs="../img/1773-471.pbm"/>
    <!-- 144 CALTHON and COLMAL: --> armed her lovely form in ſteel ; the ſteel of a young warrior,
    who fell in the firſt of his battles. She came to the cave of Calthon, and looſed the thong from
-   his hands.</p><p>“<hi rend="sc">Arise</hi>, ſon of Rathmor,” the ſaid, “ariſe, the night is dark! Let us fly to the king of Selma<note><p> Fingal. </p></note>, chief of fallen Clutha ! I an the ſon of Lamgal, who dwelt in thy father's hall. I heard of thy dark dwelling in the cave, and my ſoul aroſe. Ariſe, ſon of Rathmor, ariſe, the night is dark !” “Bleſt voice!” replied the chief, “comeſt thou from the clouds to Calthon? The ghoſts of his fathers have often deſcended in his dreams, ſince the ſun has retired from his eyes, and darkneſs has dwelt around him. Or art thou the ſon of Lamgal, the chief I often ſaw in Clutha ? But ſhall I fly to Fingal, and Colmar my brother low ? Will I fly to Morven, and the hero cloſed in night? No: give me that ſpear, ſon of Lamgal, Calthon will defend his brother !”</p><p>“<hi rend="sc">A thousand</hi> warriors,” replied the maid, ſtretch their ſpears round car-borne
-   Colmar. What can Calthon do againſt a hoſt ſo great ? Let us fly to the King of Morven, he will
-   come 
-   
+   his hands.</p>
+  <p>“<hi rend="sc">Arise</hi>, ſon of Rathmor,” the ſaid, “ariſe, the night is dark! Let us fly to
+   the king of Selma<note>
+   <p> Fingal. </p>
+   </note>, chief of fallen Clutha ! I an the ſon of Lamgal, who dwelt in thy father's hall. I heard
+   of thy dark dwelling in the cave, and my ſoul aroſe. Ariſe, ſon of Rathmor, ariſe, the night is
+   dark !” “Bleſt voice!” replied the chief, “comeſt thou from the clouds to Calthon? The ghoſts of
+   his fathers have often deſcended in his dreams, ſince the ſun has retired from his eyes, and
+   darkneſs has dwelt around him. Or art thou the ſon of Lamgal, the chief I often ſaw in Clutha ?
+   But ſhall I fly to Fingal, and Colmar my brother low ? Will I fly to Morven, and the hero cloſed
+   in night? No: give me that ſpear, ſon of Lamgal, Calthon will defend his brother !”</p>
+  <p>“<hi rend="sc">A thousand</hi> warriors,” replied the maid, ſtretch their ſpears round
+   car-borne Colmar. What can Calthon do againſt a hoſt ſo great ? Let us fly to the King of Morven,
+   he will come
    <pb xml:id="P73110145" facs="../img/1773-474.pbm"/>
    <!-- A PO E M. 145 --> with war. His arm is ſtretched forth to the unhappy ; the lightning of his
    ſword is round the weak. Ariſe, thou ſon of Rathmor; the ſhadows will fly away. Ariſe, or thy
-   ſteps may be ſeen, and thou muſt fall in youth !”</p><p><hi rend="sc">The</hi> ſighing hero roſe ; his tears deſcend for car-borne Colmar. He came with the maid to Selma's hall ; but he knew not that it was Colmal. The helmet cover'd her lovely face. Her boſom heaved beneath the ſteel. Fingal returned from the chace, and ſound the lovely ſtrangers. They were like two beams of light, in the midſt of the hall of ſhells. The king heard the tale of grief; and turned his eyes around. A thouſand heroes half-roſe before him ; claiming the war of Teutha. I came with my ſpear from the hill ; the joy of battle roſe in my breaſt : for the king ſpoke to Oſſian in the midſt of a thouſand chiefs.</p><p>“<hi rend="sc">Son</hi> of my ſtrength,” began the king, “take thou the ſpear of Fingal. Go to Teutha's ruſhing ſtream, and ſave the car-borne Colmar. Let thy fame return before thee like a pleaſant gale ; that my ſoul may rejoice over my ſon, who renews the renown of our fathers. Oſſian ! be thou a ſtorm in war ; but mild when the foe is low ! It was thus my fame aroſe, O my ſon; be thou like Selma's chief. When the haughty 
-<!-- Ver. I, L come -->
-
-<pb xml:id="P73110146" facs="../img/1773-477.pbm"/>
-<!-- 146 CALTHON and COLMAL: -->
- come to my halls, my eyes behold them not. But my arm is ſtretched forth to the unhappy. My ſword defends the weak.”</p><p><hi rend="sc">I rejoiced</hi> in the words of the king. I took my rattling arms. Diaran<note><p> Diaran, father of that Connal who was unfortunately killed by Crimora, his miſtreſs. </p></note> roſe at my ſide, and Dargo<note><p> Dargo, the ſon of Collath, is celebrated in other poems by Oſſian. He is ſaid to have been killed by a boar at a hunting party. The lamentation of his miſtreſs, or wife, Mingala, over his body, is extant ; but whether it is of Oſſian's compoſition, I cannot determine. It is generally aſcribed to him, and has much of his manner ; but ſome traditions mention it as an imitation by ſome later bard. As it has ſome poetical merit, I have ſubjoined it.</p>
+   ſteps may be ſeen, and thou muſt fall in youth !”</p>
+  <p><hi rend="sc">The</hi> ſighing hero roſe ; his tears deſcend for car-borne Colmar. He came with
+   the maid to Selma's hall ; but he knew not that it was Colmal. The helmet cover'd her lovely
+   face. Her boſom heaved beneath the ſteel. Fingal returned from the chace, and found the lovely
+   ſtrangers. They were like two beams of light, in the midſt of the hall of ſhells. The king heard
+   the tale of grief; and turned his eyes around. A thouſand heroes half-roſe before him ; claiming
+   the war of Teutha. I came with my ſpear from the hill ; the joy of battle roſe in my breaſt : for
+   the king ſpoke to Oſſian in the midſt of a thouſand chiefs.</p>
+  <p>“<hi rend="sc">Son</hi> of my ſtrength,” began the king, “take thou the ſpear of Fingal. Go to
+   Teutha's ruſhing ſtream, and ſave the car-borne Colmar. Let thy fame return before thee like a
+   pleaſant gale ; that my ſoul may rejoice over my ſon, who renews the renown of our fathers.
+   Oſſian ! be thou a ſtorm in war ; but mild when the foe is low ! It was thus my fame aroſe, O my
+   ſon; be thou like Selma's chief. When the haughty <!-- Ver. I, L come -->
+   <pb xml:id="P73110146" facs="../img/1773-477.pbm"/>
+   <!-- 146 CALTHON and COLMAL: --> come to my halls, my eyes behold them not. But my arm is
+   ſtretched forth to the unhappy. My ſword defends the weak.”</p>
+  <p><hi rend="sc">I rejoiced</hi> in the words of the king. I took my rattling arms. Diaran<note>
+   <p> Diaran, father of that Connal who was unfortunately killed by Crimora, his miſtreſs. </p>
+   </note> roſe at my ſide, and Dargo<note>
+   <p> Dargo, the ſon of Collath, is celebrated in other poems by Oſſian. He is ſaid to have been
+    killed by a boar at a hunting party. The lamentation of his miſtreſs, or wife, Mingala, over his
+    body, is extant ; but whether it is of Oſſian's compoſition, I cannot determine. It is generally
+    aſcribed to him, and has much of his manner ; but ſome traditions mention it as an imitation by
+    ſome later bard. As it has ſome poetical merit, I have ſubjoined it.</p>
    <quote>
     <p><hi rend="sc">The</hi> ſpouſe of Dargo comes in tears: for Dargo was no more! The heroes ſigh
      over Lartho's chief: and what ſhall ſad Mingala do? The dark ſoul vaniſhed like morning miſt,
@@ -95,49 +141,81 @@
      are heavy, bard ! She muſt ſleep with Dargo.</p>
     <p>Laſt night I heard the ſong of joy in Lartho's lofty hall. But ſilence dwells around my bed.
      Mingala reſts with Dargo. </p>
-   </quote></note> king of ſpears. Three hundred youths 
-<!-- followed -->
-
-<!-- — -->
-
-<!-- 4 -->
-
-<pb xml:id="P73110147" facs="../img/1773-480.pbm"/>
-<!-- A P O E M. 147 -->
- followed our ſteps : the lovely ſtrangers were at my ſide. Dunthalmo heard the ſound of our approach. He gathered the ſtrength of Teutha. He ſtood on a hill with his hoſt. They were like rocks broken with thunder, when their bent trees are ſinged and bare, and the ſtreams of their chinks have failed. The ſtream of Teutha rolled, in its pride, before the gloomy foe. I ſent a bard to Dunthalmo, to offer the combat on the plain ; but he ſmiled in the darkneſs of his pride. His unſettled hoſt moved on the hill ; like the mountain-cloud, when the blaſt has entered its womb, and ſcatters the curling gloom on every ſide.</p><p>They brought Colmar to Teutha's bank, bound with a thouſand thongs. The chief is ſad, but ſtately. His eye is on his friends ; for we ſtood, in our arms, whilſt Teutha's waters rolled between. Dunthalmo came with his ſpear, and pierced the hero's ſide : he rolled on the bank in his blood. We heard his broken ſighs. Calthon ruſhed into the ſtream : I bounded forward on my ſpear. Teutha's race fell before us. 
-<!-- L 2 Nyzht -->
-
-<pb xml:id="P73110148" facs="../img/1773-483.pbm"/>
-<!-- 143 CALTHON and COLMAL: -->
- Night came rolling down. Dunthalmo reſted on a rock, amidſt an aged wood. The rage of his boſom burned againſt the car-borne Calthon. But Calthon ſtood in his grief; he mourned the fallen Colmar ; Colmar ſlain in youth, before his fame aroſe!</p><p><hi rend="sc">I bade</hi> the ſong of woe to riſe, to ſooth the mournful chief; but he ſtood beneath a tree, and often threw his ſpear on earth. The humid eye of Colmal rolled near in a ſecret tear : ſhe foreſaw the fall of Dunthalmo, or of Clutha's warlike chief. Now half the night had paſſed away. Silence and darkneſs were on the field. Sleep reſted on the eyes of the heroes: Calthon's ſettling ſoul was ſtill. His eyes were half-cloſed ; but the murmur of Teutha had not yet failed in his ear. Pale, and ſhewing his wounds, the ghoſt of Colmar came: he bent his head over the hero, and raiſed his feeble voice !</p><p>“<hi rend="sc">Sleeps</hi> the ſon of Rathmor in his night, and his brother low? Did we not riſe
-   to the chace together? Purſued we not the dark-brown hinds ? Colmar was not forgot till he fell :
-   till death had blaſted his youth. I lie pale beneath the rock of Lona. O let Calthon riſe! the
-   morning comes with its beams; Durthalmo will diſhonour the fallen.” He paſſed away in his blaſt.
-   The riſing Calthon ſaw the ſteps of his departure.
-   <!-- He -->
-   
+   </quote>
+   </note> king of ſpears. Three hundred youths <!-- followed -->
+   <!-- 4 -->
+   <pb xml:id="P73110147" facs="../img/1773-480.pbm"/>
+   <!-- A P O E M. 147 --> followed our ſteps : the lovely ſtrangers were at my ſide. Dunthalmo
+   heard the ſound of our approach. He gathered the ſtrength of Teutha. He ſtood on a hill with his
+   hoſt. They were like rocks broken with thunder, when their bent trees are ſinged and bare, and
+   the ſtreams of their chinks have failed. The ſtream of Teutha rolled, in its pride, before the
+   gloomy foe. I ſent a bard to Dunthalmo, to offer the combat on the plain ; but he ſmiled in the
+   darkneſs of his pride. His unſettled hoſt moved on the hill ; like the mountain-cloud, when the
+   blaſt has entered its womb, and ſcatters the curling gloom on every ſide.</p>
+  <p>They brought Colmar to Teutha's bank, bound with a thouſand thongs. The chief is ſad, but
+   ſtately. His eye is on his friends ; for we ſtood, in our arms, whilſt Teutha's waters rolled
+   between. Dunthalmo came with his ſpear, and pierced the hero's ſide : he rolled on the bank in
+   his blood. We heard his broken ſighs. Calthon ruſhed into the ſtream : I bounded forward on my
+   ſpear. Teutha's race fell before us. <!-- L 2 Nyzht -->
+   <pb xml:id="P73110148" facs="../img/1773-483.pbm"/>
+   <!-- 143 CALTHON and COLMAL: --> Night came rolling down. Dunthalmo reſted on a rock, amidſt an
+   aged wood. The rage of his boſom burned againſt the car-borne Calthon. But Calthon ſtood in his
+   grief; he mourned the fallen Colmar ; Colmar ſlain in youth, before his fame aroſe!</p>
+  <p><hi rend="sc">I bade</hi> the ſong of woe to riſe, to ſooth the mournful chief; but he ſtood
+   beneath a tree, and often threw his ſpear on earth. The humid eye of Colmal rolled near in a
+   ſecret tear : ſhe foreſaw the fall of Dunthalmo, or of Clutha's warlike chief. Now half the night
+   had paſſed away. Silence and darkneſs were on the field. Sleep reſted on the eyes of the heroes:
+   Calthon's ſettling ſoul was ſtill. His eyes were half-cloſed ; but the murmur of Teutha had not
+   yet failed in his ear. Pale, and ſhewing his wounds, the ghoſt of Colmar came: he bent his head
+   over the hero, and raiſed his feeble voice !</p>
+  <p>“<hi rend="sc">Sleeps</hi> the ſon of Rathmor in his night, and his brother low? Did we not
+   riſe to the chace together? Purſued we not the dark-brown hinds ? Colmar was not forgot till he
+   fell : till death had blaſted his youth. I lie pale beneath the rock of Lona. O let Calthon riſe!
+   the morning comes with its beams; Durthalmo will diſhonour the fallen.” He paſſed away in his
+   blaſt. The riſing Calthon ſaw the ſteps of his departure. <!-- He -->
    <pb xml:id="P73110149" facs="../img/1773-486.pbm"/>
    <!-- A P O E XM. 149 --> He ruſhed in the ſound of his ſteel. Unhappy Colmal roſe. She followed
    her hero through night, and dragged her ſpear behind. But when Calthon came to Lona's rock, he
-   ſound his fallen brother. The rage of his boſom roſe; he ruſhed among the foe. The groans of
+   found his fallen brother. The rage of his boſom roſe; he ruſhed among the foe. The groans of
    death aſcend. They cloſe around the chief. He is bound in the midſt, and brought to gloomy
-   Dunthalmo. The ſhout of joy aroſe ; and the hills of night replied.</p><p><hi rend="sc">I started</hi> at the ſound: and took my father's ſpear. Diaran roſe at my ſide; and the youthful ſtrength of Dargo. We miſſed the chief of Clutha, and our ſouls were ſad. I dreaded the departure of my fame. The pride of my valour roſe! “Sons of Morven,” I ſaid, “it is not thus our fathers fought. They reſted not on the field of ſtrangers, when the foe was not fallen before them. Their ſtrength was like the eagles of heaven; their renown is in the ſong. But our people fall by degrees. Our fame begins to depart. What ſhall the king of Morven ſay, if Oſſian conquers not at Teutha? Riſe in your ſteel, ye warriors; follow the ſound of Oſſian's courſe. He will not return, but renowned, to the ecchoing walls of Selma.”</p><p><hi rend="sc">Morning</hi> roſe on the blue waters of Teutha. Colmal ſtood before me in tears. She told of 
-<!-- L 3 tie -->
+   Dunthalmo. The ſhout of joy aroſe ; and the hills of night replied.</p>
+  <p><hi rend="sc">I started</hi> at the ſound: and took my father's ſpear. Diaran roſe at my ſide;
+   and the youthful ſtrength of Dargo. We miſſed the chief of Clutha, and our ſouls were ſad. I
+   dreaded the departure of my fame. The pride of my valour roſe! “Sons of Morven,” I ſaid, “it is
+   not thus our fathers fought. They reſted not on the field of ſtrangers, when the foe was not
+   fallen before them. Their ſtrength was like the eagles of heaven; their renown is in the ſong.
+   But our people fall by degrees. Our fame begins to depart. What ſhall the king of Morven ſay, if
+   Oſſian conquers not at Teutha? Riſe in your ſteel, ye warriors; follow the ſound of Oſſian's
+   courſe. He will not return, but renowned, to the ecchoing walls of Selma.”</p>
+  <p><hi rend="sc">Morning</hi> roſe on the blue waters of Teutha. Colmal ſtood before me in tears.
+   She told of <!-- L 3 tie -->
+   <pb xml:id="P73110150" facs="../img/1773-489.pbm"/>
+   <!-- 150 CALTHON and COL MAL: --> the chief of Clutha : thrice the ſpear fell from her hand. My
+   wrath turned againſt the ſtranger ; for my ſoul trembled for Calthon. “Son of the feeble hand,” I
+   ſaid, “do Teutha's warriors fight with tears? The battle is not won with grief; nor dwells the
+   ſigh in the ſoul of war. Go to the deer of Carmun, to the lowing herds of Teutha. But leave theſe
+   arms, thou ſon of fear. A warrior may lift them in fight.”</p>
+  <p><hi rend="sc">I tore</hi> the mail from her ſhoulders. Her ſnowy breaſt appeared. She bent her
+   bluſhing face to the ground. I looked in ſilence to the chiefs. The ſpear fell from my hand ; the
+   ſigh of my boſom roſe ! But when I heard the name of the maid, my crowding tears ruſhed down. I
+   bleſſed the lovely beam of youth, and bade the battle move ! </p>
+  <p><hi rend="sc">Why</hi>, ſon of the rock, ſhould Oſſian tell how Teutha's warriors died ? They
+   are now forgot in their land ; their tombs are not ſound on the heath. Years came on with their
+   ſtorms. The green mounds are mouldered away. Scarce is the grave of Dunthalmo ſeen, or the place
+   where he fell by the ſpear of Oſſian. Some grey warrior, half blind with age, ſitting by night at
+   the flaming oak of the hall, tells now my deeds to his ſons, and the fall of the dark Dunthalmo,
+   The faces of youth bend ſidelong <!-- towards -->
+   <pb xml:id="P73110151" facs="../img/1773-492.pbm"/>
+   <!-- A P O E M. I51 --> towards his voice. Surprize and joy burn in their eyes! I found Calthon
+   bound to an oak ; my ſword cut the thongs from his hands. I gave him the white-boſomed Colmal.
+   They dwelt in the halls of Teutha. </p>
+  <!-- £9 -->
 
-<pb xml:id="P73110150" facs="../img/1773-489.pbm"/>
-<!-- 150 CALTHON and COL MAL: -->
- the chief of Clutha : thrice the ſpear fell from her hand. My wrath turned againſt the ſtranger ; for my ſoul trembled for Calthon. “Son of the feeble hand,” I ſaid, “do Teutha's warriors fight with tears? The battle is not won with grief; nor dwells the ſigh in the ſoul of war. Go to the deer of Carmun, to the lowing herds of Teutha. But leave theſe arms, thou ſon of fear. A warrior may lift them in fight.”</p><p><hi rend="sc">I tore</hi> the mail from her ſhoulders. Her ſnowy breaſt appeared. She bent her bluſhing face to the ground. I looked in ſilence to the chiefs. The ſpear fell from my hand ; the ſigh of my boſom roſe ! But when I heard the name of the maid, my crowding tears ruſhed down. I bleſſed the lovely beam of youth, and bade the battle move ! </p><p><hi rend="sc">Why</hi>, ſon of the rock, ſhould Oſſian tell how Teutha's warriors died ? They are now forgot in their land ; their tombs are not ſound on the heath. Years came on with their ſtorms. The green mounds are mouldered away. Scarce is the grave of Dunthalmo ſeen, or the place where he fell by the ſpear of Oſſian. Some grey warrior, half blind with age, ſitting by night at the flaming oak of the hall, tells now my deeds to his ſons, and the fall of the dark Dunthalmo, The faces of youth bend ſidelong 
-<!-- towards -->
-
-<pb xml:id="P73110151" facs="../img/1773-492.pbm"/>
-<!-- A P O E M. I51 -->
- towards his voice. Surprize and joy burn in their eyes! I ſound Calthon bound to an oak ; my ſword cut the thongs from his hands. I gave him the white-boſomed Colmal. They dwelt in the halls of Teutha. </p> 
-<!-- £9 -->
-
-<pb xml:id="P73110152" facs="../img/1773-496.pbm"/>
- 
+  <pb xml:id="P73110152" facs="../img/1773-496.pbm"/>
 
 
- 
 
-</body></text>
+
+
+ </body>
+</text>

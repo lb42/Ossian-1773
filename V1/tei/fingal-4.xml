@@ -1,62 +1,102 @@
-<text xmlns="http://www.tei-c.org/ns/1.0">
-<pb xml:id="P73110281" facs="../img/1773-870.pbm"/>
- <front><titlePage><titlePart><title>FINGAL, AN ANCIENT EPIC POEM. BOOK IV.</title></titlePart></titlePage>
+<div type="book" xmlns="http://www.tei-c.org/ns/1.0">
+ <pb xml:id="P73110281" facs="../img/1773-870.pbm"/>
+ <head>FINGAL, AN ANCIENT EPIC POEM. BOOK IV.</head>
 
-<pb xml:id="P73110282" facs="../img/1773-873.pbm"/>
- <div><head>ARGUMENT to Book IV.</head><p> The action of the poem being ſuſpended by night, Oſſian takes that opportunity to relate his own actions at the lake of Lego, and his courtſhip of Evirallin, who was the mother of Oſcar, and had died ſome time before the expedition of Fingal into Ireland. Her ghoſt appears to him, and tells him that Oſcar, who had been ſent, the beginning of the night, to obſerve the enemy, was engaged with an advanced party, and almoſt overpowered. Oſſian relieves his ſon; and an alarm is given to Fingal of the approach of Swaran. The king riſes, calls his army together, and, as he had promiſed the preceding night, devolves the command on Gaul the ſon of Morni, while he himſelf, after charging his ſons to behave gallantly and defend his people, retires to a hill, from whence he could have a view of the battle. The battle joins; the poet relates Oſcar's great actions. But when Oſcar, in conjunction with his father, conquered in one wing, Gaul, who was attacked by Swaran in perſon, was on the point of retreating in the other. Fingal ſends Ullin his bard to encourage him with a war ſong, but notwithſtanding Swaran prevails; and Gaul and his army are obliged to give way. Fingal, deſcending from the hill, rallies them again: Swaran deſiſts from the purſuit, poſſeſſes himſelf of a riſing ground, reſtores the ranks, and waits the approach of Fingal. The king, having encouraged his men, gives the neceſſary orders, and renews the battle. Cuthullin, who, with his friend Connal, and Carril his bard, had retired to the cave of Tura, hearing the noiſe, came to the brow of the hill, which overlooked the field of battle, where he ſaw Fingal engaged with the enemy. He, being hindered by Connal from joining Fingal, who was himſelf upon the point of obtaining a complete victory, ſends Carril to congratulate that hero on his ſucceſs. </p></div> 
-</front><body>
-<pb xml:id="P73110283" facs="../img/1773-876.pbm"/>
-<!-- [ 283 ] -->
- <head>FINGAL, AN ANCIENT EPIC POEM. In SIX BOOKS, BOOK IV.</head><p><note><p>Fingal being aſleep, and the action ſuſpended by night, the poet introduces the ſtory of his courtſhip of Evirallin the daughter of Branno, The epiſode is neceſſary to clear up ſeveral paſſages that follow in the poem; at the ſame time that it naturally brings on the action of the book, which may be ſuppoſed to begin about the middle of the third night from the opening of the poem. This book, as many of Oſſian's other compoſitions, is addreſſed to the beautiful Malvina the daughter of Toſcar. She appears to have been in love with Oſcar, and to have affected the company of the father after the death of the ſon. </p></note> <hi rend="sc">Who</hi> comes with her ſongs from the hill, like the bow of the ſhowery Lena? It is the maid of the voice of love ! The white-armed daughter of Toſcar ! Often haſt thou heard my ſong; often given the tear of beauty. Doſt thou come to the wars of thy people? to hear 
-<!-- the -->
-
-<pb xml:id="P73110284" facs="../img/1773-879.pbm"/>
-<!-- 284 F I N G A L, Book IV. -->
- the actions of Oſcar ? When ſhall I ceaſe to mourn, by the ſtreams of reſounding Cona ? My years have paſſed away in battle. My age is darkened with grief!</p><p>“<hi rend="sc">Daughter</hi> of the hand of ſnow! I was not ſo mournful and blind. I was not ſo dark and forlorn, when Everallin loved me ! Everallin with the dark-brown hair, the white-boſomed daughter of Branno! A thouſand heroes ſought the maid, ſhe refuſed her love to a thouſand. The ſons of the ſword were deſpiſed : for graceful in her eyes was Oſſian! I went, in ſuit of the maid, to Lego's ſable ſurge. Twelve of my people were there, the ſons of ſtreamy Morven ! We came to Branno, friend of ſtrangers! Branno of the ſounding mail! “From whence,” he ſaid, “are the arms of ſteel? Not eaſy to win is the maid, who has denied the blue-eyed ſons of Erin ! But bleſt be thou, O fon of Fingal! Happy is the maid that waits thee! Tho' twelve daughters of beauty were mine, thine were the choice, thou ſon of fame !”</p><p><hi rend="sc">He</hi> opened the hall of the maid, the dark-haired Everallin. Joy kindled in our
-   manly breaſts. We bleſt the maid of Branno. “Above us on the hill appeared the people of ſtately
-   Cormac. Eight were the heroes of the chief. The heath flamed wide with their arms. There
-   
+ <pb xml:id="P73110282" facs="../img/1773-873.pbm"/>
+ <div type="argument">
+  <head>ARGUMENT to Book IV.</head>
+  <p> The action of the poem being ſuſpended by night, Oſſian takes that opportunity to relate his
+   own actions at the lake of Lego, and his courtſhip of Evirallin, who was the mother of Oſcar, and
+   had died ſome time before the expedition of Fingal into Ireland. Her ghoſt appears to him, and
+   tells him that Oſcar, who had been ſent, the beginning of the night, to obſerve the enemy, was
+   engaged with an advanced party, and almoſt overpowered. Oſſian relieves his ſon; and an alarm is
+   given to Fingal of the approach of Swaran. The king riſes, calls his army together, and, as he
+   had promiſed the preceding night, devolves the command on Gaul the ſon of Morni, while he
+   himſelf, after charging his ſons to behave gallantly and defend his people, retires to a hill,
+   from whence he could have a view of the battle. The battle joins; the poet relates Oſcar's great
+   actions. But when Oſcar, in conjunction with his father, conquered in one wing, Gaul, who was
+   attacked by Swaran in perſon, was on the point of retreating in the other. Fingal ſends Ullin his
+   bard to encourage him with a war ſong, but notwithſtanding Swaran prevails; and Gaul and his army
+   are obliged to give way. Fingal, deſcending from the hill, rallies them again: Swaran deſiſts
+   from the purſuit, poſſeſſes himſelf of a riſing ground, reſtores the ranks, and waits the
+   approach of Fingal. The king, having encouraged his men, gives the neceſſary orders, and renews
+   the battle. Cuthullin, who, with his friend Connal, and Carril his bard, had retired to the cave
+   of Tura, hearing the noiſe, came to the brow of the hill, which overlooked the field of battle,
+   where he ſaw Fingal engaged with the enemy. He, being hindered by Connal from joining Fingal, who
+   was himſelf upon the point of obtaining a complete victory, ſends Carril to congratulate that
+   hero on his ſucceſs. </p>
+ </div>
+ <div type="poem">
+  <pb xml:id="P73110283" facs="../img/1773-876.pbm"/>
+  <!-- [ 283 ] -->
+  <head>FINGAL, AN ANCIENT EPIC POEM. In SIX BOOKS, BOOK IV.</head>
+  <p><note>
+   <p>Fingal being aſleep, and the action ſuſpended by night, the poet introduces the ſtory of his
+   courtſhip of Evirallin the daughter of Branno, The epiſode is neceſſary to clear up ſeveral
+   paſſages that follow in the poem; at the ſame time that it naturally brings on the action of the
+   book, which may be ſuppoſed to begin about the middle of the third night from the opening of the
+   poem. This book, as many of Oſſian's other compoſitions, is addreſſed to the beautiful Malvina
+   the daughter of Toſcar. She appears to have been in love with Oſcar, and to have affected the
+   company of the father after the death of the ſon. </p></note> <hi rend="sc">Who</hi> comes with
+   her ſongs from the hill, like the bow of the ſhowery Lena? It is the maid of the voice of love !
+   The white-armed daughter of Toſcar ! Often haſt thou heard my ſong; often given the tear of
+   beauty. Doſt thou come to the wars of thy people? to hear <!-- the -->
+   <pb xml:id="P73110284" facs="../img/1773-879.pbm"/>
+   <!-- 284 F I N G A L, Book IV. --> the actions of Oſcar ? When ſhall I ceaſe to mourn, by the
+   ſtreams of reſounding Cona ? My years have paſſed away in battle. My age is darkened with
+   grief!</p>
+  <p>“<hi rend="sc">Daughter</hi> of the hand of ſnow! I was not ſo mournful and blind. I was not ſo
+   dark and forlorn, when Everallin loved me ! Everallin with the dark-brown hair, the white-boſomed
+   daughter of Branno! A thouſand heroes ſought the maid, ſhe refuſed her love to a thouſand. The
+   ſons of the ſword were deſpiſed : for graceful in her eyes was Oſſian! I went, in ſuit of the
+   maid, to Lego's ſable ſurge. Twelve of my people were there, the ſons of ſtreamy Morven ! We came
+   to Branno, friend of ſtrangers! Branno of the ſounding mail! “From whence,” he ſaid, “are the
+   arms of ſteel? Not eaſy to win is the maid, who has denied the blue-eyed ſons of Erin ! But bleſt
+   be thou, O fon of Fingal! Happy is the maid that waits thee! Tho' twelve daughters of beauty were
+   mine, thine were the choice, thou ſon of fame !”</p>
+  <p><hi rend="sc">He</hi> opened the hall of the maid, the dark-haired Everallin. Joy kindled in
+   our manly breaſts. We bleſt the maid of Branno. “Above us on the hill appeared the people of
+   ſtately Cormac. Eight were the heroes of the chief. The heath flamed wide with their arms. There
    <!-- Colla ; -->
-   
    <pb xml:id="P73110285" facs="../img/1773-882.pbm"/>
    <!-- Book IV. An EPIC POEM. 285 --> Colla ; there Durra of wounds, there mighty Toſcar, and Tago,
    there Freſtal the victorious ſtood ; Dairo of the happy deeds: Dala the battle's bulwark in the
    narrow way ! The ſword flamed in the hand of Cormac. Graceful was the look of the hero! Eight
    were the heroes of Oſſian. Ullin ſtormy fon of-war. Mullo of the generous deeds. The noble, the
    graceful Scelacha, Oglan, and Cerdal the wrathful. Dumariccan's brows of death! And why ſhould
-   Ogar be the laſt; ſo wide renowned on the hills of Ardven ?”</p><p>“<hi rend="sc">Ogar</hi> met Dala the ſtrong, face to face, on the field of heroes. The battle of
-   the chiefs was, like wind, on ocean's foamy waves. The dagger is remembered by Ogar ; the weapon
-   which he loved. Nine times he drowned it in Dela's ſide. The ſtormy battle turned. Three times I
-   broke on Cormac's ſhield : three times he broke his ſpear. But, unhappy youth of love! I cut his
-   head away. Five times I ſhook it by the lock. The friends of Cormac fled. Whoever would have told
-   me, lovely maid, when then I ſtrove in battle; that blind, forſaken, and forlorn I now ſhould
-   paſs the night; firm ought his mail to have been; unmatched his arm in war !” 
-   
+   Ogar be the laſt; ſo wide renowned on the hills of Ardven ?”</p>
+  <p>“<hi rend="sc">Ogar</hi> met Dala the ſtrong, face to face, on the field of heroes. The battle
+   of the chiefs was, like wind, on ocean's foamy waves. The dagger is remembered by Ogar ; the
+   weapon which he loved. Nine times he drowned it in Dela's ſide. The ſtormy battle turned. Three
+   times I broke on Cormac's ſhield : three times he broke his ſpear. But, unhappy youth of love! I
+   cut his head away. Five times I ſhook it by the lock. The friends of Cormac fled. Whoever would
+   have told me, lovely maid, when then I ſtrove in battle; that blind, forſaken, and forlorn I now
+   ſhould paſs the night; firm ought his mail to have been; unmatched his arm in war !”
    <pb xml:id="P73110286" facs="../img/1773-885.pbm"/>
    <!-- 286 F ING A L, Book IV. --></p>
   <p> <hi rend="sc">On</hi><note>
    <p> The poet returns to his ſubject. If one could fix the time of the year in which the action of
-    the poem happened, from the ſcene deſcribed here, I ſhould be tempted to place it in autumn. The
-    trees ſhed their leaves, and the winds are variable, both which circumſtances agree with that
-    ſeaſon of the year. </p>
-   </note> Lena's gloomy heath, the voice of muſic died away. The unconſtant blaſt blew hard. The
-   high oak ſhook its leaves around. Of Everallin were my thoughts, when in all the light of beauty
-   ſhe came. Her blue eyes rolling in tears. She ſtood on a cloud before my ſight, and ſpoke with
-   feeble voice ! “Riſe, Oſſian, riſe and ſave my ſon; ſave Oſcar prince of men. Near the red oak of
-   Luba's ſtream, he fights with Lochlin's ſons.” She ſunk into her cloud again, I covered me with
-   ſteel. My ſpear ſupported my ſteps; my rattling armour rung. I hummed, as I was wont in danger,
-   the ſongs of heroes of old. Like diſtant thunder Lochlin heard. They fled ; my ſon purſued.”</p><p>“<hi rend="sc">I called</hi> him like a diſtant ſtream. Oſcar return over Lena. “No further
+   the poem happened, from the ſcene deſcribed here, I ſhould be tempted to place it in autumn. The
+   trees ſhed their leaves, and the winds are variable, both which circumſtances agree with that
+   ſeaſon of the year. </p> </note> Lena's gloomy heath, the voice of muſic died away. The
+   unconſtant blaſt blew hard. The high oak ſhook its leaves around. Of Everallin were my thoughts,
+   when in all the light of beauty ſhe came. Her blue eyes rolling in tears. She ſtood on a cloud
+   before my ſight, and ſpoke with feeble voice ! “Riſe, Oſſian, riſe and ſave my ſon; ſave Oſcar
+   prince of men. Near the red oak of Luba's ſtream, he fights with Lochlin's ſons.” She ſunk into
+   her cloud again, I covered me with ſteel. My ſpear ſupported my ſteps; my rattling armour rung. I
+   hummed, as I was wont in danger, the ſongs of heroes of old. Like diſtant thunder Lochlin heard.
+   They fled ; my ſon purſued.”</p>
+  <p>“<hi rend="sc">I called</hi> him like a diſtant ſtream. Oſcar return over Lena. “No further
    purſue the foe,” I ſaid, “though Oſſian is behind thee.” He came ; and pleaſant to my ear was
    Oſcar's ſounding ſteel. “Why didſt thou ſtop my hand,” he ſaid, “till death had covered all ? For
-   dark and dreadful by the ſtream they met 
-   <!-- 7 thy -->
-   
+   dark and dreadful by the ſtream they met <!-- 7 thy -->
    <pb xml:id="P73110287" facs="../img/1773-888.pbm"/>
    <!-- Book IV. An EPIC POEM. 287 --> thy ſon and Fillan ! They watched the terrors of the night.
    Our ſwords have conquered ſome. But as the winds of night pour the ocean, over the white ſands of
    Mora, ſo dark advance the ſons of Lochlin, over Lena's ruſtling heath ! The ghoſts of night
    ſhriek afar: I have ſeen the meteors of death. Let me awake the king of Morven, he that ſmiles in
-   danger ! He that is like the ſun of heaven, riſing in a ſtorm !”</p><p><hi rend="sc">Fingal</hi> had ſtarted from a dream, and leaned on Trenmor's ſhield ; the
+   danger ! He that is like the ſun of heaven, riſing in a ſtorm !”</p>
+  <p><hi rend="sc">Fingal</hi> had ſtarted from a dream, and leaned on Trenmor's ſhield ; the
    dark-brown ſhield of his fathers ; which they had lifted of old in war. The hero had ſeen, in his
    reſt, the mournful form of Agandecca. She came from the way of the ocean. She ſlowly, lonely,
    moved over Lena. Her face was pale like the miſt of Cromla. Dark were the tears of her cheek. She
@@ -67,18 +107,22 @@
    her people, that were to fall by the hand of Fingal.</p>
   <p>
    <!-- THE -->
-   
    <pb xml:id="P73110288" facs="../img/1773-891.pbm"/>
    <!-- 288 FIN G A L, Book IV. --> <hi rend="sc">The</hi> hero ſtarted from reſt. Still he beheld
    her in his ſoul. The ſound of Oſcar's ſteps approached. The king ſaw the grey ſhield on his ſide
    : For the faint beam of the morning came over the waters of Ullin. “What do the foes in their
    fear ?” ſaid the riſing king of Morven ; “or fly they through ocean's foam, or wait they the
    battle of ſteel? But why ſhould Fingal aſk ? I hear their voice on the early wind ! Fly over
-   Lena's heath : O Oſcar, awake our friends !”</p><p><hi rend="sc">The</hi> king ſtood by the ſtone of Lubar. Thrice he reared his terrible voice. The deer ſtarted from the fountains of Cromla. The rocks ſhook on all their hills. Like the noiſe of a hundred mountain-ſtreams, that burſt, and roar, and foam ! like the clouds, that gather to a tempeſt on the blue face of the ſky ! ſo met the ſons of the deſart, round the terrible voice of Fingal. Pleaſant was the voice of the king of Morven to the warriors of his land. Often had he led them to battle ; often returned with the ſpoils of the foe !</p><p>“<hi rend="sc">Come</hi> to battle,” ſaid the king, “ye children of ecchoing Selma ! Come to the
-   death of thouſands. Comhal's ſon will ſee the fight. My ſword ſhall wave on the hill the defence
-   of my people in war. But never may you need it, 
-   <!-- warriors: -->
-   
+   Lena's heath : O Oſcar, awake our friends !”</p>
+  <p><hi rend="sc">The</hi> king ſtood by the ſtone of Lubar. Thrice he reared his terrible voice.
+   The deer ſtarted from the fountains of Cromla. The rocks ſhook on all their hills. Like the noiſe
+   of a hundred mountain-ſtreams, that burſt, and roar, and foam ! like the clouds, that gather to a
+   tempeſt on the blue face of the ſky ! ſo met the ſons of the deſart, round the terrible voice of
+   Fingal. Pleaſant was the voice of the king of Morven to the warriors of his land. Often had he
+   led them to battle ; often returned with the ſpoils of the foe !</p>
+  <p>“<hi rend="sc">Come</hi> to battle,” ſaid the king, “ye children of ecchoing Selma ! Come to
+   the death of thouſands. Comhal's ſon will ſee the fight. My ſword ſhall wave on the hill the
+   defence of my people in war. But never may you need it, <!-- warriors: -->
    <pb xml:id="P73110289" facs="../img/1773-894.pbm"/>
    <!-- Book IV. An EPIC POEM. 289 --> warriors : while the ſon of Morni fights, the chief of mighty
    men ! He ſhall lead my battle; that his fame may riſe in ſong! O ye ghoſts of heroes dead ! ye
@@ -88,13 +132,17 @@
    ſteel! advance with valour to the fight. Behold the ſon of Morni ! Let your ſwords be like his in
    ſtrife ; behold the deeds of his hands. Protect the friends of your father. Remember the chiefs
    of old. My children, I will ſee you yet, though here ye ſhould fall in Erin. Soon ſhall our cold,
-   pale ghoſts meet in a cloud on Cona's eddying winds.”</p><p><hi rend="sc">Now</hi> like a dark and ſtormy cloud, edged round with the red lightning of heaven ; flying weſtward from the morning's beam, the king of Selma removed. Terrible is the light of his armour ; two ſpears are in his hand. His grey hair falls on the wind. He often looks back on the war. Three bards attend the ſon of ſame, to bear his words to the chiefs. High on Cromla's ſide he ſat, waving the lightning of his ſword, and as he waved we moved. 
-<!-- Vol. 1. U Joy -->
-
-<pb xml:id="P73110290" facs="../img/1773-897.pbm"/>
-<!-- 290 F I N G A L, Book IV. -->
-</p><p><hi rend="sc">Joy</hi> riſes in Oſcar's face. His cheek is red. His eye ſheds tears. The ſword is
-   a beam of fire in his hand. He came, and ſmiling, ſpoke to Oſſian. “O ruler of the ſight of
+   pale ghoſts meet in a cloud on Cona's eddying winds.”</p>
+  <p><hi rend="sc">Now</hi> like a dark and ſtormy cloud, edged round with the red lightning of
+   heaven ; flying weſtward from the morning's beam, the king of Selma removed. Terrible is the
+   light of his armour ; two ſpears are in his hand. His grey hair falls on the wind. He often looks
+   back on the war. Three bards attend the ſon of ſame, to bear his words to the chiefs. High on
+   Cromla's ſide he ſat, waving the lightning of his ſword, and as he waved we moved.
+   <!-- Vol. 1. U Joy -->
+   <pb xml:id="P73110290" facs="../img/1773-897.pbm"/>
+   <!-- 290 F I N G A L, Book IV. --> </p>
+  <p><hi rend="sc">Joy</hi> riſes in Oſcar's face. His cheek is red. His eye ſheds tears. The ſword
+   is a beam of fire in his hand. He came, and ſmiling, ſpoke to Oſſian. “O ruler of the ſight of
    ſteel! my father, hear thy fon! Retire with Morven's mighty chief. Give me the fame of Oſſian. If
    here I fall : O chief, remember that breaſt of ſnow, the lonely ſun-beam of my love, the
    white-handed daughter of Toſcar ! For, with red cheek from the rock, bending over the ſtream, her
@@ -104,65 +152,112 @@
    bloodieſt in the ſtrife, my arm ſhall teach thee how to fight. But, remember, my ſon, to place
    this ſword, this bow, the horn of my deer, within that dark and narrow houſe, whoſe mark is one
    grey ſtone ! Oſcar, I have no love to leave to the care of my ſon. Evirallin is no more, the
-   lovely daughter of Branno !</p><p><hi rend="sc">Such</hi> were our words, when Gaul's loud voice came growing on the wind. He waved on high the ſword of his father. We ruſhed to death and wounds. As waves, white-bubbling 
-<!-- over -->
-
-<pb xml:id="P73110291" facs="../img/1773-900.pbm"/>
-<!-- Book IV. An EPIC POEM. 291 -->
- over the deep, come ſwelling, roaring on; as rocks of ooze meet roaring waves : ſo foes attacked and fought. Man met with man, and ſteel with ſteel. Shields ſound, and warriors fall. As a hundred hammers on the red ſon of the furnace, ſo roſe, ſo rung their ſwords !</p><p><hi rend="sc">Gaul</hi> ruſhed on, like a whirlwind in Ardven. The deſtruction of heroes is on his ſword. Swaran was like the fire of the deſart in the ecchoing heath of Gormal! How can I give to the ſong the death of many ſpears? My ſword roſe high, and flamed in the ſtrife of blood. Oſcar, terrible wert thou, my beſt, my greateſt ſon! I rejoiced in my ſecret ſoul, when his ſword flamed over the ſlain. They fled amain through Lena's heath. We purſued and ſlew. As ſtones that bound from rock to rock ; as axes in ecchoing woods ; as thunder ro!ls from hill to hill, in diſmal broken peals; ſo blow ſucceeded to blow, and death to death, from the hand of Oſcar and mine.</p><p><hi rend="sc">But</hi> Swaran cloſed round Morni's fon, as the ſtrength of the tide of Iniſtore.
-   The king half-roſe from his hill at the ſight. He half-aſſumed the ſpear. “Go, Ullin, go, my aged
-   bard,” begun the king of Morven. “Remind the mighty Gaul of war. Remind him of his fathers.
-   Support the yielding fight with ſong; 
-   <!-- U2 for -->
-   
+   lovely daughter of Branno !</p>
+  <p><hi rend="sc">Such</hi> were our words, when Gaul's loud voice came growing on the wind. He
+   waved on high the ſword of his father. We ruſhed to death and wounds. As waves, white-bubbling
+   <!-- over -->
+   <pb xml:id="P73110291" facs="../img/1773-900.pbm"/>
+   <!-- Book IV. An EPIC POEM. 291 --> over the deep, come ſwelling, roaring on; as rocks of ooze
+   meet roaring waves : ſo foes attacked and fought. Man met with man, and ſteel with ſteel. Shields
+   ſound, and warriors fall. As a hundred hammers on the red ſon of the furnace, ſo roſe, ſo rung
+   their ſwords !</p>
+  <p><hi rend="sc">Gaul</hi> ruſhed on, like a whirlwind in Ardven. The deſtruction of heroes is on
+   his ſword. Swaran was like the fire of the deſart in the ecchoing heath of Gormal! How can I give
+   to the ſong the death of many ſpears? My ſword roſe high, and flamed in the ſtrife of blood.
+   Oſcar, terrible wert thou, my beſt, my greateſt ſon! I rejoiced in my ſecret ſoul, when his ſword
+   flamed over the ſlain. They fled amain through Lena's heath. We purſued and ſlew. As ſtones that
+   bound from rock to rock ; as axes in ecchoing woods ; as thunder ro!ls from hill to hill, in
+   diſmal broken peals; ſo blow ſucceeded to blow, and death to death, from the hand of Oſcar and
+   mine.</p>
+  <p><hi rend="sc">But</hi> Swaran cloſed round Morni's fon, as the ſtrength of the tide of
+   Iniſtore. The king half-roſe from his hill at the ſight. He half-aſſumed the ſpear. “Go, Ullin,
+   go, my aged bard,” begun the king of Morven. “Remind the mighty Gaul of war. Remind him of his
+   fathers. Support the yielding fight with ſong; <!-- U2 for -->
    <pb xml:id="P73110292" facs="../img/1773-903.pbm"/>
    <!-- 292 FIN G A L, Book IV. --> for ſong enlivens war.” Tall Ullin went, with ſtep of age, and
    ſpoke to the king of ſwords. “Son<note>
    <p> The cuſtom of encouraging men in battle with extempore rhyme, has been carried down almoſt to
-    our own times. Several of theſe war ſongs are extant, but the moſt of them are only a group of
-    epithets, without either beauty or harmony, utterly deſtitute of poetical merit. </p>
-   </note> of the chief of generous ſteeds ! highbounding king of ſpears. Strong arm in every
-   perilous toil. Hard heart that never yields. Chief of the pointed arms of death. Cut down the
-   foe; let no white ſail bound round dark Iniſtore. Be thine arm like thunder. Thine eyes like
-   fire, thy heart of ſolid rock. Whirl round thy ſword as a meteor at night; lift thy ſhield like
-   the flame of death. Son of the chief of generous ſteeds, cut down the foe. Deſtroy !” The hero's
-   heart beat high. But Swaran came with battle. He cleft the ſhield of Gaul in twain. The ſons of
-   Selma fled.</p><p><hi rend="sc">Fingal</hi> at once aroſe in arms. Thrice he reared his dreadful voice. Cromla
+   our own times. Several of theſe war ſongs are extant, but the moſt of them are only a group of
+   epithets, without either beauty or harmony, utterly deſtitute of poetical merit. </p> </note> of
+   the chief of generous ſteeds ! highbounding king of ſpears. Strong arm in every perilous toil.
+   Hard heart that never yields. Chief of the pointed arms of death. Cut down the foe; let no white
+   ſail bound round dark Iniſtore. Be thine arm like thunder. Thine eyes like fire, thy heart of
+   ſolid rock. Whirl round thy ſword as a meteor at night; lift thy ſhield like the flame of death.
+   Son of the chief of generous ſteeds, cut down the foe. Deſtroy !” The hero's heart beat high. But
+   Swaran came with battle. He cleft the ſhield of Gaul in twain. The ſons of Selma fled.</p>
+  <p><hi rend="sc">Fingal</hi> at once aroſe in arms. Thrice he reared his dreadful voice. Cromla
    anſwered around. The ſons of the deſart ſtood ſtill. They bent their bluſhing faces to earth,
    aſhamed at the preſence of the king. He came, like a cloud of rain in the day of the ſun, when
    ſlow it rolls on the hill, and fields expect the ſhower. Silence attends its ſlow progreſs aloft
-   ; but the tempeſt is ſoon to ariſe. Swaran beheld the 
-   <!-- rible -->
-   
+   ; but the tempeſt is ſoon to ariſe. Swaran beheld the <!-- rible -->
    <pb xml:id="P73110293" facs="../img/1773-906.pbm"/>
    <!-- Book IV, An EPIC POEM 293 --> terrible king of Morven. He ſtopped in the midſt of his
    courſe. Dark he leaned on his ſpear, rolling his red eyes around. Silent and tall he ſeemed as an
    oak on the banks of Lubar, which had its branches blaſted of old by the lightning of heaven. It
    bends over the ſtream : the grey moſs whiſtles in the wind: ſo ſtood the king. Then ſlowly he
    retired to the riſing heath of Lena. His thouſands pour around the hero. Darkneſs gathers on the
-   hill ! </p><p><hi rend="sc">Fingal</hi>, like a beam from heaven, ſhone in the midſt of his people. His heroes gather around him. He ſends forth the voice of his power. “Raiſe my ſtandards on high ; ſpread them on Lena's wind, like the flames of an hundred hills! Let them ſound on the winds of Erin, and remind us of the fight. Ye ſons of the roaring ſtreams, that pour from a thouſand hills, be near the king of Morven ! attend to the words of his power ! Gaul ſtrongeſt arm of death ! O Oſcar, of the future fights! Connal, ſon of the blue ſhields of Sora ! Dermid of the dark-brown hair ! Oſſian king of many ſongs, be near your father's arm !” We reared the ſunbeam<note><p> Fingal's ſtandard was diſtinguiſhed by the name of <hi>ſunbeam</hi> ; probably on account of its bright colour, and its being ſtudded with gold. To begin a battle is expreſſed, in old compoſition, by <hi>lifting of the ſun beam</hi>. </p></note> of battle; the ſtandard of the king! 
-<!-- U 3 Each -->
-
-<pb xml:id="P73110294" facs="../img/1773-909.pbm"/>
-<!-- 294 FIN G A L, Book IV, -->
- Each hero exulted with joy, as, waving, it flew on the wind. It was ſtudded with gold above, as the blue wide ſhell of the nightly ſky. Each hero had his ſtandard too; and each his gloomy men !</p><p>“<hi rend="sc">Behold</hi>,” ſaid the king of generous ſhells, “how Lochlin divides on Lena! They ſtand like broken clouds on a hill; or an half conſumed grove of oaks; when we ſee the ſky through its branches, and the meteor paſſing behind ! Let every chief among the friends of Fingal take a dark troop of thoſe that frown ſo high: Nor let a ſon of the ecchoing groves, bound on the waves of Iniſtore !</p><p>“<hi rend="sc">Mine</hi>,” ſaid Gaul, “be the ſeven chiefs, that came from Lano's lake.” “Let Iniſtore's dark king,” ſaid Oſcar, “come to the ſword of Oſſian's ſon. To mine the king of Iniſcon,” ſaid Connal, “heart of ſteel!” “Or Mudan's chief or I,” ſaid brown-haired Dermid, “ſhall ſleep on clay-cold earth,” “My choice, though now ſo weak and dark, was Terman's battling king; I promiſed with my hand to win the hero's dark-brown ſhieid.” “Bleſt and victorious be my chiefs,” ſaid Fingal of the mildeſt look. “Swaran, king of roaring waves, thou art the choice of Fingal !”</p><p><hi rend="sc">Now</hi>, like an hundred different winds, that pour through many vales; divided, dark the 
-<!-- ſons -->
-
-<pb xml:id="P73110295" facs="../img/1773-912.pbm"/>
-<!-- Book IV. An EPIC POEM. 295 -->
- ſons of Selma advanced, Cromla ecchoed around! How can I relate the deaths, when we cloſed in the ſtrife of arms! O daughter of Toſcar ! bloody were our hands! The gloomy ranks of Lochlin ſell, like the banks of the roaring Cona! Our arms were victorious on Lena : each chief fulfilled his promiſe ! Beſide the murmur of Branno thou didſt often ſit, O maid ! thy white boſom roſe ſrequent, like the down of the ſwan when ſlow ſhe ſwims on the lake, and ſidelong winds blow on her ruffled wing. Thou haſt ſeen the ſun retire, red and flow behind his cloud : night gathering round on the mountain, while the unfrequent blaſt roared in the narrow vales. At length the rain beats hard: thunder rolls in peals. Lightning glances on the rocks! Spirits ride on beams of fire ! The ſtrength of the mountain-ſtreams comes roaring down the hills. Such was the noiſe of battle, maid of the arms of ſnow ! Why, daughter of Toſcar, why that tear? The maids of Lochlin have cauſe to weep ! The people of their country fell. Bloody were the blue ſwords of the race of my heroes ! But I am ſad, forlorn, and blind: no more the companion of heroes. Give, lovely maid, to me thy tears. I have ſeen the tombs of all my friends !</p><!-- U 4 It -->
-<pb xml:id="P73110296" facs="../img/1773-915.pbm"/>
-<!-- 296 F I N G A L, Book IV. -->
-<p><hi rend="sc">It</hi> was then, by Fingal's hand, a hero fell, to his grief! Grey-haired he rolled in the duſt. He lifted his faint eyes to the king : “And is it by me thou haſt fallen,” ſaid the ſon of Comhal, “thou friend of Agandecca ! I have ſeen thy tears for the maid of my love in the halls of the bloody Starno ! Thou haſt been the foe of the foes of my love, and haſt thou fallen by my hand? Raiſe, Ullin, raiſe the grave of Mathon; and give his name to Agandecca's ſong. Dear to my ſoul haſt thou been, thou darkly-dwelling maid of Ardven !”</p><p><hi rend="sc">Cuthullin</hi>, from the cave of Cromla, heard the noiſe of the troubled war. He
+   hill ! </p>
+  <p><hi rend="sc">Fingal</hi>, like a beam from heaven, ſhone in the midſt of his people. His
+   heroes gather around him. He ſends forth the voice of his power. “Raiſe my ſtandards on high ;
+   ſpread them on Lena's wind, like the flames of an hundred hills! Let them ſound on the winds of
+   Erin, and remind us of the fight. Ye ſons of the roaring ſtreams, that pour from a thouſand
+   hills, be near the king of Morven ! attend to the words of his power ! Gaul ſtrongeſt arm of
+   death ! O Oſcar, of the future fights! Connal, ſon of the blue ſhields of Sora ! Dermid of the
+   dark-brown hair ! Oſſian king of many ſongs, be near your father's arm !” We reared the ſunbeam<note>
+   <p> Fingal's ſtandard was diſtinguiſhed by the name of <hi>ſunbeam</hi> ; probably on account of
+   its bright colour, and its being ſtudded with gold. To begin a battle is expreſſed, in old
+   compoſition, by <hi>lifting of the ſun beam</hi>. </p></note> of battle; the ſtandard of the
+   king! <!-- U 3 Each -->
+   <pb xml:id="P73110294" facs="../img/1773-909.pbm"/>
+   <!-- 294 FIN G A L, Book IV, --> Each hero exulted with joy, as, waving, it flew on the wind. It
+   was ſtudded with gold above, as the blue wide ſhell of the nightly ſky. Each hero had his
+   ſtandard too; and each his gloomy men !</p>
+  <p>“<hi rend="sc">Behold</hi>,” ſaid the king of generous ſhells, “how Lochlin divides on Lena!
+   They ſtand like broken clouds on a hill; or an half conſumed grove of oaks; when we ſee the ſky
+   through its branches, and the meteor paſſing behind ! Let every chief among the friends of Fingal
+   take a dark troop of thoſe that frown ſo high: Nor let a ſon of the ecchoing groves, bound on the
+   waves of Iniſtore !</p>
+  <p>“<hi rend="sc">Mine</hi>,” ſaid Gaul, “be the ſeven chiefs, that came from Lano's lake.” “Let
+   Iniſtore's dark king,” ſaid Oſcar, “come to the ſword of Oſſian's ſon. To mine the king of
+   Iniſcon,” ſaid Connal, “heart of ſteel!” “Or Mudan's chief or I,” ſaid brown-haired Dermid,
+   “ſhall ſleep on clay-cold earth,” “My choice, though now ſo weak and dark, was Terman's battling
+   king; I promiſed with my hand to win the hero's dark-brown ſhieid.” “Bleſt and victorious be my
+   chiefs,” ſaid Fingal of the mildeſt look. “Swaran, king of roaring waves, thou art the choice of
+   Fingal !”</p>
+  <p><hi rend="sc">Now</hi>, like an hundred different winds, that pour through many vales; divided,
+   dark the <!-- ſons -->
+   <pb xml:id="P73110295" facs="../img/1773-912.pbm"/>
+   <!-- Book IV. An EPIC POEM. 295 --> ſons of Selma advanced, Cromla ecchoed around! How can I
+   relate the deaths, when we cloſed in the ſtrife of arms! O daughter of Toſcar ! bloody were our
+   hands! The gloomy ranks of Lochlin ſell, like the banks of the roaring Cona! Our arms were
+   victorious on Lena : each chief fulfilled his promiſe ! Beſide the murmur of Branno thou didſt
+   often ſit, O maid ! thy white boſom roſe ſrequent, like the down of the ſwan when ſlow ſhe ſwims
+   on the lake, and ſidelong winds blow on her ruffled wing. Thou haſt ſeen the ſun retire, red and
+   flow behind his cloud : night gathering round on the mountain, while the unfrequent blaſt roared
+   in the narrow vales. At length the rain beats hard: thunder rolls in peals. Lightning glances on
+   the rocks! Spirits ride on beams of fire ! The ſtrength of the mountain-ſtreams comes roaring
+   down the hills. Such was the noiſe of battle, maid of the arms of ſnow ! Why, daughter of Toſcar,
+   why that tear? The maids of Lochlin have cauſe to weep ! The people of their country fell. Bloody
+   were the blue ſwords of the race of my heroes ! But I am ſad, forlorn, and blind: no more the
+   companion of heroes. Give, lovely maid, to me thy tears. I have ſeen the tombs of all my friends
+   !</p>
+  <!-- U 4 It -->
+  <pb xml:id="P73110296" facs="../img/1773-915.pbm"/>
+  <!-- 296 F I N G A L, Book IV. -->
+  <p><hi rend="sc">It</hi> was then, by Fingal's hand, a hero fell, to his grief! Grey-haired he
+   rolled in the duſt. He lifted his faint eyes to the king : “And is it by me thou haſt fallen,”
+   ſaid the ſon of Comhal, “thou friend of Agandecca ! I have ſeen thy tears for the maid of my love
+   in the halls of the bloody Starno ! Thou haſt been the foe of the foes of my love, and haſt thou
+   fallen by my hand? Raiſe, Ullin, raiſe the grave of Mathon; and give his name to Agandecca's
+   ſong. Dear to my ſoul haſt thou been, thou darkly-dwelling maid of Ardven !”</p>
+  <p><hi rend="sc">Cuthullin</hi>, from the cave of Cromla, heard the noiſe of the troubled war. He
    called to Connal chief of ſwords; to Carril of other times. The grey-haired heroes heard his
    voice, They took their pointed ſpears. They came, and ſaw the tide of battle, like ocean's
    crowded waves : when the dark wind blows from the deep, and rolls the billows through the ſandy
    vale! Cuthullin kindled at the ſight. Darkneſs gathered on his brow. His hand is on the ſword of
    his fathers: his red-rolling eyes on the foe. He thrice attempted to ruſh to battle. He thrice
    was ſtopt by Connal. “Chief of the iſle of miſt,” he ſaid, “Fingal ſubdues the foe. Seek not a
-   part of the fame of the king ; himſelf is like the ſtorm!” 
-   <!-- “THEN, -->
-   
+   part of the fame of the king ; himſelf is like the ſtorm!” <!-- “THEN, -->
    <pb xml:id="P73110297" facs="../img/1773-918.pbm"/> </p>
   <p><!-- Book IV. An EPIC POEM. 297 --> “<hi rend="sc">Then</hi>, Carril, go,” replied the chief,
    “go greet the king of Morven. When Lochlin falls away like a ſtream after rain: when the noiſe of
@@ -174,9 +269,7 @@
    brightened the ſhaggy ſide of the hill! Connal ! talk of arms no more : departed is my fame. My
    ſighs ſhall be on Cromla's wind ; till my footſteps ceaſe to be ſeen. And thou, white-boſom'd
    Bragela, mourn over the fall of my fame: vanquiſhed, I will never return to thee, thou ſun-beam
-   of my ſoul !” 
-   
-   <pb xml:id="P73110298" facs="../img/1773-blank"/>
-   
-    </p>
-</body></text>
+   of my ſoul !”
+   <pb xml:id="P73110298" facs="../img/1773-blank"/> </p>
+ </div>
+</div>

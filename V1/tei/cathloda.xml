@@ -3,10 +3,8 @@
  <!-- cathloda -->
  <body>
   <div type="duan">
-    <div type="titlePage">
  <head>   CATH-LODA: A POEM, DUAN FIRST.
  </head>   
-    </div>
     <!-- Vol. 1. B -->
 
     <pb xml:id="P73110002" facs="../img/1773-057.pbm"/>
@@ -261,9 +259,8 @@
   <!-- CATH- -->
 
     <pb xml:id="P73110015" facs="../img/1773-096.pbm"/>
-    <div type="titlePage">
      <head>CATH-LODA: A POEM. DUAN SECOND
-     </head></div>
+     </head>
 
     <pb xml:id="P73110016" facs="../img/1773-099.pbm"/>
     <div type="argument">
@@ -451,9 +448,7 @@
    </div></div><div type="duan">
 
     <pb xml:id="P73110027" facs="../img/1773-132.pbm"/>
-    <div type="titlePage">
-     <head>CATH-LODA: A POEM. DUAN THIRD</head>
-    </div>
+       <head>CATH-LODA: A POEM. DUAN THIRD</head>
     <pb xml:id="P73110028" facs="../img/1773-133.pbm"/>
     <div type="argument">
      <head>ARGUMENT.</head>

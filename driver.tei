@@ -42,7 +42,7 @@
       </body>
      </text>
      <!-- end of Fingal -->
-     <xi:include href="V1/tei/lathmon.xml"/>
+     <xi:include href="V1/tei/lathmon.xml"/><!-- sfchecked-->
      <xi:include href="V1/tei/darthula.xml"/>
      <xi:include href="V1/tei/deathcuthullin.xml"/>
      <xi:include href="V1/tei/battleoflora.xml"/>

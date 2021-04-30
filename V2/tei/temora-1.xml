@@ -1,13 +1,11 @@
-<text xmlns="http://www.tei-c.org/ns/1.0">
- <front>
+<div type="book" xmlns="http://www.tei-c.org/ns/1.0">
+ 
   <pb xml:id="P73210001" facs="../img/1773-044.pbm"/>
-  <titlePage>
-   <titlePart>TEMORA: AN EPIC POEM. BOOK I. </titlePart>
-  </titlePage>
+   <head>TEMORA: AN EPIC POEM. BOOK I. </head>
   <!-- Vol, II. B -->
 
   <pb xml:id="P73210002" facs="../img/1773-047.pbm"/>
-  <div>
+  <div type="argument">
    <head>ARGUMENT to <hi rend="sc">Book</hi> I.</head>
    <p> Cairbar, the ſon of Borbar-duthul, lord of Atha in Connaught the moſt potent chief of the
     race of the Firbolg, having murdered, at Temora the royal palace, Cormac the ſon of Artho, the
@@ -36,8 +34,8 @@
   </div>
 
 
- </front>
- <body>
+ 
+ <div type="poem">
   <pb xml:id="P73210003" facs="../img/1773-050.pbm"/>
   <!-- [ 3 ] -->
   <head>TEMORA: AN EPIC POEM. BOOK I.</head>
@@ -523,5 +521,5 @@
 
 
 
- </body>
-</text>
+ </div>
+</div>

@@ -1,40 +1,58 @@
-<text xmlns="http://www.tei-c.org/ns/1.0">
+<div type="book" xmlns="http://www.tei-c.org/ns/1.0">
  <pb xml:id="P73210075" facs="../img/1773-266.pbm"/>
-  <front><titlePage source="NYPL"><titlePart>TEMORA: AN EPIC POEM. BOOK IV.</titlePart></titlePage>
-  <pb xml:id="P73210076" facs="../img/1773-269.pbm"/>
-  <div><head>ARGUMENT to Book IV.</head><p> <hi rend="sc">The</hi> ſecond night continues. Fingal relates, at the feaſt, his own firſt expedition into Ireland, and his marriage with Ros-crána, the daughter of Cormac, king of that iſland. The Iriſh chiefs convene in the preſence of Cathmor. The ſituation of the king deſcribed. The ſtory of Sul-mala, the daughter of Conmor, king of Inis-huna, who, in the diſguiſe of a young warrior, had followed Cathmor to the war. The ſullen behaviour of Foldath, who had commanded in the battle of the preceding day, renews the difference between him and Malthos; but Cathmor, interpoſing, ends it. The chiefs feaſt, and hear the ſong of Fonar the bard. Cathmor returns to reſt, at a diſtance from the army. The ghoſt of his brother Cairbar appears to him in a dream; and obſcurely foretels the iſſue of the war. The ſoliloquy of the king. He diſcovers Sul-malla. Morning comes. Her ſoliloquy cloſes the book. </p></div> 
-  </front><body>
-
-<pb xml:id="P73210077" facs="../img/1773-272.pbm"/>
-<!-- [ 57 ] -->
-<head>T E M O R A: AN EPIC POEM. BOOK IV.</head><p><note><p> This epiſode has an immediate connection with the ſtory of Connal and Duth-caron, in the latter end of the third book. Fingal, ſitting beneath an oak, near the palace of Selma, diſcovers Connal juſt landing from Ireland. The danger which threatened Cormac king of Ireland induces him to ſail immediately to that iſland. The ſtory is introduced, by the king, as a pattern for the future behaviour of Fillan, whoſe raſhneſs in the preceding battle is reprimanded. </p></note>“<hi rend="sc">Beneath</hi> an oak,” ſaid the king, “I ſat on Selma's ſtreamy rock, when Connal roſe, from the ſea, with the broken ſpear of Duth-caron. Far-diſtant flood the youth. He turned away his eyes. He remembered the ſteps of his father, on his own green hills. I darkened in my place. Duſky thoughts flew over my ſoul. The kings of Erin roſe before me. I half-unſheathed the 
-<!-- ſword. -->
-
-<pb xml:id="P73210078" facs="../img/1773-275.pbm"/>
-<!-- 78 T E M O R A: Book IV. -->
- ſword. Slowly approached the chiefs. They lifted up their ſilent eyes. Like a ridge of clouds, they wait for the burſting forth of my voice. My voice was, to them, a wind from heaven to roll the miſt away.”</p><p>“<hi rend="sc">I bade</hi> my white ſails to riſe, before the roar of Cona's wind. Three hundred
-   youths looked, from their waves, on Fingal's boſſy ſhield. High on the maſt it hung, and marked
-   the dark-blue ſea. But when night came down, I ſtruck, at times, the warning boſs : I ſtruck, and
-   looked on high, for fiery-haired Ul-erin<note>
+ <head> TEMORA: AN EPIC POEM. BOOK IV.</head>
+ <pb xml:id="P73210076" facs="../img/1773-269.pbm"/>
+ <div type="argument">
+  <head>ARGUMENT to Book IV.</head>
+  <p> <hi rend="sc">The</hi> ſecond night continues. Fingal relates, at the feaſt, his own firſt
+   expedition into Ireland, and his marriage with Ros-crána, the daughter of Cormac, king of that
+   iſland. The Iriſh chiefs convene in the preſence of Cathmor. The ſituation of the king deſcribed.
+   The ſtory of Sul-mala, the daughter of Conmor, king of Inis-huna, who, in the diſguiſe of a young
+   warrior, had followed Cathmor to the war. The ſullen behaviour of Foldath, who had commanded in
+   the battle of the preceding day, renews the difference between him and Malthos; but Cathmor,
+   interpoſing, ends it. The chiefs feaſt, and hear the ſong of Fonar the bard. Cathmor returns to
+   reſt, at a diſtance from the army. The ghoſt of his brother Cairbar appears to him in a dream;
+   and obſcurely foretels the iſſue of the war. The ſoliloquy of the king. He diſcovers Sul-malla.
+   Morning comes. Her ſoliloquy cloſes the book. </p>
+ </div>
+ <div type="poem">
+  <pb xml:id="P73210077" facs="../img/1773-272.pbm"/>
+  <!-- [ 57 ] -->
+  <head>T E M O R A: AN EPIC POEM. BOOK IV.</head>
+  <p><note>
+   <p> This epiſode has an immediate connection with the ſtory of Connal and Duth-caron, in the
+   latter end of the third book. Fingal, ſitting beneath an oak, near the palace of Selma, diſcovers
+   Connal juſt landing from Ireland. The danger which threatened Cormac king of Ireland induces him
+   to ſail immediately to that iſland. The ſtory is introduced, by the king, as a pattern for the
+   future behaviour of Fillan, whoſe raſhneſs in the preceding battle is reprimanded.
+   </p></note>“<hi rend="sc">Beneath</hi> an oak,” ſaid the king, “I ſat on Selma's ſtreamy rock,
+   when Connal roſe, from the ſea, with the broken ſpear of Duth-caron. Far-diſtant flood the youth.
+   He turned away his eyes. He remembered the ſteps of his father, on his own green hills. I
+   darkened in my place. Duſky thoughts flew over my ſoul. The kings of Erin roſe before me. I
+   half-unſheathed the <!-- ſword. -->
+   <pb xml:id="P73210078" facs="../img/1773-275.pbm"/>
+   <!-- 78 T E M O R A: Book IV. --> ſword. Slowly approached the chiefs. They lifted up their
+   ſilent eyes. Like a ridge of clouds, they wait for the burſting forth of my voice. My voice was,
+   to them, a wind from heaven to roll the miſt away.”</p>
+  <p>“<hi rend="sc">I bade</hi> my white ſails to riſe, before the roar of Cona's wind. Three
+   hundred youths looked, from their waves, on Fingal's boſſy ſhield. High on the maſt it hung, and
+   marked the dark-blue ſea. But when night came down, I ſtruck, at times, the warning boſs : I
+   ſtruck, and looked on high, for fiery-haired Ul-erin<note>
    <p> Ul-erin, <hi>the guide to Ireland</hi>, a ſtar known by that name in the days of Fingal, and
-    very uſeful to thoſe who ſailed, by night, from the Hebrides, or Caledonia, to the coaſt of
-    Ulſter. </p>
-   </note>. Nor abſent was the ſtar of heaven. It travelled red between the clouds. I purſued the
-   lovely beam, on the faint-gleaming deep. With morning, Erin roſe in miſt. We came into the bay of
-   Moi-lena, where its blue waters tumbled, in the boſom of ecchoing woods. Here Cormac, in his
-   ſecret hall, avoids the ſtrength of Colc-ulla. Nor he alone avoids the foe. The blue eye of
-   Ros-crana is there : Ros-crana<note>
+   very uſeful to thoſe who ſailed, by night, from the Hebrides, or Caledonia, to the coaſt of
+   Ulſter. </p> </note>. Nor abſent was the ſtar of heaven. It travelled red between the clouds. I
+   purſued the lovely beam, on the faint-gleaming deep. With morning, Erin roſe in miſt. We came
+   into the bay of Moi-lena, where its blue waters tumbled, in the boſom of ecchoing woods. Here
+   Cormac, in his ſecret hall, avoids the ſtrength of Colc-ulla. Nor he alone avoids the foe. The
+   blue eye of Ros-crana is there : Ros-crana<note>
    <p> Ros-crána, <hi>the beam of the riſing ſun</hi>; ſhe was the mother of Oſſian. The Iriſh bards
-    relate ſtrange fictions concerning</p>
+   relate ſtrange fictions concerning</p>
    <p>this princeſs. Their ſtories, however, concerning Fingal, if they mean him by <hi>Fion
-    Mac-Comnal</hi>, are ſo inconſiſtent and notoriouſly fabulous, that they do not deſerve to be
-    mentioned ; for they evidently bear, along with them, the marks of late invention. </p>
-   </note>, white-handed maid, the daughter of the king!” 
-   <!-- “GREY, -->
-   
+   Mac-Comnal</hi>, are ſo inconſiſtent and notoriouſly fabulous, that they do not deſerve to be
+   mentioned ; for they evidently bear, along with them, the marks of late invention. </p> </note>,
+   white-handed maid, the daughter of the king!” <!-- “GREY, -->
    <!-- this --></p>
   <p>
-   
    <pb xml:id="P73210079" facs="../img/1773-278.pbm"/>
    <!-- Book IV. An EPIC POEM. 79 --> “<hi rend="sc">Grey</hi>, on his pointleſs ſpear, came forth
    the aged ſteps of Cormac. He ſmiled, from his waving locks, but grief was in his ſoul. He ſaw us
@@ -43,143 +61,174 @@
    ſon: but ſtrong are the foes of Erin. They are like the roar of ſtreams in the land, ſon of
    car-borne Comhal !” “Yet they may be rolled<note>
    <p> Cormac had ſaid that the foes were <hi>like the roar of ſtreams</hi>, and Fingal continues
-    the metaphor. The ſpeech of the young hero is ſpirited, and conſiſtent with that ſedate
-    intrepidity, which eminently diſtinguiſhes his character throughout. </p>
-   </note> away,” I ſaid in my riſing ſoul. “We are not of the race of the feeble, king of
-   blue-ſhielded hoſts! Why ſhould fear come amongſt us, like a ghoſt of night? The ſoul of the
-   valiant grows, when foes increaſe in the field. Roll no darkneſs, king of Erin, on the young in
-   war!”</p><p>“<hi rend="sc">The</hi> burſting tears of the king came down. He ſeized my hand in ſilence. “Race of the daring Trenmor!” at length he ſaid, “I roll no cloud before thee. Thou burneſt in the fire 
-<!-- 9 of -->
-
-<pb xml:id="P73210080" facs="../img/1773-281.pbm"/>
-<!-- 80 T E M O R A: Book IV. -->
- of thy fathers. I behold thy fame. It marks thy courſe in battle, like a ſtream of light. But wait the coming of Cairbar<note><p> Cairbar, the ſon of Cormac, was afterwards king of Ireland. His reign was ſhort. He was
-    ſucceeded by his ſon Artho, the father of that Cormac who was murdered by Cairbar the ſon of
-    Borbar-duthul. Cairbar, the ſon of Cormac, long after his ſon Artho was grown to man's eſtate,
-    had, by his wife Beltanno, another ſon, whoſe name was Ferad-artho. He was the only one
-    remaining of the race of Conar the firſt king of [reland, when Fingal's expedition againſt
-    Cairbar the ſon of Borbar-duthul happened. See more of Ferad artho in the eighth book. </p></note>, my ſon muſt join thy ſword. He calls the ſons of Erin, from all their diſtant ſtreams.”</p><p>“<hi rend="sc">We</hi> came to the hall of the king, where it roſe in the midſt of rocks, on
+   the metaphor. The ſpeech of the young hero is ſpirited, and conſiſtent with that ſedate
+   intrepidity, which eminently diſtinguiſhes his character throughout. </p> </note> away,” I ſaid
+   in my riſing ſoul. “We are not of the race of the feeble, king of blue-ſhielded hoſts! Why ſhould
+   fear come amongſt us, like a ghoſt of night? The ſoul of the valiant grows, when foes increaſe in
+   the field. Roll no darkneſs, king of Erin, on the young in war!”</p>
+  <p>“<hi rend="sc">The</hi> burſting tears of the king came down. He ſeized my hand in ſilence.
+   “Race of the daring Trenmor!” at length he ſaid, “I roll no cloud before thee. Thou burneſt in
+   the fire <!-- 9 of -->
+   <pb xml:id="P73210080" facs="../img/1773-281.pbm"/>
+   <!-- 80 T E M O R A: Book IV. --> of thy fathers. I behold thy fame. It marks thy courſe in
+   battle, like a ſtream of light. But wait the coming of Cairbar<note>
+   <p> Cairbar, the ſon of Cormac, was afterwards king of Ireland. His reign was ſhort. He was
+   ſucceeded by his ſon Artho, the father of that Cormac who was murdered by Cairbar the ſon of
+   Borbar-duthul. Cairbar, the ſon of Cormac, long after his ſon Artho was grown to man's eſtate,
+   had, by his wife Beltanno, another ſon, whoſe name was Ferad-artho. He was the only one remaining
+   of the race of Conar the firſt king of [reland, when Fingal's expedition againſt Cairbar the ſon
+   of Borbar-duthul happened. See more of Ferad artho in the eighth book. </p></note>, my ſon muſt
+   join thy ſword. He calls the ſons of Erin, from all their diſtant ſtreams.”</p>
+  <p>“<hi rend="sc">We</hi> came to the hall of the king, where it roſe in the midſt of rocks, on
    whoſe dark ſides, were the marks of ſtreams of old. Broad oaks bend around with their moſs. The
    thick birch is waving near. Half-hid, in her ſhady grove, Ros-crana raiſes the ſong. Her white
    hands move on the harp. I beheld her blue-rolling eyes. She was like a ſpirit<note>
    <p> The attitude of Ros-crana is illuſtrated by this fimile; for the ideas of thoſe times,
-    concerning the ſpirits of the deceaſed, were not ſo gloomy and difagreeable, as thoſe of
-    ſucceeding ages. The ſpirits of women, it was ſuppoſed, retained that beauty, which they
-    poſſeſſed while living, and tranſported themſelves, from place to place, with that gliding
-    motion, which Homer aſcribes to the gods. The deſcriptions which poets, leſs ancient than
-    Oſſian, have left us of thoſe beautiful figures, that appeared ſometimes on the hills, are
-    elegant and pictureſque. They compare them to the <hi>rain-bow on ſtreams</hi> ; or, <hi>the
-    gilding of ſun-beams on the hills</hi>.</p>
+   concerning the ſpirits of the deceaſed, were not ſo gloomy and difagreeable, as thoſe of
+   ſucceeding ages. The ſpirits of women, it was ſuppoſed, retained that beauty, which they
+   poſſeſſed while living, and tranſported themſelves, from place to place, with that gliding
+   motion, which Homer aſcribes to the gods. The deſcriptions which poets, leſs ancient than Oſſian,
+   have left us of thoſe beautiful figures, that appeared ſometimes on the hills, are elegant and
+   pictureſque. They compare them to the <hi>rain-bow on ſtreams</hi> ; or, <hi>the gilding of
+   ſun-beams on the hills</hi>.</p>
    <p>A chief who lived three centuries ago, returning from the war, underſtood that his wife or
-    miſtreſs was dead. A bard introduces him ſpeaking the following ſoliloquy, when he came within
-    ſight of the place, where he had left her, at his departure.</p>
+   miſtreſs was dead. A bard introduces him ſpeaking the following ſoliloquy, when he came within
+   ſight of the place, where he had left her, at his departure.</p>
    <p>“My ſoul darkens in ſorrow. I behold not the ſmoak of my hall. No grey dog bounds at my
-    ſtreams. Silence dwells In the valley of trees.</p>
+   ſtreams. Silence dwells In the valley of trees.</p>
    <p>“Is that a rain-bow on Crunath? It flies: and the ſky is dark. Again, thou moveſt, bright, on
-    the heath, thou ſunbeam cloathed in a ſhower! Hah! it is ſhe, my love: her gliding courſe on the
-    boſom of winds!”</p>
+   the heath, thou ſunbeam cloathed in a ſhower! Hah! it is ſhe, my love: her gliding courſe on the
+   boſom of winds!”</p>
    <p>In ſucceeding times the beauty of Roſcrana paſſed into a proverb; and the higheſt compliment,
-    that could be paid to a woman, was to compare her perſon with the <hi>daughter of
-    Cormac.</hi></p>
-   <p>
-    <quote xml:lang="gd">
-     <l>'S tu fein an Ros crána, </l>
-     <l>Siol Chormaec na n'ioma lan.</l>
-    </quote>
-   </p>
-   </note> of heaven half-folded in the ſkirt of a cloud !” 
-   <!-- “THREE -->
-   
+   that could be paid to a woman, was to compare her perſon with the <hi>daughter of
+   Cormac.</hi></p>
+   <p> <quote xml:lang="gd">
+   <l>'S tu fein an Ros crána, </l>
+   <l>Siol Chormaec na n'ioma lan.</l> </quote> </p> </note> of heaven half-folded in the ſkirt of a
+   cloud !” <!-- “THREE -->
    <!-- which -->
-   
    <pb xml:id="P73210081" facs="../img/1773-284.pbm"/>
-   <!-- Book IV. An EPIC POEM. 61 --> </p><p>“<hi rend="sc">Three</hi> days we feaſt at Moi-lena. She riſes bright in my troubled ſoul. Cormac beheld me dark. He gave the white-boſomed maid. She comes with bending eye, amid the wandering of her heavy locks. She came! Straight the battle roared. Colc-ulla appeared : I took my ſpear. My ſword roſe, with my people, againſt the ridgy foe. Alnecma fled, Colc-ulla fell. Fingal returned with fame.”</p><p><hi rend="sc">Renowned</hi> is he, O Fillan, who fights, in the ſtrength of his hoſt. The bard purſues his 
-<!-- Vor, Il. G ſteps, -->
-
-<pb xml:id="P73210082" facs="../img/1773-287.pbm"/>
-<!-- 82 TE M OR A: Book IV. -->
- ſteps, thro' the land of the foe. But he who fights alone, few are his deeds to other times! He ſhines, to-day, a mighty light. To-morrow, he is low. <hi rend="sc">One</hi> ſong contains his fame. His name is on <hi rend="sc">One</hi> dark field. He is forgot ; but where his tomb ſends forth the tufted graſs.”</p><p><hi rend="sc">Such</hi> are the words of Fingal, on Mora of the roes. Three bards, from the rock of Cormul, pour down the pleaſing ſong. Sleep deſcends, in the ſound, on the broad-ſkirted hoſt. Carril returned, with the bards, from the tomb of Dun-lora's chief. The voice of morning ſhall not come, to the duſky bed of Duth-caron. No more ſhalt thou hear the tread of roes, around thy narrow houſe!</p><p><hi rend="sc">As</hi> roll the troubled clouds, round a meteor of night, when they brighten their
-   ſides, with its light, along the heaving ſea: ſo gathers Erin, around the gleaming form of
+   <!-- Book IV. An EPIC POEM. 61 --> </p>
+  <p>“<hi rend="sc">Three</hi> days we feaſt at Moi-lena. She riſes bright in my troubled ſoul.
+   Cormac beheld me dark. He gave the white-boſomed maid. She comes with bending eye, amid the
+   wandering of her heavy locks. She came! Straight the battle roared. Colc-ulla appeared : I took
+   my ſpear. My ſword roſe, with my people, againſt the ridgy foe. Alnecma fled, Colc-ulla fell.
+   Fingal returned with fame.”</p>
+  <p><hi rend="sc">Renowned</hi> is he, O Fillan, who fights, in the ſtrength of his hoſt. The bard
+   purſues his <!-- Vor, Il. G ſteps, -->
+   <pb xml:id="P73210082" facs="../img/1773-287.pbm"/>
+   <!-- 82 TE M OR A: Book IV. --> ſteps, thro' the land of the foe. But he who fights alone, few
+   are his deeds to other times! He ſhines, to-day, a mighty light. To-morrow, he is low. <hi
+   rend="sc">One</hi> ſong contains his fame. His name is on <hi rend="sc">One</hi> dark field. He
+   is forgot ; but where his tomb ſends forth the tufted graſs.”</p>
+  <p><hi rend="sc">Such</hi> are the words of Fingal, on Mora of the roes. Three bards, from the
+   rock of Cormul, pour down the pleaſing ſong. Sleep deſcends, in the ſound, on the broad-ſkirted
+   hoſt. Carril returned, with the bards, from the tomb of Dun-lora's chief. The voice of morning
+   ſhall not come, to the duſky bed of Duth-caron. No more ſhalt thou hear the tread of roes, around
+   thy narrow houſe!</p>
+  <p><hi rend="sc">As</hi> roll the troubled clouds, round a meteor of night, when they brighten
+   their ſides, with its light, along the heaving ſea: ſo gathers Erin, around the gleaming form of
    Cathmor. <hi rend="sc">He</hi>, tall in the midſt, careleſs lifts, at times, his ſpear : as
    ſwells or falls the ſound of Fonar's diſtant harp.<note>
    <p>In order to illuſtrate this paſſage, I ſhall give, here, the hiſtory on which it is ſounded,
-    as I have gathered it from tradition. The nation of the Firbolg who inhabited the ſouth of
-    ireland, being originally deſcended from the Belgæ, who poſſeſſed the ſouth and ſouth-weſt coaſt
-    of Britain, kept up, for many ages, an amicable correſpondence with their mother-country ; and
-    ſent aid to the Britiſh Belgæ, when they were preſſed by the Romans or other new-comers from the
-    continent. Con-mor, king of Inis-huna, (that part of South-Britain which is over-againſt the
-    Iriſh coaſt) being attacked, by what enemy is not mentioned, ſent for aid to Cairbar, lord of
-    Atha, the moſt potent chief of the Firbolg. Cairbar diſpatched his brother Cathmor to the
-    afſiſtance of Con-mor. Cathmor, after various vicifſitudes of fortune, put an end to the war, by
-    the total defeat of the enemies of Inis-huna, and returned in triumph to the reſidence of
-    Con-mor. There, at a feaſt, Sul-malla, the daughter of Con-mor, fell deſperately in love with
-    Cathmor, who, before her paſſion was diſcloſed, was recalled to Ireland by his brother Cairbar,
-    upon the news of the intended expedition of Fingal, to re-eſtabliſh the family of Conar on the
-    Iriſh throne. The wind being contrary, Cathmor remained, for three days, in a neighbouring bay,
-    during which time Sul-malla diſguiſed herſelf in the habit of a young warrior, and came to offer
-    him her ſervice, in the war. Cathmor accepted of the propoſal, ſailed for Ireland, and arrived
-    in Ulſter a few days before the death of Cairbar. </p>
-   </note> Near him leaned, againſt a 
+   as I have gathered it from tradition. The nation of the Firbolg who inhabited the ſouth of
+   ireland, being originally deſcended from the Belgæ, who poſſeſſed the ſouth and ſouth-weſt coaſt
+   of Britain, kept up, for many ages, an amicable correſpondence with their mother-country ; and
+   ſent aid to the Britiſh Belgæ, when they were preſſed by the Romans or other new-comers from the
+   continent. Con-mor, king of Inis-huna, (that part of South-Britain which is over-againſt the
+   Iriſh coaſt) being attacked, by what enemy is not mentioned, ſent for aid to Cairbar, lord of
+   Atha, the moſt potent chief of the Firbolg. Cairbar diſpatched his brother Cathmor to the
+   afſiſtance of Con-mor. Cathmor, after various vicifſitudes of fortune, put an end to the war, by
+   the total defeat of the enemies of Inis-huna, and returned in triumph to the reſidence of
+   Con-mor. There, at a feaſt, Sul-malla, the daughter of Con-mor, fell deſperately in love with
+   Cathmor, who, before her paſſion was diſcloſed, was recalled to Ireland by his brother Cairbar,
+   upon the news of the intended expedition of Fingal, to re-eſtabliſh the family of Conar on the
+   Iriſh throne. The wind being contrary, Cathmor remained, for three days, in a neighbouring bay,
+   during which time Sul-malla diſguiſed herſelf in the habit of a young warrior, and came to offer
+   him her ſervice, in the war. Cathmor accepted of the propoſal, ſailed for Ireland, and arrived in
+   Ulſter a few days before the death of Cairbar. </p> </note> Near him leaned, againſt a
    <!-- rock, -->
-   
    <!-- mother- -->
-   
-   
    <pb xml:id="P73210083" facs="../img/1773-290.pbm"/>
    <!-- Book IV. An EPIC POEM. 83 --> rock, Sul-malla<note>
    <p> Sul-malla, <hi>ſlowly-roiling eyes</hi>, Caon-mór, <hi>mild and tall</hi>, Inis-huna,
-    <hi>green iſland</hi>. </p>
-   </note> of blue eyes, the white-boſomed daughter of Conmor, king of Inis-huna. To his aid came
-   blue-ſhielded Cathmor, and rolled his foes away. Sul-malla beheld him ſtately in the hall of
-   feaſts. Nor careleſs rolled the eyes of Cathmor on the long-haired maid!</p><p><hi rend="sc">The</hi> third day aroſe, when Fithil<note>
+   <hi>green iſland</hi>. </p> </note> of blue eyes, the white-boſomed daughter of Conmor, king of
+   Inis-huna. To his aid came blue-ſhielded Cathmor, and rolled his foes away. Sul-malla beheld him
+   ſtately in the hall of feaſts. Nor careleſs rolled the eyes of Cathmor on the long-haired
+   maid!</p>
+  <p><hi rend="sc">The</hi> third day aroſe, when Fithil<note>
    <p> Fithil, <hi>an inferior bard</hi>. It may either be taken here for the proper name of a man,
-    or in the literal ſenſe, as the bards were the heralds and meſſengers of thoſe times. Cathmor,
-    it is probable, was abſent, when the rebellion of his brother Cairbar, and the aſſaſſination of
-    Cormac, king of Ireland, happened. Cathmor and his followers had only arrived, from Inis-huna,
-    three days before the death of Cairbar, which ſufficiently clears his character from any
-    imputation of being concerned in the conſpiracy, with his brother. </p>
-   </note> came, from Erin of the ſtreams. He told of the  <!-- ing -->
-   
+   or in the literal ſenſe, as the bards were the heralds and meſſengers of thoſe times. Cathmor, it
+   is probable, was abſent, when the rebellion of his brother Cairbar, and the aſſaſſination of
+   Cormac, king of Ireland, happened. Cathmor and his followers had only arrived, from Inis-huna,
+   three days before the death of Cairbar, which ſufficiently clears his character from any
+   imputation of being concerned in the conſpiracy, with his brother. </p> </note> came, from Erin
+   of the ſtreams. He told of the <!-- ing -->
    <!-- G 2 is -->
-   
    <pb xml:id="P73210084" facs="../img/1773-293.pbm"/>
    <!-- 84 T E M O R A: Book IV. -->lifting up of the ſhield<note>
    <p> The ceremony which was uſed by Fingal, when he prepared for an expedition, is related thus in
-    tradition. A bard, at midnight, went to the hall, where the tribes feaſted upon ſolemn
-    occaſions, raiſed the <hi>war-ſong</hi>, and thrice called the ſpirits of their deceaſed
-    anceſtors to come, <hi>on their clouds</hi>, to behold the actions of their children. He then
-    fixed the <hi>ſhield of Trenmor</hi>, on a tree on the rock of Selma, ſtriking it, at times,
-    with the blunt end ofa ſpear, and ſinging the warſong between. Thus he did, for three ſucceſſive
-    nights, and, in the mean time, meſſengers were diſpatched to call together the tribes; or, to
-    uſe an ancient expreſſion, <hi>to call them from all their ſtreams</hi>. This phraſe alludes to
-    the ſituation of the reſidences of the clans, which were generally fixed in valleys, where the
-    torrents of the neighbouring mountains were colleted into one body, and became <hi>large
-    ſtreams</hi> or rivers. <hi>The lifting up of the ſhield</hi>, was the phraſe for beginning a
-    war. </p>
-   </note> in Selma : He told of the danger of Cairbar. Cathmor raiſed the ſail at Cluba : but the
-   winds were in other lands. Three days he remained on the coaft, and turned his eyes on Conmor's
-   halls, He remembered the daughter of ſtrangers, and his ſigh aroſe. Now when the winds awaked the
-   wave: from the hill came a youth in arms; to lift the ſword with Cathmor, in his ecchoing fields.
-   It was the white-armed Sul-malla. Secret ſhe dwelt 
-   <!-- beneath -->
-   
+   tradition. A bard, at midnight, went to the hall, where the tribes feaſted upon ſolemn occaſions,
+   raiſed the <hi>war-ſong</hi>, and thrice called the ſpirits of their deceaſed anceſtors to come,
+   <hi>on their clouds</hi>, to behold the actions of their children. He then fixed the <hi>ſhield
+   of Trenmor</hi>, on a tree on the rock of Selma, ſtriking it, at times, with the blunt end ofa
+   ſpear, and ſinging the warſong between. Thus he did, for three ſucceſſive nights, and, in the
+   mean time, meſſengers were diſpatched to call together the tribes; or, to uſe an ancient
+   expreſſion, <hi>to call them from all their ſtreams</hi>. This phraſe alludes to the ſituation of
+   the reſidences of the clans, which were generally fixed in valleys, where the torrents of the
+   neighbouring mountains were colleted into one body, and became <hi>large ſtreams</hi> or rivers.
+   <hi>The lifting up of the ſhield</hi>, was the phraſe for beginning a war. </p> </note> in Selma
+   : He told of the danger of Cairbar. Cathmor raiſed the ſail at Cluba : but the winds were in
+   other lands. Three days he remained on the coaft, and turned his eyes on Conmor's halls, He
+   remembered the daughter of ſtrangers, and his ſigh aroſe. Now when the winds awaked the wave:
+   from the hill came a youth in arms; to lift the ſword with Cathmor, in his ecchoing fields. It
+   was the white-armed Sul-malla. Secret ſhe dwelt <!-- beneath -->
    <pb xml:id="P73210085" facs="../img/1773-296.pbm"/>
    <!-- Book IV. An EPIC POEM. 8, --> beneath her helmet. Her ſteps were in the path of the king :
    on him her blue eyes rolled with joy, when he lay by his roaring ſtreams! But Cathmor thought,
    that, on Lumon, ſhe ſtill purſued the roes. He thought, that fair on a rock, ſhe ſtretched her
    white hand to the wind ; to feel its courſe from Erin, the green dwelling of her love. He had
    promiſed to return, with his white-boſomed ſails. The maid is near thee, O Cathmor ! leaning on
-   her rock.</p><p><hi rend="sc">The</hi> tall forms of the chiefs ſtand around ; all but dark-browed Foldath<note><p>The ſurly attitude of Foldath is a proper preamble to his after-behaviour. Chaſſed with the diſappointment of the victory which he promiſed himſelf, he becomes paſſionate and over-bearing. The quarrel which ſucceeds between him and Malthos, is introduced, to raiſe the character of Cathmor, whoſe ſuperior worth ſhines forth, in his manly manner of ending the difference between the chiefs. </p></note>. He leaned againſt a diſtant tree, rolled into his haughty ſoul. His buſhy hair whiſtles in wind. At times, burſts the hum of a ſong. He ſtruck the tree, at length, in wrath ; and ruſhed before the king ! Calm and ſtately, to the beam of the oak, aroſe the form of young Hidalla. His hair falls round his bluſhing cheek, in wreaths of waving light. Soft was his voice in Clon-ra<note><p> Claon-rath, <hi>winding field</hi>. The <hi>th</hi> are ſeldom pronounced audibly in the Galic language. </p></note>, in the valley of 
-<!-- G 3 his -->
-
-<pb xml:id="P73210086" facs="../img/1773-299.pbm"/>
-<!-- 86 T E M O R A: Book IV. -->
- his fathers, Soft was his voice when he touched the harp, in the hall, near his roaring ſtreams !</p><p>“<hi rend="sc">King</hi> of Erin,” ſaid Hidalla, “now is the time to feaſt. Bid the voice of bards ariſe. Bid them roll the night away. The ſoul returns, from ſong, more terrible to war. Darkneſs ſettles on Erin. From hill to hill bend the ſkirted clouds. Far and grey, on the heath, the dreadful ſtrides of ghoſts are ſeen : the ghoſts of thoſe who fell bend forward to their ſong. Bid, O Cathmor, the harps to riſe, to brighten the dead, on their wandering blaſts.”</p><p>“<hi rend="sc">Be</hi> all the dead forgot,” ſaid Foldath's burſting wrath. “Did not I fail in the field? Shall I then hear the ſong? Yet was not my courſe harmleſs in war. Blood was a ſtream around my ſteps. But the feeble were behind me. The foe has eſcaped from my ſword. In Clonra's vale touch thou the harp. Let Dura anſwer to the voice of Hidalla, Let ſome maid look, from the wood, on thy long, yellow locks. Fly from Lubar's ecchoing plain. This is the field of heroes !”</p><p>“<hi rend="sc">King</hi> of Erin<note><p> This ſpeech of Malthos is, throughout, a ſevere reprimand to the bluſtering behaviour of Foldath. </p></note>,” Malthos ſaid, “it is <hi rend="sc">Thine</hi> to lead in war. <hi rend="sc">Thou</hi> art a fire to our eyes, on the dark-brown field. Like a blaſt 
-<!-- THOU -->
-
-<pb xml:id="P73210087" facs="../img/1773-302.pbm"/>
-<!-- Book IV. An EPIC POEM. 87 -->
- <hi rend="sc">thou</hi> haſt paſt over hoſts. <hi rend="sc">Thou</hi> haſt laid them low in blood. But who has heard <hi rend="sc">thy</hi> words returning from the field ? The wrathful delight in death : Their remembrance reſts on the wounds of their ſpear. Strife is folded in <hi rend="sc">their</hi> thoughts: <hi rend="sc">their</hi> words are ever heard. Thy courſe, chief of Morna, was like a troubled ſtream. The dead were rolled on thy path ; but others alſo lift the ſpear. We were not feeble behind thee ; but the foe was ſtrong.”</p><p><hi rend="sc">Cathmor</hi> beheld the riſing rage, and bending forward of either chief: for,
+   her rock.</p>
+  <p><hi rend="sc">The</hi> tall forms of the chiefs ſtand around ; all but dark-browed Foldath<note>
+   <p>The ſurly attitude of Foldath is a proper preamble to his after-behaviour. Chaſſed with the
+   diſappointment of the victory which he promiſed himſelf, he becomes paſſionate and over-bearing.
+   The quarrel which ſucceeds between him and Malthos, is introduced, to raiſe the character of
+   Cathmor, whoſe ſuperior worth ſhines forth, in his manly manner of ending the difference between
+   the chiefs. </p></note>. He leaned againſt a diſtant tree, rolled into his haughty ſoul. His
+   buſhy hair whiſtles in wind. At times, burſts the hum of a ſong. He ſtruck the tree, at length,
+   in wrath ; and ruſhed before the king ! Calm and ſtately, to the beam of the oak, aroſe the form
+   of young Hidalla. His hair falls round his bluſhing cheek, in wreaths of waving light. Soft was
+   his voice in Clon-ra<note>
+   <p> Claon-rath, <hi>winding field</hi>. The <hi>th</hi> are ſeldom pronounced audibly in the
+   Galic language. </p></note>, in the valley of <!-- G 3 his -->
+   <pb xml:id="P73210086" facs="../img/1773-299.pbm"/>
+   <!-- 86 T E M O R A: Book IV. --> his fathers, Soft was his voice when he touched the harp, in
+   the hall, near his roaring ſtreams !</p>
+  <p>“<hi rend="sc">King</hi> of Erin,” ſaid Hidalla, “now is the time to feaſt. Bid the voice of
+   bards ariſe. Bid them roll the night away. The ſoul returns, from ſong, more terrible to war.
+   Darkneſs ſettles on Erin. From hill to hill bend the ſkirted clouds. Far and grey, on the heath,
+   the dreadful ſtrides of ghoſts are ſeen : the ghoſts of thoſe who fell bend forward to their
+   ſong. Bid, O Cathmor, the harps to riſe, to brighten the dead, on their wandering blaſts.”</p>
+  <p>“<hi rend="sc">Be</hi> all the dead forgot,” ſaid Foldath's burſting wrath. “Did not I fail in
+   the field? Shall I then hear the ſong? Yet was not my courſe harmleſs in war. Blood was a ſtream
+   around my ſteps. But the feeble were behind me. The foe has eſcaped from my ſword. In Clonra's
+   vale touch thou the harp. Let Dura anſwer to the voice of Hidalla, Let ſome maid look, from the
+   wood, on thy long, yellow locks. Fly from Lubar's ecchoing plain. This is the field of heroes
+   !”</p>
+  <p>“<hi rend="sc">King</hi> of Erin<note>
+   <p> This ſpeech of Malthos is, throughout, a ſevere reprimand to the bluſtering behaviour of
+   Foldath. </p></note>,” Malthos ſaid, “it is <hi rend="sc">Thine</hi> to lead in war. <hi
+   rend="sc">Thou</hi> art a fire to our eyes, on the dark-brown field. Like a blaſt <!-- THOU -->
+   <pb xml:id="P73210087" facs="../img/1773-302.pbm"/>
+   <!-- Book IV. An EPIC POEM. 87 --> <hi rend="sc">thou</hi> haſt paſt over hoſts. <hi rend="sc"
+   >Thou</hi> haſt laid them low in blood. But who has heard <hi rend="sc">thy</hi> words returning
+   from the field ? The wrathful delight in death : Their remembrance reſts on the wounds of their
+   ſpear. Strife is folded in <hi rend="sc">their</hi> thoughts: <hi rend="sc">their</hi> words are
+   ever heard. Thy courſe, chief of Morna, was like a troubled ſtream. The dead were rolled on thy
+   path ; but others alſo lift the ſpear. We were not feeble behind thee ; but the foe was
+   ſtrong.”</p>
+  <p><hi rend="sc">Cathmor</hi> beheld the riſing rage, and bending forward of either chief: for,
    half-unſheathed, they held their ſwords, and rolled their ſilent eyes. Now would they have mixed
    in horrid fray, had not the wrath of Cathmor burned. He drew his ſword: it gleamed thro' night,
    to the high-flaming oak ! “Sons of pride,” ſaid the king, “allay your ſwelling ſouls. Retire in
@@ -187,144 +236,164 @@
    time for ſtrife ! Retire, ye clouds, at my feaſt. Awake my ſoul no more.” </p>
   <p><hi rend="sc">They</hi> funk from the King on either ſide ; like<note>
    <p> This compariſon is favourable to the ſuperiority of Cathmor over his two chiefs, I ſhall
-    illuſtrate this paſſage with another from a fragment of an ancient poem, juſt now in my hands.
-    “As the ſun is above the vapours, which his beams have raiſed ; ſo is the ſoul of the king above
-    the ſons of fear. They roll dark below him; he rejoices in the robe of his beams. But when
-    feeble deeds wander on the ſoul of the king, he is a darkened ſun rolled along the ſky: the
-    valley is ſad below : flowers wither beneath the drops of the night.” </p>
-   </note> two columns of morning miſt, when the 
-   <!-- ſun -->
-   
+   illuſtrate this paſſage with another from a fragment of an ancient poem, juſt now in my hands.
+   “As the ſun is above the vapours, which his beams have raiſed ; ſo is the ſoul of the king above
+   the ſons of fear. They roll dark below him; he rejoices in the robe of his beams. But when feeble
+   deeds wander on the ſoul of the king, he is a darkened ſun rolled along the ſky: the valley is
+   ſad below : flowers wither beneath the drops of the night.” </p> </note> two columns of morning
+   miſt, when the <!-- ſun -->
    <!-- G 4 have -->
-   
    <pb xml:id="P73210088" facs="../img/1773-305.pbm"/>
    <!-- 88 T E M O R A: Book IV. --> ſun riſes, between them, on his glittering rocks. Dark is their
-   rolling on either ſide; each toward its reedy pool !</p><p><hi rend="sc">Silent</hi> ſat the chiefs at the feaſt. They look, at times, on Atha's king, where he ſtrode, on his rock, amid his ſettling ſoul. The hoſt lie, along the field. Sleep deſcends on Moi-lena. The voice of Fonar aſcends alone, beneath his diſtant tree. It aſcends in the praiſe of Cathmor, ſon of Larthon<note><p> Lear-thon, <hi>ſea wave</hi>, the name of the chief of that colony of the Fir-bolg, which firſt migrated into Ireland. Larthon's firſt ſettlement in that country is related in the ſeventh book. He was the anceſtor of Cathmor ; and is here called <hi>Larthon of Lumon</hi>, from a high hill of that name in Inis-huna, the ancient ſeat of the Fir-bolg. The character of Cathmor is preſerved. He had mentioned, in the firſt book, the averſion of that chief to praiſe, and we find him here lying at the ſide of a ſtream, that the noiſe of it might drown the voice of Fonar, who, according to the cuſtom of the times, ſung his eulogium in his <hi>evening ſong</hi>. Though other chiefs, as well as Cathmor, might be averſe to hear their own praiſe, we find it the univerſal policy of the times, to allow the bards to be as extravagant as they pleaſed in their encomiums on the leaders of armies, in the preſence of their people. The vulgar, who had no great ability to judge for themſelves, received the characters of their princes, entirely upon the faith of their bards. </p></note> of Lumon. But Cathmor did not hear his praiſe. He lay at the roar 
-<!-- of -->
-
-<pb xml:id="P73210089" facs="../img/1773-308.pbm"/>
-<!-- Book IV. AN EPIC POEM. 89 -->
- of a ſtream. The ruſtling breeze of night flew over his whiſtling locks,</p><p><hi rend="sc">His</hi> brother came to his dreams, half-ſeen from his low-hung cloud. Joy roſe
+   rolling on either ſide; each toward its reedy pool !</p>
+  <p><hi rend="sc">Silent</hi> ſat the chiefs at the feaſt. They look, at times, on Atha's king,
+   where he ſtrode, on his rock, amid his ſettling ſoul. The hoſt lie, along the field. Sleep
+   deſcends on Moi-lena. The voice of Fonar aſcends alone, beneath his diſtant tree. It aſcends in
+   the praiſe of Cathmor, ſon of Larthon<note>
+   <p> Lear-thon, <hi>ſea wave</hi>, the name of the chief of that colony of the Fir-bolg, which
+   firſt migrated into Ireland. Larthon's firſt ſettlement in that country is related in the ſeventh
+   book. He was the anceſtor of Cathmor ; and is here called <hi>Larthon of Lumon</hi>, from a high
+   hill of that name in Inis-huna, the ancient ſeat of the Fir-bolg. The character of Cathmor is
+   preſerved. He had mentioned, in the firſt book, the averſion of that chief to praiſe, and we find
+   him here lying at the ſide of a ſtream, that the noiſe of it might drown the voice of Fonar, who,
+   according to the cuſtom of the times, ſung his eulogium in his <hi>evening ſong</hi>. Though
+   other chiefs, as well as Cathmor, might be averſe to hear their own praiſe, we find it the
+   univerſal policy of the times, to allow the bards to be as extravagant as they pleaſed in their
+   encomiums on the leaders of armies, in the preſence of their people. The vulgar, who had no great
+   ability to judge for themſelves, received the characters of their princes, entirely upon the
+   faith of their bards. </p></note> of Lumon. But Cathmor did not hear his praiſe. He lay at the
+   roar <!-- of -->
+   <pb xml:id="P73210089" facs="../img/1773-308.pbm"/>
+   <!-- Book IV. AN EPIC POEM. 89 --> of a ſtream. The ruſtling breeze of night flew over his
+   whiſtling locks,</p>
+  <p><hi rend="sc">His</hi> brother came to his dreams, half-ſeen from his low-hung cloud. Joy roſe
    darkly in his face. He had heard the ſong of Carril<note>
    <p> Carril, the ſon of Kinfena, by the orders of Oſſian, ſung the funeral elegy at the tomb of
-    Cairbar. See the ſecond book, towards the end. In all theſe poems, the viſits of ghoſts, to
-    their living friends, are ſhort, and their language obſcure, both which circumſtances tend to
-    throw a ſolemn gloom on theſe ſupernatural ſcenes. Towards the latter end of the ſpeech of the
-    ghoſt of Cairbar, he ſoretels the death of Cathmor, by enumerating thoſe ſignals which,
-    according to the opinion of the times, preceded the death of a perſon renowned. It was thought
-    that the ghoſts of deceaſed bards ſung, for three nights preceding the death (near the place
-    where his tomb was to be raiſed) round an unſubſtantial figure which repreſented the body of the
-    perſon who was to die. </p>
-   </note>. A blaſt ſuſtained his dark-ſkirted cloud ; which he ſeized in the boſom of night, as he
-   roſe, with his fame, towards his airy hall. Half-mixed with the noiſe of the ſtream, he poured
-   his feeble words.</p><p>“<hi rend="sc">Joy</hi> meet the ſoul of Cathmor. His voice was heard on Moi-lena. The bard gave
-   his ſong to Cairbar. He travels on the wind. My form is in my father's hall, like the gliding of
-   a terrible light, which darts acroſs the deſart, in a ſtormy night. No bard ſhall be wanting at
-   thy tomb, when thou art lowly laid. The ſons of ſong love the valiant. Cathmor, thy name
-   
-   <!-- is -->
-   
+   Cairbar. See the ſecond book, towards the end. In all theſe poems, the viſits of ghoſts, to their
+   living friends, are ſhort, and their language obſcure, both which circumſtances tend to throw a
+   ſolemn gloom on theſe ſupernatural ſcenes. Towards the latter end of the ſpeech of the ghoſt of
+   Cairbar, he ſoretels the death of Cathmor, by enumerating thoſe ſignals which, according to the
+   opinion of the times, preceded the death of a perſon renowned. It was thought that the ghoſts of
+   deceaſed bards ſung, for three nights preceding the death (near the place where his tomb was to
+   be raiſed) round an unſubſtantial figure which repreſented the body of the perſon who was to die.
+   </p> </note>. A blaſt ſuſtained his dark-ſkirted cloud ; which he ſeized in the boſom of night,
+   as he roſe, with his fame, towards his airy hall. Half-mixed with the noiſe of the ſtream, he
+   poured his feeble words.</p>
+  <p>“<hi rend="sc">Joy</hi> meet the ſoul of Cathmor. His voice was heard on Moi-lena. The bard
+   gave his ſong to Cairbar. He travels on the wind. My form is in my father's hall, like the
+   gliding of a terrible light, which darts acroſs the deſart, in a ſtormy night. No bard ſhall be
+   wanting at thy tomb, when thou art lowly laid. The ſons of ſong love the valiant. Cathmor, thy
+   name <!-- is -->
    <pb xml:id="P73210090" facs="../img/1773-311.pbm"/>
    <!-- 90 TEMORA: Book IV. --> is a pleaſant gale. The mournful ſounds ariſe ! On Lubar's field
    there is a voice ! Louder ſtill, ye ſhadowy ghoſts ! The dead were full of fame! Shrilly ſwells
    the feeble ſound. The rougher blaſt alone is heard ! Ah, ſoon is Cathmor low!” Rolled into
    himſelf he flew, wide on the boſom of winds. The old oak felt his departure, and ſhook its
    whiſtling head. Cathmor ſtarts from reſt. He takes his deathful ſpear. He lifts his eyes around.
-   He ſees but dark-ſkirted night.</p><p>“<hi rend="sc">It</hi><note>
+   He ſees but dark-ſkirted night.</p>
+  <p>“<hi rend="sc">It</hi><note>
    <p>The ſoliloquy of Cathmor ſuits the magnanimity of his character. Though ſtaggered at firſt
-    with the prediction of Cairbar's ghoſt, he ſoon comforts himſelf with the agreeable proſpect of
-    his future renown; and, like Achilles, prefers a ſhort and glorious life, to an obſcure length
-    of years in retirement and eaſe. </p>
-   </note> was the voice of the king,” he ſaid. “But now his form is gone. Unmarked is your path in
-   the air, ye children of the night. Often like a reflected beam, are ye ſeen in the deſart wild :
-   but ye retire in your blaſts, before our ſteps approach. Go then, ye feeble race! Knowledge with
-   you there is none ! Your joys are weak, and like the dreams of our reſt, or the light-winged
-   thought, that flies acroſs the ſoul. Shall Cathmor ſoon be low ? Darkly laid in his narrow houſe
-   ? Where no morning comes, with her half-opened eyes? Away, thou ſhade! 
-   <!-- 2 to -->
-   
+   with the prediction of Cairbar's ghoſt, he ſoon comforts himſelf with the agreeable proſpect of
+   his future renown; and, like Achilles, prefers a ſhort and glorious life, to an obſcure length of
+   years in retirement and eaſe. </p> </note> was the voice of the king,” he ſaid. “But now his form
+   is gone. Unmarked is your path in the air, ye children of the night. Often like a reflected beam,
+   are ye ſeen in the deſart wild : but ye retire in your blaſts, before our ſteps approach. Go
+   then, ye feeble race! Knowledge with you there is none ! Your joys are weak, and like the dreams
+   of our reſt, or the light-winged thought, that flies acroſs the ſoul. Shall Cathmor ſoon be low ?
+   Darkly laid in his narrow houſe ? Where no morning comes, with her half-opened eyes? Away, thou
+   ſhade! <!-- 2 to -->
    <pb xml:id="P73210091" facs="../img/1773-314.pbm"/>
    <!-- Book IV. AN EPIC POEM. 91 --> to fight is mine! All further thought away! I ruſh forth, on
    eagle wings, to ſeize my beam of fame. In the lonely vale of ſtreams, abides the narrow<note>
    <p> An indolent and unwarlike life was held in extreme contempt. Whatever a philoſopher may ſay,
-    in praiſe of quiet and retirement, I am far from thinking, but they weaken and debaſe the human
-    mind. When the faculties of the ſoul are not exerted, they loſe their vigour, and low and
-    circumſcribed notions take the place of noble and enlarged ideas. Action, on the contrary, and
-    the viciſſitudes of fortune which attend it, call forth, by turns, all the powers of the mind,
-    and, by exerciſing, ſtrengthen them. Hence it is, that in great and opulent ſtates, when
-    property and indolence are ſecured to individuals, we ſeldom meet with that ſtrength of mind,
-    which is ſo common in a nation, not far advanced in civilization. It is a curious, but juſt,
-    obſervation ; that great kingdoms ſeldom produce great characters, which muſt be altogether
-    attributed to that indolence and diſſipation, which are the inſeparable companions of too much
-    property and ſecurity. Rome, it is certain, had more real great men within it, when its power
-    was confined within the narrow bounds of Latium, than when its dominion extended over all the
-    known world ; and one petty ſtate of the Saxon heptarchy had, perhaps, as much genuine ſpirit in
-    it, as the two Britiſh kingdoms united. As a ſtate, we are much more powerful than our
-    anceſtors, but we would loſe by comparing individuals with them. </p>
-   </note> ſoul. Years roll on. ſeaſons return, but he is ſtill unknown. In a blaſt comes cloudy
-   death, and lays his grey head low. His ghoſt is folded in the vapour of the fenny field. Its
-   courſe is never on hills, nor moſſy vales of wind. So ſhall not Cathmor depart. No boy in the
-   field was he, who only marks the bed of 
-   <!-- roes, -->
-   
+   in praiſe of quiet and retirement, I am far from thinking, but they weaken and debaſe the human
+   mind. When the faculties of the ſoul are not exerted, they loſe their vigour, and low and
+   circumſcribed notions take the place of noble and enlarged ideas. Action, on the contrary, and
+   the viciſſitudes of fortune which attend it, call forth, by turns, all the powers of the mind,
+   and, by exerciſing, ſtrengthen them. Hence it is, that in great and opulent ſtates, when property
+   and indolence are ſecured to individuals, we ſeldom meet with that ſtrength of mind, which is ſo
+   common in a nation, not far advanced in civilization. It is a curious, but juſt, obſervation ;
+   that great kingdoms ſeldom produce great characters, which muſt be altogether attributed to that
+   indolence and diſſipation, which are the inſeparable companions of too much property and
+   ſecurity. Rome, it is certain, had more real great men within it, when its power was confined
+   within the narrow bounds of Latium, than when its dominion extended over all the known world ;
+   and one petty ſtate of the Saxon heptarchy had, perhaps, as much genuine ſpirit in it, as the two
+   Britiſh kingdoms united. As a ſtate, we are much more powerful than our anceſtors, but we would
+   loſe by comparing individuals with them. </p> </note> ſoul. Years roll on. ſeaſons return, but he
+   is ſtill unknown. In a blaſt comes cloudy death, and lays his grey head low. His ghoſt is folded
+   in the vapour of the fenny field. Its courſe is never on hills, nor moſſy vales of wind. So ſhall
+   not Cathmor depart. No boy in the field was he, who only marks the bed of <!-- roes, -->
    <pb xml:id="P73210092" facs="../img/1773-317.pbm"/>
    <!-- 92 T E M O R A: Book IV. --> roes, upon the ecchoing hills. My iſſuing forth was with kings.
-   My joy in dreadful plains : where broken hoſts are rolled away, like ſeas before the wind.”</p><p><hi rend="sc">So</hi> ſpoke the king of Alnecma, brightening in his rifing ſoul. Valour, like a pleaſant flame, is gleaming within his breaſt. Stately is his ſtride on the heath! The beam of eaſt is poured around. He ſaw his grey hoſt on the field, wide-ſpreading their ridges in light. He rejoiced, like a ſpirit of heaven, whoſe ſteps come forth on the ſeas, when he beholds them peaceful round, and all the winds are laid. But ſoon he awakes the waves, and rolls them large to ſome ecchoing ſhore.</p><p><hi rend="sc">On</hi> the ruſhy bank of a ſtream, ſlept the daughter of Inis-huna. The helmet had
-   fallen from her head. Her dreams were in the lands of her fathers. <hi rend="sc">There</hi>
+   My joy in dreadful plains : where broken hoſts are rolled away, like ſeas before the wind.”</p>
+  <p><hi rend="sc">So</hi> ſpoke the king of Alnecma, brightening in his rifing ſoul. Valour, like a
+   pleaſant flame, is gleaming within his breaſt. Stately is his ſtride on the heath! The beam of
+   eaſt is poured around. He ſaw his grey hoſt on the field, wide-ſpreading their ridges in light.
+   He rejoiced, like a ſpirit of heaven, whoſe ſteps come forth on the ſeas, when he beholds them
+   peaceful round, and all the winds are laid. But ſoon he awakes the waves, and rolls them large to
+   ſome ecchoing ſhore.</p>
+  <p><hi rend="sc">On</hi> the ruſhy bank of a ſtream, ſlept the daughter of Inis-huna. The helmet
+   had fallen from her head. Her dreams were in the lands of her fathers. <hi rend="sc">There</hi>
    morning is on the field. Grey ſtreams leap down from the rocks. The breezes, in ſhadowy waves,
    fly over the ruſhy fields. <hi rend="sc">There</hi> is the ſound that prepares for the chace. <hi
    rend="sc">There</hi> the moving of warriors from the hall. But tall above the reſt is ſeen the
    hero of ſtreamy Atha. He bends his eye of love on Sul-malla, from his ſtately ſteps. <hi
-   rend="sc">She</hi> turns, with pride, her face away, and careleſs bends the bow. 
-   <!-- SUCH -->
-   
+   rend="sc">She</hi> turns, with pride, her face away, and careleſs bends the bow. <!-- SUCH -->
    <pb xml:id="P73210093" facs="../img/1773-320.pbm"/>
-   <!-- Book IV. An EPIC POEM. 93 --> </p><p><hi rend="sc">Such</hi> were the dreams of the maid, when Cathmor of Atha came. He ſaw her fair face before him, in the midſt of her wandering locks. He knew the maid of Lumon. What ſhould Cathmor do? His ſighs ariſe. His tears come down. But ſtraight he turns away.  “This is no time, king of Atha, to awake thy ſecret ſoul. The battle is rolled before thee, like a troubled ſtream.”</p><p><hi rend="sc">He</hi> ſtruck that warning boſs<note>
+   <!-- Book IV. An EPIC POEM. 93 --> </p>
+  <p><hi rend="sc">Such</hi> were the dreams of the maid, when Cathmor of Atha came. He ſaw her fair
+   face before him, in the midſt of her wandering locks. He knew the maid of Lumon. What ſhould
+   Cathmor do? His ſighs ariſe. His tears come down. But ſtraight he turns away. “This is no time,
+   king of Atha, to awake thy ſecret ſoul. The battle is rolled before thee, like a troubled
+   ſtream.”</p>
+  <p><hi rend="sc">He</hi> ſtruck that warning boſs<note>
    <p> In order to underſtand this paſſage, it is neceſſary to look to the deſcription of Cathmor's
-    ſhield in the ſeventh book. This ſhield had ſeven principal boſſes, the ſound of each of which,
-    when ſtruck with a ſpear, conveyed a particular order from the king to his tribes. The ſound of
-    one of them, as here, was the ſignal for the army to aſſemble. </p>
-   </note>, wherein dwelt the voice of war. Erin roſe around him, like the ſound of eagle-wing.
-   Sul-malla ſtarted from ſleep, in her diſordered locks. She ſeized the helmet from earth. She
-   trembled in her place. “Why ſhould they know in Erin of the daughter of Inis-huna ?” She
-   remembered the race of kings. The pride of her ſoul aroſe! Her ſteps are behind a rock, by the
-   blue-winding ſtream<note>
-   <p> This was not the valley of Lona to which Sul-malla afterwards retired. </p>
-   </note> of a vale : where dwelt the dark-brown hind ere yet the war aroſe. Thither came the voice
-   of Cathmor, at times, to Sul-malla's ear. Her 
-   <!-- ſoul -->
-   
+   ſhield in the ſeventh book. This ſhield had ſeven principal boſſes, the ſound of each of which,
+   when ſtruck with a ſpear, conveyed a particular order from the king to his tribes. The ſound of
+   one of them, as here, was the ſignal for the army to aſſemble. </p> </note>, wherein dwelt the
+   voice of war. Erin roſe around him, like the ſound of eagle-wing. Sul-malla ſtarted from ſleep,
+   in her diſordered locks. She ſeized the helmet from earth. She trembled in her place. “Why ſhould
+   they know in Erin of the daughter of Inis-huna ?” She remembered the race of kings. The pride of
+   her ſoul aroſe! Her ſteps are behind a rock, by the blue-winding ſtream<note>
+   <p> This was not the valley of Lona to which Sul-malla afterwards retired. </p> </note> of a vale
+   : where dwelt the dark-brown hind ere yet the war aroſe. Thither came the voice of Cathmor, at
+   times, to Sul-malla's ear. Her <!-- ſoul -->
    <pb xml:id="P73210094" facs="../img/1773-323.pbm"/>
-   <!-- 94 T E M O R A: Book IV. --> ſoul is darkly ſad. She pours her words on wind.</p><p>“<hi rend="sc">The</hi> dreams of Inis-huna departed. They are diſperſed from my ſoul. I hear not the chace in my land. I am concealed in the ſkirt of war. I look forth from my cloud. No beam appears to light my path. I behold my warrior low ; for the broad-ſhielded king is near, he that overcomes in danger, Fingal from Selma of ſpears ! Spirit of departed Conmor ! are thy ſteps on the boſom of winds? Comeſt thou, at times, to other lands, father of ſad Sul-malla ? Thou doſt come ! I have heard thy voice at night; while yet I roſe on the wave to Erin of the ſtreams. The ghoſt of fathers, they ſay<note><p> Con-mor, the father of Sul-malla, was killed in that war, from which Cathmor delivered
-    Inis-huna. Lormar his ſon ſucceeded Conmor. It was the opinion of the times, when a perſon was
-    reduced to a pitch of miſery, which could admit of no alleviation, that the ghoſts of his
-    anceſtors <hi>called his ſoul away</hi>. This ſupernatural kind of death was called the
-    <hi>voice of the dead</hi>; and is believed by the ſuperſtitious vulgar to this day. There is no
-    people in the world, perhaps, who give more univerſal credit to apparitions, and the viſits of
-    the ghoſts of the deceaſed to their friends, than the ancient Scots. This is to be attributed as
-    much, at leaſt, to the ſituation of the country they poſſeſs, as to that credulous diſpoſition
-    which diſtinguiſhes an unenlightened people. As their buſineſs was feeding of cattle, in dark
-    and extenſive deſarts, ſo their journeys lay over wide and unfrequented heaths, where, often,
-    they were obliged to ſleep in the open air, amidſt the whiſtling of winds, and roar of
-    water-falls. The gloomineſs of the ſcenes around them was apt to beget that melancholy
-    diſpoſition of mind, which moſt readily receives impreſſions of the extraordinary and
-    ſupernatural kind, Falling aſleep in this gloomy mood, and their dreams being diſturbed by the
-    noiſe of the elements around, it is no matter of wonder, that they thought they heard the
-    <hi>voice of the dead</hi>, This <hi>voice of the dead</hi>, however, was, perhaps, no more than
-    a ſhriller whiſtle of the winds in an old tree, or in the chinks of a neighbouring rock. It is
-    to this cauſe I aſcribe thoſe many and improbable tales of ghoſts, which we meet with in the
-    Highlands: for, in other reſpects, we do not find that the inhabitants are more credulous than
-    their neighbours. </p></note>, call away the 
-<!-- ſouls -->
+   <!-- 94 T E M O R A: Book IV. --> ſoul is darkly ſad. She pours her words on wind.</p>
+  <p>“<hi rend="sc">The</hi> dreams of Inis-huna departed. They are diſperſed from my ſoul. I hear
+   not the chace in my land. I am concealed in the ſkirt of war. I look forth from my cloud. No beam
+   appears to light my path. I behold my warrior low ; for the broad-ſhielded king is near, he that
+   overcomes in danger, Fingal from Selma of ſpears ! Spirit of departed Conmor ! are thy ſteps on
+   the boſom of winds? Comeſt thou, at times, to other lands, father of ſad Sul-malla ? Thou doſt
+   come ! I have heard thy voice at night; while yet I roſe on the wave to Erin of the ſtreams. The
+   ghoſt of fathers, they ſay<note>
+   <p> Con-mor, the father of Sul-malla, was killed in that war, from which Cathmor delivered
+   Inis-huna. Lormar his ſon ſucceeded Conmor. It was the opinion of the times, when a perſon was
+   reduced to a pitch of miſery, which could admit of no alleviation, that the ghoſts of his
+   anceſtors <hi>called his ſoul away</hi>. This ſupernatural kind of death was called the <hi>voice
+   of the dead</hi>; and is believed by the ſuperſtitious vulgar to this day. There is no people in
+   the world, perhaps, who give more univerſal credit to apparitions, and the viſits of the ghoſts
+   of the deceaſed to their friends, than the ancient Scots. This is to be attributed as much, at
+   leaſt, to the ſituation of the country they poſſeſs, as to that credulous diſpoſition which
+   diſtinguiſhes an unenlightened people. As their buſineſs was feeding of cattle, in dark and
+   extenſive deſarts, ſo their journeys lay over wide and unfrequented heaths, where, often, they
+   were obliged to ſleep in the open air, amidſt the whiſtling of winds, and roar of water-falls.
+   The gloomineſs of the ſcenes around them was apt to beget that melancholy diſpoſition of mind,
+   which moſt readily receives impreſſions of the extraordinary and ſupernatural kind, Falling
+   aſleep in this gloomy mood, and their dreams being diſturbed by the noiſe of the elements around,
+   it is no matter of wonder, that they thought they heard the <hi>voice of the dead</hi>, This
+   <hi>voice of the dead</hi>, however, was, perhaps, no more than a ſhriller whiſtle of the winds
+   in an old tree, or in the chinks of a neighbouring rock. It is to this cauſe I aſcribe thoſe many
+   and improbable tales of ghoſts, which we meet with in the Highlands: for, in other reſpects, we
+   do not find that the inhabitants are more credulous than their neighbours. </p></note>, call away
+   the <!-- ſouls -->
+   <!-- of -->
+   <pb xml:id="P73210095" facs="../img/1773-326.pbm"/>
+   <!-- Book IV. AN EPIC POEM. 95 --> ſouls of their race, while they behold them lonely in the
+   midſt of woe. Call me, my father, away ! When Cathmor is low on earth. Then ſhall Sul-malla be
+   lonely in the midſt of woe !” </p>
 
-<!-- of -->
+  <pb xml:id="P73210096" facs="../img/1773-329.pbm"/>
 
-<pb xml:id="P73210095" facs="../img/1773-326.pbm"/>
-<!-- Book IV. AN EPIC POEM. 95 -->
- ſouls of their race, while they behold them lonely in the midſt of woe. Call me, my father, away ! When Cathmor is low on earth. Then ſhall Sul-malla be lonely in the midſt of woe !” </p>
-
-<pb xml:id="P73210096" facs="../img/1773-329.pbm"/>
-
-
-
-</body></text>
+ </div>
+</div>

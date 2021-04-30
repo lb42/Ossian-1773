@@ -55,8 +55,8 @@
     <!-- vol 2 front matter -->
     <group>
      <text> <!-- start of temora -->
-      <group>
-       <xi:include href="V2/tei/temora-1.xml"/>
+      <body>
+       <xi:include href="V2/tei/temora-1.xml"/><!-- each is a div -->
        <xi:include href="V2/tei/temora-2.xml"/>
        <xi:include href="V2/tei/temora-3.xml"/>
        <xi:include href="V2/tei/temora-4.xml"/>
@@ -64,7 +64,7 @@
        <xi:include href="V2/tei/temora-6.xml"/>
        <xi:include href="V2/tei/temora-7.xml"/>
        <xi:include href="V2/tei/temora-8.xml"/>
-      </group>
+      </body>
      </text><!-- end of temora -->
      <xi:include href="V2/tei/conlath.xml"/>
      <xi:include href="V2/tei/berrathon.xml"/>

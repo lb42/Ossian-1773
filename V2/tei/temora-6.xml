@@ -1,34 +1,30 @@
-<text xmlns="http://www.tei-c.org/ns/1.0">
+<div type="book" xmlns="http://www.tei-c.org/ns/1.0">
  <pb xml:id="P73210117" facs="../img/1773-392.pbm"/>
- <front>
-  <titlePage>
-   <titlePart>TEMORA: AN EPIC POEM. BOOK VI.</titlePart>
-  </titlePage>
 
-  <!-- I 3 -->
+ <head>TEMORA: AN EPIC POEM. BOOK VI.</head>
+ <!-- I 3 -->
 
-  <pb xml:id="P73210118" facs="../img/1773-395.pbm"/>
-  <div>
-   <head>ARGUMENT to Book VI.</head>
-   <p> <hi rend="sc">This</hi> book opens with a ſpeech of Fingal, who ſees Cathmor deſcending to
-    the aſſiſtance of his flying army. The king diſpatches Oſſian to the relief of Fillan. He
-    himſelf retires behind the rock of Cormul, to avoid the ſight of the engagement between his ſon
-    and Cathmor. Oſſian advances. The deſcent of Cathmor deſcribed. He rallies the army, renews the
-    battle, and, before Oſſian could arrive, engages Fillan himſelf. Upon the approach of Oſſian,
-    the combat between the two heroes ceaſes. Oſſian and Cathmor prepare to fight, but night coming
-    on prevents them. Oſſian returns to the place where Cathmor and Fillan fought. He finds Fillan
-    mortally wounded, and leaning againſt a rock. Their diſcourſe. Fillan dies: his body is laid, by
-    Oſſian, in a neighbouring cave. The Caledonian army return to Fingal. He queſtions them about
-    his ſon, and, underſtanding that he was killed, retires, in ſilence, to the rock of Cormul. Upon
-    the retreat of the army of Fingal, the Fir-bolg advance. Cathmor finds Bran, one of the dogs of
-    Fingal, lying on the ſhield of Fillan, before the entrance of the cave, where the body of that
-    hero lay. His reflections thereupon. He returns, in a melancholy mood, to his army. Malthos
-    endeavours to comfort him, by the example of his father Borbar-duthal. Cathmor retires to reſt.
-    The ſong of Sul-malla concludes the book, which ends about the middle of the third night, from
-    the opening of the poem. </p>
-  </div>
- </front>
- <body>
+ <pb xml:id="P73210118" facs="../img/1773-395.pbm"/>
+ <div type="argument">
+  <head>ARGUMENT to Book VI.</head>
+  <p> <hi rend="sc">This</hi> book opens with a ſpeech of Fingal, who ſees Cathmor deſcending to the
+   aſſiſtance of his flying army. The king diſpatches Oſſian to the relief of Fillan. He himſelf
+   retires behind the rock of Cormul, to avoid the ſight of the engagement between his ſon and
+   Cathmor. Oſſian advances. The deſcent of Cathmor deſcribed. He rallies the army, renews the
+   battle, and, before Oſſian could arrive, engages Fillan himſelf. Upon the approach of Oſſian, the
+   combat between the two heroes ceaſes. Oſſian and Cathmor prepare to fight, but night coming on
+   prevents them. Oſſian returns to the place where Cathmor and Fillan fought. He finds Fillan
+   mortally wounded, and leaning againſt a rock. Their diſcourſe. Fillan dies: his body is laid, by
+   Oſſian, in a neighbouring cave. The Caledonian army return to Fingal. He queſtions them about his
+   ſon, and, underſtanding that he was killed, retires, in ſilence, to the rock of Cormul. Upon the
+   retreat of the army of Fingal, the Fir-bolg advance. Cathmor finds Bran, one of the dogs of
+   Fingal, lying on the ſhield of Fillan, before the entrance of the cave, where the body of that
+   hero lay. His reflections thereupon. He returns, in a melancholy mood, to his army. Malthos
+   endeavours to comfort him, by the example of his father Borbar-duthal. Cathmor retires to reſt.
+   The ſong of Sul-malla concludes the book, which ends about the middle of the third night, from
+   the opening of the poem. </p>
+ </div>
+ <div type="poem">
   <pb xml:id="P73210119" facs="../img/1773-398.pbm"/>
   <!-- [ 119 ] -->
   <head>TEMORA: AN EPIC POEM. BOOK: VI.</head>
@@ -75,9 +71,8 @@
    mixes his words with his ecchoing ſhield. An eagle he ſeemed, with ſounding wings, calling the
    wind to his rock, when he ſees the coming forth of the roes, on Lutha's<note>
    <p> Lutha was the name of a valley in Morven. There dwelt Toſcar the ſon of Conloch, the father
-    of Malvina, who, upon that account, is often called <hi>the maid of Lutha</hi>, Lutha ſignifies
-    <hi>ſwift ſtream</hi>. </p>
-   </note> ruſhy field ! <!-- Now -->
+   of Malvina, who, upon that account, is often called <hi>the maid of Lutha</hi>, Lutha ſignifies
+   <hi>ſwift ſtream</hi>. </p> </note> ruſhy field ! <!-- Now -->
    <pb xml:id="P73210122" facs="../img/1773-407.pbm"/>
    <!-- 122 T E M O R A: Book VI. --> Now they bend forward in battle. Death's hundred voices ariſe.
    The kings, on either ſide, were like fires on the ſouls of the hoſts. Oſſian bounded along. High
@@ -116,45 +111,44 @@
    <!-- 124 T E M O R A: Book VI. --> near to Fillan, that leſs of his fame may fall. Oſſian, I
    begin to fail. Lay me in that hollow rock. Raiſe no ſtone above, left one ſhould aſk about my
    fame. I am fallen in the firſt of my fields; fallen without renown. Let thy voice <hi rend="sc"
-   >alone</hi> ſend joy to my flying ſoul. Why ſhould the bard know where dwells the loſt beam of Clatho<note>
-   <p> A dialogue between Clatho the mother and Boſmina, the ſiſter of Fillan. </p>
-   <sp>
-    <speaker><hi rend="sc">Clatho</hi>.</speaker>
-    <p> “Daughter of Fingal, ariſe : thou light between thy locks. Lift thy fair head from reſt,
-     foſt-gliding ſun-beam of Selma! I beheld thy arms, on thy breaſt, white-toſſed amidſt thy
-     wandering locks: when the ruſtling breeze of the morning came from the deſart of ſtreams. Haſt
-     thou ſeen thy fathers, Bos-mina, deſcending in thy dreams? Ariſe, daughter of Clatho; dwells
-     there aught of grief in thy ſoul ? </p>
-   </sp>
-   <sp>
-    <speaker><hi rend="sc">Bos-mina</hi>.</speaker>
-    <p>A thin form paſſed before me, fading as it flew: like the darkening wave of a breeze, along a
-     field of graſs. Deſcend, from thy wall, O harp, and call back the ſoul of Bos-mina. It has
-     rolled away, like a ſtream, I hear thy pleaſant ſound. I hear thee, O harp, and my voice ſhall
-     riſe.</p>
-    <p>How often ſhall ye ruſh to war, ye dwellers of my ſoul ? Your paths are diſtant, kings of
-     men, in Erin of blue ſtreams. Lift thy wing, thou ſouthern breeze, from Clono's darkening heath
-     : ſpread the ſails of Fingal towards the bays of his land.</p>
-    <p>But who is that, in his ſtrength, darkening in the preſence of war? His arm ſtretches to the
-     foe, like the beam of the fickly ſun ; when his ſide is cruſted with darkneſs; and he rolls his
-     diſmal courſe through the ſky. Who is it, but the father of Eos-mina ? Shall he return till
-     danger is paſt!</p>
-    <p>Fillan, thou art a beam by his ſide ; beautiful, but terrible, is thy light. Thy ſword is
-     before thee, a blue fire of night. When ſhalt thou return to thy roes; to the ſtreams of thy
-     ruſhy fields? When ſhall I behold thee from Mora, while winds ſtrew my long locks on their
-     blaſts! But ſhall a young eagle return from the field where the heroes fall! </p>
-   </sp>
-   <sp>
-    <speaker><hi rend="sc">Clatho</hi>.</speaker>
-    <p> Soft, as the ſong of Loda, is the voice of Selma's maid. Pleaſant to the ear of Clatho is
-     the name of the breaker of ſhield. Behold, the king comes from ocean : the ſhield of Morven is
-     borne by bards. The foe has fled before him, like the departure of miſt. I hear not the
-     ſounding wings of my eagle; the ruſhing forth of the ſon of Clatho. Thou art dark, O Fingal ;
-     ſhall the warrior never return? * * * </p>
-   </sp>
-   </note> !” </p><!-- “Is -->   <!-- Fillan, -->
-   <pb xml:id="P73210125" facs="../img/1773-416.pbm"/>
-   <!-- Book VI. An EPIC POEM. 126 -->
+   >alone</hi> ſend joy to my flying ſoul. Why ſhould the bard know where dwells the loſt beam of
+   Clatho<note>
+   <p> A dialogue between Clatho the mother and Boſmina, the ſiſter of Fillan. </p> <sp>
+   <speaker><hi rend="sc">Clatho</hi>.</speaker>
+   <p> “Daughter of Fingal, ariſe : thou light between thy locks. Lift thy fair head from reſt,
+    foſt-gliding ſun-beam of Selma! I beheld thy arms, on thy breaſt, white-toſſed amidſt thy
+    wandering locks: when the ruſtling breeze of the morning came from the deſart of ſtreams. Haſt
+    thou ſeen thy fathers, Bos-mina, deſcending in thy dreams? Ariſe, daughter of Clatho; dwells
+    there aught of grief in thy ſoul ? </p>
+   </sp> <sp>
+   <speaker><hi rend="sc">Bos-mina</hi>.</speaker>
+   <p>A thin form paſſed before me, fading as it flew: like the darkening wave of a breeze, along a
+    field of graſs. Deſcend, from thy wall, O harp, and call back the ſoul of Bos-mina. It has
+    rolled away, like a ſtream, I hear thy pleaſant ſound. I hear thee, O harp, and my voice ſhall
+    riſe.</p>
+   <p>How often ſhall ye ruſh to war, ye dwellers of my ſoul ? Your paths are diſtant, kings of men,
+    in Erin of blue ſtreams. Lift thy wing, thou ſouthern breeze, from Clono's darkening heath :
+    ſpread the ſails of Fingal towards the bays of his land.</p>
+   <p>But who is that, in his ſtrength, darkening in the preſence of war? His arm ſtretches to the
+    foe, like the beam of the fickly ſun ; when his ſide is cruſted with darkneſs; and he rolls his
+    diſmal courſe through the ſky. Who is it, but the father of Eos-mina ? Shall he return till
+    danger is paſt!</p>
+   <p>Fillan, thou art a beam by his ſide ; beautiful, but terrible, is thy light. Thy ſword is
+    before thee, a blue fire of night. When ſhalt thou return to thy roes; to the ſtreams of thy
+    ruſhy fields? When ſhall I behold thee from Mora, while winds ſtrew my long locks on their
+    blaſts! But ſhall a young eagle return from the field where the heroes fall! </p>
+   </sp> <sp>
+   <speaker><hi rend="sc">Clatho</hi>.</speaker>
+   <p> Soft, as the ſong of Loda, is the voice of Selma's maid. Pleaſant to the ear of Clatho is the
+    name of the breaker of ſhield. Behold, the king comes from ocean : the ſhield of Morven is borne
+    by bards. The foe has fled before him, like the departure of miſt. I hear not the ſounding wings
+    of my eagle; the ruſhing forth of the ſon of Clatho. Thou art dark, O Fingal ; ſhall the warrior
+    never return? * * * </p>
+   </sp> </note> !” </p>
+  <!-- “Is -->
+  <!-- Fillan, -->
+  <pb xml:id="P73210125" facs="../img/1773-416.pbm"/>
+  <!-- Book VI. An EPIC POEM. 126 -->
   <p> “<hi rend="sc">Is</hi> thy ſpirit on the eddying winds, O Fillan, young breaker of ſhield !
    Joy purſue my hero, through his folded clouds. The forms of thy fathers, O Fillan, bend to
    receive their ſon. I behold the ſpreading of their fire on Mora : the blue-rolling of their miſty
@@ -171,22 +165,21 @@
    our early beam? Kindle your meteors on your hills, my fathers. Light my daring ſteps. I will
    conſume in wrath<note>
    <p> Here the ſentence is deſignedly left unfiniſhed. The ſenſe is, that he was reſolved, like a
-    deſtroying fire, to conſume Cathmor, who had killed his brother. In the midſt of this
-    reſolution, the ſituation of Fingal ſuggeſts itſelf to him, in a very ſtrong light. He reſolves
-    to return to aſſiſt the king in proſecuting the war. But then his ſhame for not defending his
-    brother, recurs to him. He is determined again to go and find out Cathmor. We may conſider him,
-    as in the act of advancing towards the enemy, when the horn of Fingal ſounded on Mora, and
-    called back his people to his preſence. This ſoliloquy is natural : the reſolutions which ſo
-    ſuddenly follow one another, are expreſſive of a mind extremely agitated with ſorrow and
-    conſcious ſhame ; yet the behaviour of Oſſian, in his execution of the commands of Fingal, is ſo
-    irreprehenſible, that it is not eaſy to determine where he failed in his duty. The truth is,
-    that when men fail in deſigns which they ardently wiſh to accompliſh, they naturally blame
-    themſelves, as the chief cauſe of their diſappointment. </p>
-   </note>. But ſhould not I return ! The king is without a ſon, grey-haired among his foes! His arm
-   is not as in the days of old. His fame grows dim in Erin. Let me not behold him, laid low in his
-   latter field. But can I return to the king ? Will he not aſk about his ſon ? “Thou oughteſt to
-   defend young Fillan.” Oſſian will meet the foe! Green Erin, thy ſounding tread is pleaſant
-   <!-- co -->
+   deſtroying fire, to conſume Cathmor, who had killed his brother. In the midſt of this reſolution,
+   the ſituation of Fingal ſuggeſts itſelf to him, in a very ſtrong light. He reſolves to return to
+   aſſiſt the king in proſecuting the war. But then his ſhame for not defending his brother, recurs
+   to him. He is determined again to go and find out Cathmor. We may conſider him, as in the act of
+   advancing towards the enemy, when the horn of Fingal ſounded on Mora, and called back his people
+   to his preſence. This ſoliloquy is natural : the reſolutions which ſo ſuddenly follow one
+   another, are expreſſive of a mind extremely agitated with ſorrow and conſcious ſhame ; yet the
+   behaviour of Oſſian, in his execution of the commands of Fingal, is ſo irreprehenſible, that it
+   is not eaſy to determine where he failed in his duty. The truth is, that when men fail in deſigns
+   which they ardently wiſh to accompliſh, they naturally blame themſelves, as the chief cauſe of
+   their diſappointment. </p> </note>. But ſhould not I return ! The king is without a ſon,
+   grey-haired among his foes! His arm is not as in the days of old. His fame grows dim in Erin. Let
+   me not behold him, laid low in his latter field. But can I return to the king ? Will he not aſk
+   about his ſon ? “Thou oughteſt to defend young Fillan.” Oſſian will meet the foe! Green Erin, thy
+   ſounding tread is pleaſant <!-- co -->
    <pb xml:id="P73210127" facs="../img/1773-422.pbm"/>
    <!-- Book VI, An EPIC POEM. 127 --> to my ear. I ruſh on thy ridgy hoſt, to ſhun the eyes of
    Fingal. I hear the voice of the king, on Mora's miſty top ! He calls his two ſons! I come, my
@@ -226,18 +219,18 @@
    their conſequence, in the eyes of others, was in proportion to the number of their people, they
    took care to avoid every thing that tended to diminiſh it.</p>
    <p>It was but very lately that the authority of the laws extended to the Highlands. Before that
-    time the clans were governed, in Civil affairs, not by the verbal commands of the chief, but by
-    what they called <hi>Clechda</hi>, or the traditional precedents of their anceſtors. When
-    differences happened between individuals, ſome of the oldeſt men in the tribe were choſen
-    umpires between the parties, to decide according to the <hi>Clechda</hi>. The chief interpoſed
-    his authority, and, invariably, enforced the deciſion. In their wars, which were frequent, on
-    account of family-feuds, the chief was leſs reſerved in the execution of his authority ; and
-    even then he ſeldom extended it to the taking the life of any of his tribe. No crime was
-    capital, except murder ; and that was very unfrequent in the Highlands. No corporal puniſhment,
-    of any kind, was inflicted. The memory of an affront of this ſort would remain, for ages, in a
-    family, and they would ſeize every opportunity to be revenged, unleſs it came immediately from
-    the hands of the chief himſelf; in that caſe it was taken, rather as a fatherly correction, than
-    a legal puniſhment for offences. </p></note>. <!-- WHERE -->
+   time the clans were governed, in Civil affairs, not by the verbal commands of the chief, but by
+   what they called <hi>Clechda</hi>, or the traditional precedents of their anceſtors. When
+   differences happened between individuals, ſome of the oldeſt men in the tribe were choſen umpires
+   between the parties, to decide according to the <hi>Clechda</hi>. The chief interpoſed his
+   authority, and, invariably, enforced the deciſion. In their wars, which were frequent, on account
+   of family-feuds, the chief was leſs reſerved in the execution of his authority ; and even then he
+   ſeldom extended it to the taking the life of any of his tribe. No crime was capital, except
+   murder ; and that was very unfrequent in the Highlands. No corporal puniſhment, of any kind, was
+   inflicted. The memory of an affront of this ſort would remain, for ages, in a family, and they
+   would ſeize every opportunity to be revenged, unleſs it came immediately from the hands of the
+   chief himſelf; in that caſe it was taken, rather as a fatherly correction, than a legal
+   puniſhment for offences. </p></note>. <!-- WHERE -->
    <!-- on -->
    <pb xml:id="P73210129" facs="../img/1773-428.pbm"/>
    <!-- Book VI. An EPIC POEM. 129 --> </p>
@@ -247,19 +240,19 @@
    ; and the ſword of dark-brown Luno. I am waked on my hills; with morning I deſcend to war.”</p>
   <p><hi rend="sc">High</hi><note>
    <p> This rock of Cormul is often mentioned in the preceding part of the poem, It was on it Fingal
-    and Oſſian ſtood to view the battle. The cuſtom of retiring from the army, on the night prior to
-    their engaging in battle, was univerſal among the kings of the Caledonians. Trenmor, the moſt
-    renowned of the anceſtors of Fingal, is mentioned as the firſt who inſtitated this cuſtom.
-    Succeeding bards attributed it to a hero of a latter period. In an old poem, which begins with
-    <hi>MacArcath na ceud ſról</hi>, this cuſtom of retiring from the army, before an engagement, is
-    numbered, among the wiſe inſtitutions of Fergus, the ſon of Arc or Arcath, the firft king of
-    Scots. I ſhall here tranſlate the paſſage; in ſome other note I may probably, give all that
-    remains of the poem. <quote><hi>Fergus of the hundred ſtreams, ſon of Arcath who fought of old : thou
-    didſt firſt retire at night: when the foe rolled before thee, in ecchoing fields. Nor bending in
-    reſt is the king : he gathers battles in his ſoul. Fly, ſon of the ſtranger ; with morn he ſhall
-    ruſh abroad</hi></quote>. When, or by whom, this poem was written, is uncertain. </p></note> on Cormul's rock,
-   an oak is flaming to the wind. The grey ſkirts of miſt are rolled around ; thither ſtrode the
-   King in his wrath. <!-- Diſtant -->
+   and Oſſian ſtood to view the battle. The cuſtom of retiring from the army, on the night prior to
+   their engaging in battle, was univerſal among the kings of the Caledonians. Trenmor, the moſt
+   renowned of the anceſtors of Fingal, is mentioned as the firſt who inſtitated this cuſtom.
+   Succeeding bards attributed it to a hero of a latter period. In an old poem, which begins with
+   <hi>MacArcath na ceud ſról</hi>, this cuſtom of retiring from the army, before an engagement, is
+   numbered, among the wiſe inſtitutions of Fergus, the ſon of Arc or Arcath, the firft king of
+   Scots. I ſhall here tranſlate the paſſage; in ſome other note I may probably, give all that
+   remains of the poem. <quote><hi>Fergus of the hundred ſtreams, ſon of Arcath who fought of old :
+   thou didſt firſt retire at night: when the foe rolled before thee, in ecchoing fields. Nor
+   bending in reſt is the king : he gathers battles in his ſoul. Fly, ſon of the ſtranger ; with
+   morn he ſhall ruſh abroad</hi></quote>. When, or by whom, this poem was written, is uncertain.
+   </p></note> on Cormul's rock, an oak is flaming to the wind. The grey ſkirts of miſt are rolled
+   around ; thither ſtrode the King in his wrath. <!-- Diſtant -->
    <!-- Vol II, K . ſhall -->
    <pb xml:id="P73210130" facs="../img/1773-431.pbm"/>
    <!-- 130 T E M O R A: Book VI. --> Diſtant from the hoſt he always lay, when battle burnt within
@@ -286,13 +279,13 @@
    along the ſhore. They did not find him; and the beautiful widow became diſconſolate. At length he
    was diſcovered, by means of his dog, who ſat on a rock beſide the body, for ſome days. The ſtanza
    concerning the dog, whoſe name was Du-chos, or <hi>Blackfoot</hi>, is deſcriptive.</p>
-   <p><quote>“Dark-ſided Du-chos! feet of wind! cold is thy ſeat on rocks. He (the dog) ſees the roe: his
-   ears are high ; and half he bounds away, He looks around ; but Ullin ſleeps; he droops again his
-   head. The winds come paſt ; dark Duchos thinks, that Ullin's voice is there. But ſtill he beholds
-   him ſilent, laid amidſt the waving heath. Dark ſided Duchos, his voice no more ſhall ſend thee
-   over the heath !” </quote></p></note>. He had miſſed the chief on Mora, and ſearched him along the wind.
-   He thought that the blue-eyed hunter ſlept ; he lay upon his ſhield. No blaſt came over the
-   heath, unknown to bounding Bran.</p>
+   <p><quote>“Dark-ſided Du-chos! feet of wind! cold is thy ſeat on rocks. He (the dog) ſees the
+   roe: his ears are high ; and half he bounds away, He looks around ; but Ullin ſleeps; he droops
+   again his head. The winds come paſt ; dark Duchos thinks, that Ullin's voice is there. But ſtill
+   he beholds him ſilent, laid amidſt the waving heath. Dark ſided Duchos, his voice no more ſhall
+   ſend thee over the heath !” </quote></p></note>. He had miſſed the chief on Mora, and ſearched
+   him along the wind. He thought that the blue-eyed hunter ſlept ; he lay upon his ſhield. No blaſt
+   came over the heath, unknown to bounding Bran.</p>
   <p><hi rend="sc">Cathmor</hi> ſaw the white-breaſted dog; he ſaw the broken ſhield. Darkneſs is
    blown back on his ſoul; he remembers the falling away of the people. They come, a ſtream ; are
    rolled away ; another race ſucceeds, “But ſome mark the fields, as they paſs, with their own
@@ -354,26 +347,26 @@
    king. Deeprolled into the field of night, they ſpread their humming tribes. Beneath his own tree,
    at intervals, each<note>
    <p> Not only the kings, but every petty chief, had anciently their bards attending them, in the
-    field ; and thoſe bards, in proportion to the power of the chiefs, who retained them, had a
-    number of inferior bards in their train. Upon ſolemn occaſions, all the bards, in the army,
-    would join in one chorus; either when they celebrated their viftories, or lamented the death of
-    a perſon, worthy and renowned, ſlain in the war. The words were of the compoſition of the
-    arch-bard, retained by the king himſelf, who generally attained to that high office on account
-    of his ſuperior genius for poetry. As the perſons of the bards were ſacred, and the emoluments
-    of their office conſiderable, the order, in ſucceeding times, became very numerous and inſolent.
-    It would appear, that, after the introduction of Chriſtianity, ſome ſerved in the double
-    capacity of bards and clergymen. It was, from this circumſtance, that they had the name of
-    <hi>Chlére</hi>, which is, probably, derived from the Latin Clericus. The <hi>Chlére</hi>, be
-    their name derived from what it will, became, at laſt, a public nuiſance; for, taking advantage
-    of their ſacred character, they went about, in great bodies, and lived, at diſcretion, in the
-    houſes of the chiefs ; till another party, of the ſame order, drove them away by mere dint of
-    ſatire. Some of the indelicate diſputes of theſe worthy poetical combatants are handed down, by
-    tradition, and ſhew how much the bards, at laſt, abuſed the privileges, which the admiration of
-    their countrymen had conferred on the order. It was this inſolent behaviour that induced the
-    chiefs to retrench their number, and to take away thoſe privileges which they were no longer
-    worthy to enjoy. Their indolence, and diſpoſition to lampoon, extinguiſhed all the poetical
-    fervour, which diſtinguiſhed their predeceſſors, and makes us the leſs regret the extinction of
-    the order. </p></note> bard ſat down with his harp. <!-- They -->
+   field ; and thoſe bards, in proportion to the power of the chiefs, who retained them, had a
+   number of inferior bards in their train. Upon ſolemn occaſions, all the bards, in the army, would
+   join in one chorus; either when they celebrated their viftories, or lamented the death of a
+   perſon, worthy and renowned, ſlain in the war. The words were of the compoſition of the
+   arch-bard, retained by the king himſelf, who generally attained to that high office on account of
+   his ſuperior genius for poetry. As the perſons of the bards were ſacred, and the emoluments of
+   their office conſiderable, the order, in ſucceeding times, became very numerous and inſolent. It
+   would appear, that, after the introduction of Chriſtianity, ſome ſerved in the double capacity of
+   bards and clergymen. It was, from this circumſtance, that they had the name of <hi>Chlére</hi>,
+   which is, probably, derived from the Latin Clericus. The <hi>Chlére</hi>, be their name derived
+   from what it will, became, at laſt, a public nuiſance; for, taking advantage of their ſacred
+   character, they went about, in great bodies, and lived, at diſcretion, in the houſes of the
+   chiefs ; till another party, of the ſame order, drove them away by mere dint of ſatire. Some of
+   the indelicate diſputes of theſe worthy poetical combatants are handed down, by tradition, and
+   ſhew how much the bards, at laſt, abuſed the privileges, which the admiration of their countrymen
+   had conferred on the order. It was this inſolent behaviour that induced the chiefs to retrench
+   their number, and to take away thoſe privileges which they were no longer worthy to enjoy. Their
+   indolence, and diſpoſition to lampoon, extinguiſhed all the poetical fervour, which diſtinguiſhed
+   their predeceſſors, and makes us the leſs regret the extinction of the order. </p></note> bard
+   ſat down with his harp. <!-- They -->
    <!-- death -->
    <pb xml:id="P73210135" facs="../img/1773-446.pbm"/>
    <!-- Book VI, An EPIC POEM. 135 --> They raiſed the ſong, and touched the ſtring : each to the
@@ -408,6 +401,5 @@
    dwell in darkneſs here; wide over me flies the thadowy miſt. Filled with dew are my locks : look
    thou from thy cloud, O ſun of Sul-malla's ſoul.” <!--   <milestone rend="stars" unit="gap"/> -->
    <pb xml:id="P73210138" facs="../img/1773-455.pbm"/> </p>
- 
- </body>
-</text>
+ </div>
+</div>

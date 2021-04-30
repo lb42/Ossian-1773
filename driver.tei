@@ -27,7 +27,7 @@
      <xi:include href="V1/tei/sulmalla.xml"/>
      <xi:include href="V1/tei/warofin.xml"/>
      <xi:include href="V1/tei/songsofselma.xml"/>
-     <text><!-- SF checked to here -->
+     <text>
       <!-- start of Fingal -->
       <pb xml:id="P73110217" facs="V1/img/1773-684.pbm"/>
       <front><titlePage>
@@ -42,7 +42,7 @@
       </body>
      </text>
      <!-- end of Fingal -->
-     <xi:include href="V1/tei/lathmon.xml"/><!-- sfchecked-->
+     <xi:include href="V1/tei/lathmon.xml"/>
      <xi:include href="V1/tei/darthula.xml"/>
      <xi:include href="V1/tei/deathcuthullin.xml"/>
      <xi:include href="V1/tei/battleoflora.xml"/>

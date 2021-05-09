@@ -11,17 +11,16 @@
   <docEdition>A NEW EDITION, Carefully corrected, and greatly improved.</docEdition>
   <docImprint>LONDON: Printed for <hi rend="sc">W. Strahan</hi>; and <hi rend="sc">T. Becket</hi>,
    in the Strand, Bookſeller to their Royal Highneſſes the Prince of <hi rend="sc">Wales</hi> and
-   Biſhop of <hi rend="sc">Osnabrugh</hi>.
-   <date>MDCCLXXIII. </date></docImprint>
- 
+   Biſhop of <hi rend="sc">Osnabrugh</hi>. <date>MDCCLXXIII. </date></docImprint>
+
  </titlePage>
 
  <pb xml:id="P73100002" facs="../img/1773-017.pbm"/>
- 
- 
+
+
  <pb xml:id="P73100003" facs="../img/1773-020.pbm"/>
- 
- <div>
+
+ <div type="preface">
   <head>PREFACE.</head>
   <p> <hi rend="sc">Without</hi> encreaſing his genius, the Author may have improved his language,
    in the eleven years, that the following poems have been in the hands of the public. Errors in
@@ -32,8 +31,7 @@
    will preclude all future improvements.</p>
   <p><hi rend="sc">The</hi> eagerneſs, with which theſe Poems have been received abroad, are a
    recompence for the coldneſs with which a few have affected to treat them at home. All the polite
-   nations of Europe have transferred them into their 
-   <!-- Ar ſpective -->
+   nations of Europe have transferred them into their <!-- Ar ſpective -->
    <pb xml:id="P73100004" facs="../img/1773-023.pbm"/>
    <!-- vi PREFACE. --> reſpective languages; and they ſpeak of him, who brought them to light, in
    terms that might flatter the vanity of one fond of fame. In a convenient indifference for a
@@ -46,8 +44,7 @@
    ſucceſs, by the latitude under which he was born. It was to avoid a part of this inconvenience,
    that the Author is ſaid, by ſome, who ſpeak without any authority, to have aſcribed his own
    productions to another name. If this was the caſe, he was but young in the art of deception. When
-   he placed the poet in 
-   <!-- antiquity, -->
+   he placed the poet in <!-- antiquity, -->
    <pb xml:id="P73100005" facs="../img/1773-026.pbm"/>
    <!-- PREFACE. vii --> antiquity, the Tranſlator ſhould have been born on this ſide of the
    Tweed.</p>
@@ -61,8 +58,7 @@
    judgment he cannot approve.</p>
   <p><hi rend="sc">The</hi> following Poems, it muſt be confeſſed, are more calculated to pleaſe
    perſons of exquiſite feelings of heart, than thoſe who receive all their impreſſions by the ear.
-   The novelty of cadence, in what is called a proſe verſion, tho' 
-   <!-- A 4 not -->
+   The novelty of cadence, in what is called a proſe verſion, tho' <!-- A 4 not -->
    <pb xml:id="P73100006" facs="../img/1773-029.pbm"/>
    <!-- viii PREFACE --> not deſtitute of harmony, will not to common readers ſupply the abſence of
    the frequent returns of rhime. This was the opinion of the Writer himſelf, tho' he yielded to the
@@ -75,11 +71,10 @@
    ſimplicity and energy, which they would loſe. The determination of this point ſhall be left to
    the readers of this preface. The following is the beginning of a poem, tranſlated from the Norſe
    to the Gaëlic language ; and, from the latter, transferred into Engliſh. The verſe took little
-   more time to the writer than the proſe; and even he himſelf is doubtful, (if he 
-   <!-- 8 has -->
+   more time to the writer than the proſe; and even he himſelf is doubtful, (if he <!-- 8 has -->
    <pb xml:id="P73100007" facs="../img/1773-032.pbm"/>
    <!-- PREFACE. ix --> has ſucceeded in either) which of them is the moſt literal verſion.</p>
-  <quote><p>FRAGMENT of a NORTHERN TALE.</p>
+  <quote><label>FRAGMENT of a NORTHERN TALE.</label>
    <p><hi rend="sc">Where</hi> Harold, with golden hair, ſpread o'er Lochlin<note>
    <p>The Gaelic name of Scandinavia, or Scandinia, </p></note> his high commands; where, with
    juſtice, he ruled the tribes, who ſunk, ſubdued, beneath his ſword ; abrupt riſes Gormal<note>
@@ -89,7 +84,7 @@
    main.</p>
    <p><hi rend="sc">Grey</hi> on the bank and far from men, halfcovered by ancient pines, from the
    wind, a lonely pile exalts its head, long-ſhaken by the ſtorms of the north. To this fled Sigurd,
-   fierce in fight, from Harold the leader of armies, when fate had brightened his ſpear, 
+   fierce in fight, from Harold the leader of armies, when fate had brightened his ſpear,
    <!-- with -->
    <pb xml:id="P73100008" facs="../img/1773-035.pbm"/>
    <!-- x PREFACE. --> with renown: When he conquered in that rude field, where Lulan's warriors
@@ -106,7 +101,6 @@
    dark tumult embroils the night. Pleaſant are their beams aloft, as ſtately they aſcend the
    ſkies.</p>
    <p>
-   
    <!-- NOR -->
    <pb xml:id="P73100009" facs="../img/1773-038.pbm"/>
    <!-- PREFACE, xi --> <hi rend="sc">Nor</hi> Odin forgot, in aught, the maid. Her form ſcarce
@@ -130,8 +124,7 @@
    <l>A homely manſion roſe, of antique form, </l>
    <l>For ages batter'd by the polar ſtorm. </l>
    <l>To this fierce Sigurd fled, from Norway's lord </l>
-   <l>When fortune ſettled, on the warrior's ſword, 
-    <!-- in -->
+   <l>When fortune ſettled, on the warrior's ſword, <!-- in -->
     <pb xml:id="P73100010" facs="../img/1773-041.pbm"/>
     <!-- xii PREFACE. --> </l>
    <l>In that rude field, where Suecia's chieſs were ſlain, </l>
@@ -185,7 +178,7 @@
    beauties.</p>
   <p><hi rend="sc">London</hi>, Aug. 15, 1773 </p>
  </div>
- 
+
  <pb xml:id="P73100012" facs="../img/1773-048.pbm"/>
  <!--   -->
  <div type="contents">
@@ -209,9 +202,9 @@
    <item>SUL-MALLA of LUMON, — <ref target="#P73110181">181</ref></item>
    <item>WAR of INIS-THONA, — <ref target="#P73110193">193</ref></item>
    <item>The SONGS of SELMA, — <ref target="#P73110203">203</ref> </item>
-   
+
    <!-- FINGAL, -->
-   
+
    <pb xml:id="P73100013" facs="../img/1773-051.pbm"/>
    <item>
     <!-- CONTENTS. --> FINGAL,<list>
@@ -226,9 +219,9 @@
    <item>DAR-THULA, — — <ref target="#P73110351">351</ref></item>
    <item>DEATH of CUTHULLIN, <ref target="#P73110375">375</ref></item>
    <item>BATTLE of LORA, — — <ref target="#P73110391">391</ref></item>
-   
+
    <!-- CATH- -->
-   
+
   </list>
  </div>
 </front>

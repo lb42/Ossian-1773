@@ -8,7 +8,7 @@
   <!-- Vol. I. -->
 
   <pb xml:id="P73110114" facs="../img/1773-385.pbm"/>
-  <div>
+  <div type="argument">
    <head>ARGUMENT.</head>
    <p> Gaul, the ſon of Morni, attended Lathmon into his own country, after his being defeated in
     Morven, as related in the preceding poem. He was kindly entertained by Nuäth, the father of
@@ -35,7 +35,6 @@
  <body>
   <pb xml:id="P73110115" facs="../img/1773-388.pbm"/>
   <!-- [115] -->
-  <div>
    <head>OITHÓNA: A POEM.</head>
    <p><hi rend="sc">Darkness</hi> dwells around Dunlathmon, though the moon ſhews half her face on
     the hill. The daughter of night turns her eyes away ; ſhe beholds the approaching grief. The ſon
@@ -173,7 +172,7 @@
     tomb. He came to Morven ; we ſaw the darkneſs of his ſoul. Oſſian took the harp in the praiſe of
     Oithona. The brightneſs of the face of Gaul returned. But his ſigh roſe, at times, in the midſt
     of his friends; like blaſts that ſhake their unfrequent wings, after the ſtormy winds are laid ! </p>
-  </div>
+  
   <!-- CROMA, -->
 
   <pb xml:id="P73110124" facs="../img/1773-416.pbm"/>

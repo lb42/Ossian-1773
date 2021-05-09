@@ -189,8 +189,8 @@
             <elementSpec ident="quote" mode="change">
                <attList>
                   <attDef ident="facs" mode="delete"/>
-                  <attDef ident="type" mode="delete"/>
-               </attList>
+  <!--                <attDef ident="type" mode="delete"/>
+-->               </attList>
             </elementSpec>
             <elementSpec ident="cit" mode="change">
                <attList>
@@ -557,20 +557,22 @@
                   <attDef ident="facs" mode="delete"/>
                   <attDef ident="type" mode="change">
                      <valList mode="add" type="closed">
-                        <valItem ident="advertisement"/>
-                        <valItem ident="argument"/>
-                        <valItem ident="book"/>
-                        <valItem ident="contents"/>
+                        <valItem ident="advertisement"><desc>Bookseller promotional material</desc></valItem>
+                        <valItem ident="argument"><desc>Summary prefixed to each translation or part thereof by Macpherson</desc></valItem>
+                        <valItem ident="book"><desc>Subdivisions of Fingal and Temora, each containing a summary and a translation</desc></valItem>
+                        <valItem ident="contents"><desc>Tables of contents prefixed to each volume</desc></valItem>
                         <valItem ident="dedication"/>
                         <valItem ident="dissertation"/>
-                        <valItem ident="duan"/>
+                        <valItem ident="duan"><desc>Subdivisions of Cathloda, each containing a summary and a translation </desc></valItem>
                         <valItem ident="fragment"/>
                         <valItem ident="maintext"/>
                         <valItem ident="poem"/>
-                        <valItem ident="preface"/>
+                        <valItem ident="preface"><desc>Macpherson's preface to the collection</desc></valItem>
+                      <valItem ident="translation"><desc>Individual translation by Macpherson </desc></valItem>
                      </valList>
                   </attDef>
                </attList>
+             <remarks><p>No gloss is provided for unused <att>type</att> values which have been retained only for compatibility with other Ossian Online materials</p></remarks>
             </elementSpec>
             <elementSpec ident="trailer" mode="change">
                <attList>
@@ -667,6 +669,8 @@
                   <attDef ident="facs" mode="delete"/>
                </attList>
             </elementSpec>
+          <!-- delete some unused classes -->
+          <classSpec type="atts" ident="att.fragmentable" mode="delete"/>
          </schemaSpec>
       </body>
    </text>

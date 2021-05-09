@@ -4,7 +4,7 @@
 
 
  <pb xml:id="P73210054" facs="../img/1773-203.pbm"/>
- <div>
+ <div type="argument">
   <head>ARGUMENT to Book III.</head>
   <p> <hi rend="sc">Morning</hi> coming on, Fingal, after a ſpeech to his people, devolves the
    command on Gaul, the ſon of Morni ; it being the cuſtom of the times, that the king ſhould not
@@ -22,7 +22,7 @@
    Ireland. Carril is diſpatched to raiſe the tomb of Connal. The action of this book takes up the
    ſecond day, from the opening of the poem. </p>
  </div>
- <div type="poem">
+ <div type="translation">
   <pb xml:id="P73210055" facs="../img/1773-206.pbm"/>
   <!-- [55] -->
   <head>TEMORA: AN EPIC POEM. BOOK III.</head>

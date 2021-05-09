@@ -520,7 +520,7 @@
    <l> Chos eile air Crom-meal dubh,</l>
    <l>Thoga <hi>Fion</hi> le lamh mhoir</l>
    <l>An d'uiſge o <hi>Lubhair</hi> na fruth.</l></quote>
-  <quote>
+  <quote type="gloss">
    <l>With one foot on <hi>Cromleach</hi> his brow,</l>
    <l>The other on <hi>Crommal</hi> the dark,</l>
    <l><hi>Fion</hi> took up with his large hand</l>
@@ -594,9 +594,9 @@
    permitted to go on a pilgrimage to the <hi>Holy Land</hi>. This circumſtance fixes the date of
    the compofition of the piece ſome centuries after the famous croiſade; for, it is evident, that
    the poet thought the time of the croiſade ſo ancient, that he confounds it with the age of
-   Fingal. Erragon, in the courſe of this poem, is often called, <quote>
-   <l xml:lang="gd">Riogh <hi>Lochlin</hi> an do ſhloigh,</l>
-   <l> <hi>King of Denmark of two nations</hi></l> </quote> which alludes to the union of the
+   Fingal. Erragon, in the courſe of this poem, is often called, <quote  xml:lang="gd">
+   Riogh <hi>Lochlin</hi> an do ſhloigh,
+   <gloss> <hi>King of Denmark of two nations</hi></gloss> </quote> which alludes to the union of the
    kingdoms of Norway and Denmark, a circumſtance which happened under Margaret de Waldemar, in the
    cloſe of the fourteenth age. Modern, however, as this pretended Oſſian was, it is certain, he
    lived before the Iriſh had dreamed of appropriating <hi>Fion</hi>, or <hi>Fingal</hi>, to
@@ -608,7 +608,7 @@
    <pb xml:id="P73210271" facs="../img/1773-854.pbm"/>
    <!-- POEMS of OSSIAN. 2y1 --> 'San n' <hi rend="sc">Albin</hi> ni n' abairtair Triath</l>
    <l>Agus ghlaoite an n' <hi>Fhiona</hi> as.</l> </quote></p>
-  <quote>
+  <quote type="gloss">
    <p>“Had Erragon, ſon of Annir of gleaming ſwords, avoided the equal conteſt of arms, (ſingle
    combat) no chief ſhould have afterwards been numbered in <hi rend="sc">Albion</hi>, and the
    heroes of Fion ſhould no more be named.”</p></quote>
@@ -616,10 +616,10 @@
    <hi>The death of Oſcar</hi>. This piece is founded on the ſame ſtory which we have in the firft
    book of Temora. So little thought the author of Cath-cabhra of making Oſcar his countryman, that,
    in the courſe of two hundred lines, of which the poems conſiſts, he puts the following expreſſion
-   thrice in the mouth of the hero :</p>
-  <p><quote>
-   <l xml:lang="gd"><hi rend="sc">Albin</hi> an fa d' roina m' arach.</l>
-   <l><hi rend="sc">Albion</hi> <hi>where I was born and bred</hi></l> </quote>.</p>
+   thrice in the mouth of the hero :
+  <quote xml:lang="gd">
+   <hi rend="sc">Albin</hi> an fa d' roina m' arach.</quote>
+   <gloss><hi rend="sc">Albion</hi> <hi>where I was born and bred</hi></gloss> .</p>
   <p>The poem contains almoſt all the incidents in the firſt book of Temora. In one circumſtance the
    bard differs materially from Oſſian. Oſcar, after he was mortally wounded by Cairbar, was carried
    by his people to a neighbouring hill, which commanded a proſpect of the ſea. A fleet appeared at
@@ -680,9 +680,10 @@
   <p> <quote xml:lang="gd">
    <l>Gun thog Caoilte a chlach, nach gán,</l>
    <l>Agus a n' aigha' chican gun bhuail ;</l>
-   <l>Tri mil an tulloch gun chri', &amp;c.</l> </quote> </p>
-  <p><quote>“Ca-olt took up a heavy ſtone, and ſtruck it againſt the hero's head. The hill ſhook for
-   three miles, as the ſtone rebounded and rolled away.” </quote>Oſcar roſe in wrath, and his father
+   <l>Tri mil an tulloch gun chri', &amp;c.</l> </quote> 
+  <gloss>“Ca-olt took up a heavy ſtone, and ſtruck it againſt the hero's head. The hill ſhook for
+   three miles, as the ſtone rebounded and rolled away.” </gloss></p>
+  <p>Oſcar roſe in wrath, and his father
    gravely defired him to ſpend his rage on his enemies, which he did to ſo good purpoſe, that he
    ſingly routed a whole wing of their army. The confederate kings advanced, notwithſtanding, till
    they came to a narrow paſs, poſſeſſed by the celebrated Ton-iofal. This name is very ſignificant
@@ -694,17 +695,17 @@
   <p><hi rend="sc">All</hi> theſe extraordinary heroes, Fion, Oſſian, Oſcar and Ca-olt, ſays the
    poet, were <!-- T2 Liol -->
    <pb xml:id="P73210276" facs="../img/1773-869.pbm"/>
-   <!-- 2356 A DISSERTATION concerning 'the --> <quote>
-   <l xml:lang="gd">Siol <hi rend="sc">Erin</hi> na gorm lánn,</l>
-   <l> <hi>The ſons of</hi> <hi rend="sc">Erin</hi> <hi>of blue ſteel</hi>.</l> </quote> </p>
+   <!-- 2356 A DISSERTATION concerning 'the --> <quote  xml:lang="gd">
+   Siol <hi rend="sc">Erin</hi> na gorm lánn,</quote>
+   <gloss>The ſons of <hi rend="sc">Erin</hi> <hi>of blue ſteel</hi>.</gloss> </p>
   <p>Neither ſhall I much diſpute the matter with him : He has my conſent alſo to appropriate to
    Ireland the celebrated Ton-iofal. I ſhall only ſay, that they are different perſons from thoſe of
    the ſame name, in the Scotch poems ; and that, though the ſtupendous valour of the firſt is ſo
    remarkable, they have not been equally lucky with the latter, in their poet. It is ſomewhat
    extraordinary, that <hi>Fion</hi>, who lived ſome ages before St. Patrick, ſwears like a very
-   good chriſtian :<quote>
-   <l xml:lang="gd">Air an Dia do chum gach <hi>caſe</hi>.</l>
-   <l><hi>By God, who ſhaped every caſe</hi>.</l> </quote></p>
+   good chriſtian :<quote xml:lang="gd">
+   Air an Dia do chum gach <hi>caſe</hi>.</quote>
+   <gloss><hi>By God, who ſhaped every caſe</hi>.</gloss> </p>
   <p>It is worthy of being remarked, that, in the line quoted, Oſſian, who lived in St. Patrick's
    days, ſeems to have underſtood ſomething of the Engliſh, a language not then ſubſiſting. A
    perſon, more ſanguine for the honour of his country than I am, might argue, from this
@@ -713,10 +714,10 @@
    <pb xml:id="P73210277" facs="../img/1773-872.pbm"/>
    <!-- POEMS of OSSIAN. 277 --> </p>
   <p>From the inſtances given, the reader may form a complete idea of the Iriſh compoſitions
-   concerning the <hi>Fiona</hi>, The greateſt part of them make the heroes of <hi>Fion</hi>,<quote>
-   <l xml:lang="gd">Siol <hi rend="sc">Albin</hi> a n'nioma caoile.</l>
-   <l xml:lang="en"><hi>The race of</hi> <hi rend="sc">Albion</hi> <hi>of many firths</hi>.</l>
-   </quote></p>
+   concerning the <hi>Fiona</hi>, The greateſt part of them make the heroes of <hi>Fion</hi>,<quote xml:lang="gd">
+   Siol <hi rend="sc">Albin</hi> a n'nioma caoile.</quote>
+   <gloss><hi>The race of</hi> <hi rend="sc">Albion</hi> <hi>of many firths</hi>.</gloss>
+   </p>
   <p>The reſt make them natives of Ireland. But, the truth is, that their authority is of little
    conſequence on either ſide. From the inſtances I have given, they appear to have been the work of
    a very modern period. The pious ejaculations they contain, their alluſions to the manners of the

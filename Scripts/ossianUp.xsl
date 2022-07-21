@@ -4,13 +4,16 @@
     xpath-default-namespace="http://www.tei-c.org/ns/1.0"
     xmlns:e="http://distantreading.net/eltec/ns" exclude-result-prefixes="xs e" version="2.0">
 <!-- TODO
-        move <pb/> outside <p>
+        remove comments and associated whitespace
         -->
     <xsl:template match="/ | @* | node()">
         <xsl:copy>
             <xsl:apply-templates select="@* | node()"/>
         </xsl:copy>
     </xsl:template>
+
+<xsl:template match="comment()"/>
+
     <xsl:template match="TEI/text/group">
         <!-- selects volumes -->        
         <xsl:apply-templates select="text"/>

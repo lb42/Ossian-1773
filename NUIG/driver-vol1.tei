@@ -1,0 +1,75 @@
+<?xml-model href="Scripts/ossianODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="Scripts/ossianODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <!-- first the TEI Header, for the whole of the edition -->
+ <xi:include href="teiHeader.xml"/>
+ <text>
+  <!-- start of 1773 edition -->
+ 
+    <!-- start of volume 1 -->
+    <xi:include href="V1/tei/prelims.xml"/>
+    <!-- front matter for vol1 -->
+    <body>
+     <!-- each work in vol1 is a text -->
+     <xi:include href="V1/tei/cathloda.xml"/>
+     <xi:include href="V1/tei/comala.xml"/>
+     <xi:include href="V1/tei/carricthura.xml"/>
+     <xi:include href="V1/tei/carthon.xml"/>
+     <xi:include href="V1/tei/oinamorul.xml"/>
+     <xi:include href="V1/tei/colnadona.xml"/>
+     <xi:include href="V1/tei/oithona.xml"/>
+     <xi:include href="V1/tei/croma.xml"/>
+     <xi:include href="V1/tei/calthon.xml"/>
+     <xi:include href="V1/tei/warofc.xml"/>
+     <xi:include href="V1/tei/cathlin.xml"/>
+     <xi:include href="V1/tei/sulmalla.xml"/>
+     <xi:include href="V1/tei/warofin.xml"/>
+     <xi:include href="V1/tei/songsofselma.xml"/>
+    
+      <div type="poem"><!-- start of Fingal -->
+      <pb xml:id="P73110217" facs="V1/img/1773-684.pbm"/>
+      <head>FINGAL, AN ANCIENT EPIC POEM. In SIX BOOKS.</head>
+       <xi:include href="V1/tei/fingal-1.xml"/><!-- each is a div -->
+       <xi:include href="V1/tei/fingal-2.xml"/>
+       <xi:include href="V1/tei/fingal-3.xml"/>
+       <xi:include href="V1/tei/fingal-4.xml"/>
+       <xi:include href="V1/tei/fingal-5.xml"/>
+       <xi:include href="V1/tei/fingal-6.xml"/>
+      </div>
+     <!-- end of Fingal -->
+     <xi:include href="V1/tei/lathmon.xml"/>
+     <xi:include href="V1/tei/darthula.xml"/>
+     <xi:include href="V1/tei/deathcuthullin.xml"/>
+     <xi:include href="V1/tei/battleoflora.xml"/>
+    </body>
+   <!-- end of vol1 -->
+ <!--  <text>
+    <!-\- start vol 2 -\->
+    <xi:include href="V2/tei/prelims.xml"/>
+    <!-\- vol 2 front matter -\->
+    <group>
+     <text> <!-\- start of temora -\->
+      <body>
+       <xi:include href="V2/tei/temora-1.xml"/><!-\- each is a div -\->
+       <xi:include href="V2/tei/temora-2.xml"/>
+       <xi:include href="V2/tei/temora-3.xml"/>
+       <xi:include href="V2/tei/temora-4.xml"/>
+       <xi:include href="V2/tei/temora-5.xml"/>
+       <xi:include href="V2/tei/temora-6.xml"/>
+       <xi:include href="V2/tei/temora-7.xml"/>
+       <xi:include href="V2/tei/temora-8.xml"/>
+      </body>
+     </text><!-\- end of temora -\->
+     <xi:include href="V2/tei/conlath.xml"/>
+     <xi:include href="V2/tei/berrathon.xml"/>
+     <xi:include href="V2/tei/dissAera.xml"/>
+     <xi:include href="V2/tei/dissPoems.xml"/>
+    <xi:include href="V2/tei/criticalDiss.xml"/>
+    </group>
+
+   </text>
+   <!-\- end vol2 -\->
+  </group>
+ </text>
+--></text>
+</TEI>
